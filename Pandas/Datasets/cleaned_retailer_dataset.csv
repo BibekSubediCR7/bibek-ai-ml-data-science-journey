@@ -1,0 +1,2412 @@
+,order_id,customer_id,product_name,brand,raw_weight,country,order_date,unit_price
+0,REC-861088,6120,perly,perly,100,morocco,2024-02-22,13
+1,REC-900952,12550,prince got chocolat,lu,300,algeria,2024-11-13,1
+2,REC-595965,6705,excellence noir prodigieux  cacao,lindt excellence,100,argelia,2025-02-02,12
+3,REC-942653,8645,tonik,عربي,22,maroc,2024-12-11,14
+4,REC-885998,14430,ssame,gerblé,230,belgium,2025-08-21,18
+5,REC-674324,6760,,j. d. gross,125,austria,2024-09-08,19
+6,REC-867660,8420,cristaline eau de source l,cristaline,500,belgium,2024-10-10,3
+7,REC-448132,9144,henrys,henry's,42,maroc,2024-12-30,17
+8,REC-202400,10397,milk chocolate bar,unknown,150,algeria,2024-08-04,11
+9,REC-386572,13888,organic  dark chocolate bar,green & black's,90,france,2025-10-15,12
+10,REC-965916,6325,sable coco henry s g,unknown,42,maroc,2024-07-02,2
+11,REC-735024,8672,biscuits croquants au coeur onctueux de nutella,nutella,304,francia,2024-12-11,10
+12,REC-866242,13720,tartine croustillante authentique,wasa,275,france,2024-12-16,6
+13,REC-167785,6250,excellence noir intense  cacao,lindt,100,algérie,2024-10-26,1
+14,REC-625106,12696,lightly sea salted crisps,tyrrell's,150,france,2024-09-16,1
+15,REC-399127,6000,dark chocolate,green and black,90,belgium,2025-09-11,19
+16,REC-506660,10724,excellence noir puissant  cacao,lindt,100,autriche,2024-12-09,14
+17,REC-323330,14542,fourrs chocolat noir,bjorg,225,france,2024-08-12,22
+18,REC-726018,6965,extra dark  cocoa,fin carré,100,belgium,2025-05-26,23
+19,REC-799477,13302,fibres,wasa,230,belgique,2025-03-19,6
+20,REC-169584,14120,henrys,henry’s,85,maroc,2024-07-02,4
+21,REC-925173,6135,momo black,excelo,36,maroc,2024-10-30,22
+22,REC-898017,12257,tuc original,mondelēz,100,austria,2026-01-19,12
+23,REC-739815,7944,extra fine dark chocolate,lindt & sprüngli,100,australie,2024-03-13,12
+24,REC-992581,8248,eyoo cover,excelo,52,morocco,2025-11-16,18
+25,REC-392117,12134,tartines craquantes au sarrasin imp,ekibio,160,belgium,2025-12-09,9
+26,REC-337268,14038,pomme   noisette,gerblé,230,belgium,2025-05-31,15
+27,REC-974515,12699,trios,aperitivos company,20,spain,2026-01-06,24
+28,REC-953482,13960,edelbitter  cacao,j. d. gross,125,de,2025-06-30,5
+29,REC-212346,13782,crunchy oatshoney,nature valley,42,bélgica,2024-05-25,4
+30,REC-416664,6670,figue  son,gerblé,210,belgique,2024-11-22,17
+31,REC-205333,10008,bitter extra kraftig,lindt,50,australia,2024-11-27,2
+32,REC-503724,7289,nestl dessert,nestlé,205,belgium,2024-10-21,12
+33,REC-499346,14145,pains au lait x,pasquier,350,belgique,2024-04-08,22
+34,REC-668408,14519,chocolat au lait,milka,100,algeria,2024-11-01,6
+35,REC-400480,14530,brioche tranche bio g,unknown,400,france,2024-11-13,3
+36,REC-837122,14656,lidl organic dark chocolate,lidl,100,belgique,2024-07-10,12
+37,REC-955005,10000,mix di frutta secca,alesto,200,france,2025-05-19,19
+38,REC-538001,13364,excellence noir subtil doux  cacao,lindt excellence,100,australia,2024-07-21,20
+39,REC-900195,13320,la gche tranche,unknown,500,france,2025-08-04,11
+40,REC-570097,7969,sour cream  onion,pringles,165,algieria,2024-10-16,20
+41,REC-180568,5233,chocolat noir  cacao,dark excellente,100,morocco,2025-11-02,8
+42,REC-630706,8436,granola loriginal,lu,200,belgique,2025-11-20,12
+43,REC-326111,12644,cracotte crales compltes,lu,250,belgium,2024-05-06,23
+44,REC-218223,7913,dark chocolate,tesco finest,100,united kingdom,2025-07-05,24
+45,REC-754969,6085,pringles sare,pringles,165,armenia,2024-07-27,2
+46,REC-528239,12090,wasa,barilla,270,france,2025-04-10,18
+47,REC-540990,14397,henrys sable coco biscuit g,henrys,85,maroc,2025-08-06,12
+48,REC-956271,13610,cracotte,lu,7,belgië,2025-01-24,24
+49,REC-440963,6157,biscuit raisins,unknown,270,france,2024-06-09,16
+50,REC-116337,12524,nutri avoine chocolat,bjorg,130,france,2024-03-15,1
+51,REC-653437,12486,got chocolat,bn,285,belgium,2025-09-04,4
+52,REC-786266,10600,digestives,mcvitie's,360,france,2025-04-03,15
+53,REC-650994,6007,harrys brioche tressee nature au sucre perle sans additifs g,harrys,500,france,2025-11-06,12
+54,REC-981280,12427,protein cacahuetes  chocolat,nature valley,160,belgium,2026-02-01,3
+55,REC-649864,10711,figolu,lumondelez,192,france,2025-03-11,2
+56,REC-745146,9008,krit krititas galletas saladas,cuétara,350,israel,2024-08-27,1
+57,REC-980028,11685,crunchy avoine et miel,nature valleygeneral mills,210,france,2025-04-29,8
+58,REC-918887,11878,biscuit lait chocolat,gerblé,230,belgium,2024-12-24,12
+59,REC-854220,9266,toffifee,süßigkeiten,125,germany,2024-09-28,13
+60,REC-321774,13910,crunchy avoine  chocolat noir x  x  barres de  g,general mills,210,france,2025-07-22,20
+61,REC-770550,12930,cookie cacao ppites sans sucre,unknown,130,belgique,2025-09-29,22
+62,REC-570975,13801,dark milk chocolate,tesco,100,united-kingdom,2025-12-27,24
+63,REC-347253,13159,petit djeuner miel et ppites de chocolat,belvita,435,belgium,2025-03-15,7
+64,REC-374982,7072,sabls anglais loriginal,mcvitie's,400,france,2024-11-30,19
+65,REC-833121,6028,excellence noir cors  cacao,lindt,100,australia,2025-04-28,23
+66,REC-484365,9681,,pringles,165,bulgaria,2024-02-07,2
+67,REC-204232,8249,brioche moins de sucre,harrys,485,france,2025-04-30,8
+68,REC-818095,14040,lentil and pea cakes with beetroot and balsamic flavour seasoning,kallo,122,united kingdom,2025-02-09,7
+69,REC-553814,14094,pringles original,kellogg's,165,belgium,2025-07-04,3
+70,REC-996953,5970,fourrs chocolat au lait,bjorg,225,france,2024-07-18,11
+71,REC-767742,12401,pringles,unknown,40,bélgica,2024-02-25,22
+72,REC-498811,7623,digestive avena choco,unknown,425,portugal,2024-02-23,12
+73,REC-946193,10839,g c or noir noisette,côte d’or,180,algérie,2025-02-17,9
+74,REC-662711,12233,raffaello,ferrero,150,bulgaria,2025-07-15,12
+75,REC-991303,7760,barres de fruits secs  noix myrtilles,nakd.,140,bélgica,2024-09-05,3
+76,REC-562005,6118,tagger,bimo,22,morocco,2024-08-08,3
+77,REC-802740,13691,goter s saveur pommes,gerblé,360,france,2024-03-11,10
+78,REC-723751,14512,wheat biscuits,tesco,48,united kingdom,2025-11-29,8
+79,REC-379767,11844,protein cocoa hazelnut bars,nakd,135,bélgica,2024-10-12,1
+80,REC-994160,11794,th  biscuits,lu,350,france,2025-04-07,2
+81,REC-607612,8211,petites madeleines,st michel,500,france,2025-06-25,7
+82,REC-331169,9169,goter ppites de chocolat,unknown,3,belgium,2025-09-28,1
+83,REC-130025,8900,sea salt  cider vinegar chips,unknown,150,france,2024-10-10,17
+84,REC-219484,5608,prncipe crema de chocolate,lu,300,francia,2025-03-21,14
+85,REC-480927,14848,kinder bueno white,kinder,39,belgique,2025-09-21,19
+86,REC-392540,6866,napolitain loriginal,lu,180,france,2025-11-10,24
+87,REC-958052,13313,petits fours financiers,unknown,500,france,2025-09-29,12
+88,REC-151159,12792,biscuits pavot citron,gerblé,200,france,2025-10-20,11
+89,REC-287331,14177,the original crunchy rye breads,ryvita,250,united kingdom,2026-01-18,17
+90,REC-904456,7274,pringles original,unknown,165,bélgica,2025-09-15,4
+91,REC-561658,8242,blueberry muffin myrtilles,nakd,4,france,2024-05-16,5
+92,REC-884876,8901,merendina big,bimo,52,morocco,2025-05-21,8
+93,REC-221353,9692,belvita original petitdjeuner miel et ppites de chocolat,lu,440,belgium,2024-04-04,21
+94,REC-279860,11879,vritable petit colier chocolat au lait,unknown,150,algeria,2025-11-09,11
+95,REC-996817,10003,galletas fibra zero azcares,gullón,170,portugal,2024-09-27,13
+96,REC-160782,9873,caramelised popcorn seasoned with sea salt,proper,28,belgium,2024-08-02,4
+97,REC-221530,8033,edelbitter mild,unknown,125,belgium,2025-08-23,2
+98,REC-183716,12748,vritable petit beurre pocket,lu,300,belgium,2025-11-15,11
+99,REC-878584,11980,chips de lentilles saveur fines herbes,unknown,85,france,2025-07-31,1
+100,REC-777037,13194,chocolat noir equateur bio,j.d. gross,100,france,2024-09-16,7
+101,REC-762689,9488,biscuit complet au germe de bl,gerblé,210,france,2024-05-10,3
+102,REC-789279,9528,milka galette choco,lu,260,france,2025-05-23,12
+103,REC-188975,5634,multigrain crispbread,ryvita,250,france,2025-10-15,23
+104,REC-476256,8438,tartines craquantes sarrasin,céréal bio,145,france,2025-03-16,12
+105,REC-337130,14724,excellence noir  la pointe de fleur de sel,lindt,100,france,2025-01-07,13
+106,REC-415413,5434,nakd cacahutes  g xp,nakd.,140,belgium,2025-04-14,12
+107,REC-599217,6506,cream crackers,unknown,300,france,2026-01-10,14
+108,REC-693740,12990,brioche tranche recette classique,harrys,485,france,2024-03-09,21
+109,REC-195486,11785,sweet  salty nut chocolat noir et mlange de noix,unknown,150,belgium,2025-02-24,6
+110,REC-516677,9726,cheese oatcakes,nairn's,200,france,2024-10-28,11
+111,REC-146982,12015,dark chocolate,fin carré,100,finland,2026-01-29,17
+112,REC-239925,12675,wholegrain wheat bixies,crownfield - lidl,720,ireland,2025-01-18,9
+113,REC-109693,9652,granola lu,lu,184,france,2024-10-18,1
+114,REC-441235,14293,cuites au four nature,lay’s,130,belgium,2024-09-08,12
+115,REC-176522,5950,sour cream  onion chips,pringles,185,france,2025-09-29,11
+116,REC-145901,9071,belvita brut   crales compltes,lu,400,belgique,2024-07-18,24
+117,REC-360302,11499,chocolate negro  cacao,j. d. gross,125,francuska,2026-01-08,2
+118,REC-633933,10355,goter aux raisins,gerblé,360,belgique,2024-03-28,8
+119,REC-187987,6562,pringles sour cream  onion,pringles,40,austria,2024-10-22,23
+120,REC-307690,13557,granola loriginal gros clats de chocolat,granola,276,france,2025-01-16,5
+121,REC-921480,8300,milk chocolate with honey and almond nougat,toblerone,100,argelia,2024-04-06,22
+122,REC-715337,14087,organic milk chocolate,green & black's,90,united kingdom,2024-06-17,22
+123,REC-195153,7641,noir extra,poulain,100,france,2026-01-26,23
+124,REC-550594,9230,le cookie chocolat noisette,bjorg,200,frankreich,2024-06-03,17
+125,REC-598496,6586,tonik,bimo,121,france,2025-01-07,21
+126,REC-469768,8105,tartines crales g,la boulangère,450,france,2026-01-05,12
+127,REC-825324,7206,spofy,henry's,50,france,2024-11-20,16
+128,REC-967946,8890,galettes st michel au beurre x  g,st michel,130,belgien,2024-05-13,10
+129,REC-306391,8081,bn  casse croute biscuits,bn,400,france,2024-10-01,1
+130,REC-518782,13160,goter aux corces confites,gerblé,360,francia,2025-11-15,5
+131,REC-994456,14348,,j.d. gross,125,bulgarie,2024-11-27,13
+132,REC-245946,5600,milka tablette noisette,milka,100,algeria,2025-07-28,18
+133,REC-986860,14640,sabl saveur coco,gerblé,132,belgique,2025-03-16,13
+134,REC-253786,8062,moelleux chocolat,belvita,250,belgique,2024-04-25,16
+135,REC-940169,14012,capri choco,unknown,45,ma,2025-02-27,12
+136,REC-908189,12873,ferrero rocher,ferrero,375,algérie,2024-12-23,24
+137,REC-722929,11952,noir degustation  caramel,j. d. gross,125,france,2024-08-01,1
+138,REC-215654,9846,excellence noir dlicat doux  cacao,lindt excellence,100,austria,2024-05-21,20
+139,REC-107243,11322,la madeleine pur beurre,bonne maman,300,france,2025-05-21,16
+140,REC-662848,7254,blueberry muffin raw fruit  nut bar,nākd,35,united kingdom,2024-08-31,20
+141,REC-184393,14014,oreo original,oreo,154,austria,2024-10-15,13
+142,REC-317612,6203,benco original,benco,400,france,2024-12-05,1
+143,REC-421289,10212,pringles sour cream,pringles,165,bélgica,2024-04-07,18
+144,REC-525010,10985,pelotazos futebolas,cheetos,32,france,2024-04-13,2
+145,REC-425933,11633,apple  raisin oat bars,deliciously ella,3,france,2024-02-21,12
+146,REC-958697,8352,crunchy oats and dark chocolate,unknown,42,belgique,2025-05-12,9
+147,REC-137198,9309,nutri avoine complet,bjorg,130,france,2024-06-27,12
+148,REC-384172,10530,cuetara digesta light g marie cookies,unknown,200,france,2025-10-20,6
+149,REC-394564,14380,cacao,lactel,39,belgique,2026-01-17,7
+150,REC-483457,9297,chip choco zero sin azcares,gullón,125,portugal,2025-04-29,12
+151,REC-613302,12237,gingembre saveur citron,gerblé,132,france,2025-11-22,24
+152,REC-756048,10104,kinder country,kinder,211,autriche,2024-08-18,19
+153,REC-731114,7998,sweet  salty popcorn,proper corn,14,united kingdom,2025-09-21,16
+154,REC-881552,13965,gocciole classiche pav  gr,pavesi,500,belgium,2025-10-27,17
+155,REC-687196,7075,protein caramel sal cacahutes,nature valley,160,france,2025-08-17,17
+156,REC-542590,8875,cocoa  dark chocolate,moser roth,125,united kingdom,2025-07-01,18
+157,REC-447906,6547,noir equitable  prou,alter eco,100,belgium,2025-07-31,1
+158,REC-187921,5654,nutella,ferrero,825,deutschland,2024-07-04,13
+159,REC-272094,5174,oatibix,unknown,24,france,2024-07-02,13
+160,REC-477529,14784,kinder cards,ferrero,128,belgien,2025-12-17,10
+161,REC-563532,9187,petites madeleines ppites chocolat,st michel,400,france,2025-08-31,11
+162,REC-172405,5318,pains au lait frais bio g,unknown,280,france,2025-02-20,21
+163,REC-601917,6223,single origin milk chocolate,marks & spencer,100,france,2025-01-06,21
+164,REC-542762,6066,petit cookies ppites de chocolat,bonne maman,250,belgium,2024-07-17,5
+165,REC-600233,8833,petit colier chocolat noir pur beurre de cacao,lu,150,canada,2024-08-28,6
+166,REC-120129,10797,sweet  salty popcorn,proper corn,84,united kingdom,2024-05-06,3
+167,REC-614314,11805,cocoa vanilla oat boosts,graze,4,france,2024-07-20,14
+168,REC-151525,5140,megachok,arluy,500,france,2024-05-28,18
+169,REC-217744,7396,cranberry saveur amande,gerblé,132,frankrijk,2025-05-12,9
+170,REC-737686,10860,biscuits  graines kasha,unknown,132,france,2024-08-01,21
+171,REC-310932,14834,chocolat noir  madagascar,ethiquable,100,france,2025-04-19,7
+172,REC-343699,13161,vritable petit beurre,lu,200,france,2024-07-26,19
+173,REC-799646,10029,sabls chocolat,mcvitie's,300,france,2025-04-07,1
+174,REC-452768,9793,nakd protein  cacao noisette  g xp,nakd,45,france,2024-07-03,12
+175,REC-734503,14206,kinder bueno,kinder,43,algérie,2024-12-31,10
+176,REC-616790,14425,shortbread fingers,walker’s,160,united kingdom,2025-09-16,1
+177,REC-519560,7176,chips saveur fromage du jura,brets,125,france,2024-10-24,21
+178,REC-876426,12754,top cookies,excelo,28,morocco,2025-01-16,12
+179,REC-335372,13315,fine milled oatcakes,nairn's,218,frankrijk,2024-12-20,4
+180,REC-824167,8454,chips de lentilles saveur tomate mozza,unknown,85,france,2025-11-14,7
+181,REC-109243,7429,milka oreo,milka oreo,25,france,2025-06-08,2
+182,REC-222245,8897,chocolate negro,carrefour bio,100,belgium,2025-03-28,9
+183,REC-603051,7517,cocoa orange,nakd,35,royaume-uni,2025-08-06,16
+184,REC-147698,13137,savane,brossard,310,france,2024-07-02,21
+185,REC-909087,14717,nutabella,unknown,900,morocco,2024-07-25,18
+186,REC-659364,13462,absolute black dark chocolate,montezuma's,90,españa,2025-03-30,7
+187,REC-194215,6870,flash wondermint gum,flash,5,france,2024-07-23,17
+188,REC-801190,13662,biscuits mega duo imp,gullón,500,francia,2025-12-15,7
+189,REC-531273,9147,cooky,be,100,morocco,2024-12-22,10
+190,REC-426965,14311,dark chocolate chip oat biscuits,nairn's,200,france,2024-06-21,1
+191,REC-412341,14101,g lt noisette cote d or,côte d'or,180,algeria,2025-02-23,10
+192,REC-842128,14185,dark chocolate,tesco finest,100,united-kingdom,2025-05-06,12
+193,REC-513271,10123,merci finest selection assorted chocolates,storck,250,austria,2024-06-15,13
+194,REC-901924,5988,lotus biscoff speculoos original  g xg,lotus bakeries,250,belgium,2025-10-22,6
+195,REC-738096,8362,noir  intense,unknown,100,belgique,2025-02-21,23
+196,REC-554502,11920,biscuits germe de bl et ppites de chocolat,lidl,200,france,2024-03-16,4
+197,REC-932547,13331,nakd peanut butter protein bar,nakd,3,france,2024-05-02,16
+198,REC-225200,13078,fine  gourmande noir,fine gourmande,100,france,2025-08-05,17
+199,REC-700756,6550,barre crales protines peanut chocolat,nature valley,160,bélgica,2025-05-22,3
+200,REC-215776,13213,cracotte chocolat,lu,200,belgique,2025-09-15,8
+201,REC-528518,12571,tortilla nachips original,old el paso,185,austria,2025-12-19,12
+202,REC-411150,6118,nut  fruit mix classic,alesto,200,bulgarie,2025-04-13,3
+203,REC-740006,14976,baiocchi nocciola g,barilla,260,france,2026-01-18,1
+204,REC-786767,11518,table water,carr's,125,france,2025-03-02,4
+205,REC-546635,8778,biscoff,unknown,250,armenien,2025-09-16,11
+206,REC-140146,5570,bready  pices,ferrero,132,bélgica,2025-01-10,10
+207,REC-594620,8463,cheese  onion flavour potato crisps,walkers,25,united kingdom,2025-05-19,7
+208,REC-116922,7404,pims sinaasappel,lu,150,belgique,2025-05-03,17
+209,REC-307325,5909,dark chocolate nuts  sea salt bars,kind,3,gb,2025-07-27,19
+210,REC-147375,13240,noir intense dessert,lindt,200,france,2026-01-27,5
+211,REC-255248,6169,biscuits soja figue,gerblé,270,belgique,2024-10-30,5
+212,REC-477166,11681,cream crackers,tesco,300,france,2024-09-01,15
+213,REC-984645,13750,le petit gerbl nature,gerblé,200,fr,2024-11-20,11
+214,REC-637099,10108,bastogne,lu,260,france,2024-04-02,24
+215,REC-872243,7122,g ferrero rocher tablette lt,ferrero rocher,90,belgium,2025-05-18,20
+216,REC-891221,7883,noix de cajou  cranberries,alesto,200,belgique,2025-08-27,12
+217,REC-668354,5029,chamonix,lu,250,france,2024-03-18,12
+218,REC-163360,12757,twix twin,mars wrigley,50,belgium,2024-08-28,2
+219,REC-817759,11291,after eight coffret g,nestlé,300,belgium,2026-01-03,12
+220,REC-919628,7157,cookie chocolat saveur noisette sans sucres,gerblé,130,france,2024-11-07,16
+221,REC-653547,11328,napolitain,aiguebelle,4,morocco,2024-06-07,2
+222,REC-124019,10597,biscuit chocolat saveur amande,gerblé,200,francia,2024-08-31,12
+223,REC-234442,14276,sabl ssame saveur vanille   gerbl sans sucres,gerblé,132,france,2025-08-21,4
+224,REC-224813,11208,gerbl  sabls sans sucres saveur citron et yuzu,unknown,132,belgique,2024-11-17,23
+225,REC-886778,8143,ferrero rocher x,ferrero,200,dänemark,2024-09-12,13
+226,REC-222243,8407,fakiat barbeque,leader food,18,france,2025-09-15,5
+227,REC-956956,13224,sticks et bretzels dalsace,dr. oetker,300,france,2025-02-11,12
+228,REC-565596,12121,sea salt  balsamic vinegar crisps,kettle,130,ireland,2024-03-27,4
+229,REC-468646,11217,excellence noir orange intense,lindt,100,canada,2025-08-19,22
+230,REC-706461,6671,croustison miel ssame,gerblé,200,france,2025-03-29,21
+231,REC-258452,6678,pringles hot  spicy,pringles,165,croatie,2025-04-07,12
+232,REC-391937,10925,sea salted,seabrook,6,united kingdom,2025-04-10,12
+233,REC-541786,12292,kinder dlice pack,kinder,390,france,2026-02-04,18
+234,REC-787344,8824,lemon blueberry oat boosts,graze,4,gb,2025-08-19,6
+235,REC-452636,5813,bimo,merendina,36,morocco,2025-03-02,12
+236,REC-431929,10622,kinder chocolate,kinder,50,algérie,2024-05-25,14
+237,REC-420462,11667,cuor di cereale,galletas gullon,300,bulgaria,2025-01-03,12
+238,REC-276469,9429,milk chocolate,tony's chocolonely,180,united kingdom,2024-09-26,1
+239,REC-110488,12529,smoky barbecue crunch,graze,100,united kingdom,2025-01-22,12
+240,REC-278242,14213,sabl nature sans sucres,gerblé,132,france,2025-02-28,20
+241,REC-304978,5948,break chocolate fingers,break,31,lebanon,2024-11-29,15
+242,REC-938382,10480,gifflar cannelle,pågen,260,francia,2026-02-03,23
+243,REC-752253,8165,gaufres miel,bjorg,175,croatia,2025-12-24,12
+244,REC-668825,9445,veg crisps,tyrrell's,125,france,2025-10-29,10
+245,REC-714142,7706,top cookies original,excelo,32,morocco,2024-06-04,3
+246,REC-155683,14201,tartines craquantes froment,maître jean pierre,250,belgië,2025-12-07,16
+247,REC-614633,11197,cacao noir,carrefour,80,france,2025-03-30,4
+248,REC-810541,10650,peanut delight,nākd,4,royaume-uni,2024-03-11,14
+249,REC-891439,8216,kinder kinderini,ferrero,250,france,2026-01-02,7
+250,REC-828436,12339,buscalios,risi,35,francia,2025-10-13,22
+251,REC-405146,5025,peanuts roasted  salted,alesto,250,belgique,2025-02-08,21
+252,REC-419555,14119,roudor,st michel,150,france,2024-03-31,1
+253,REC-885496,9271,tartined craquantes chtaigne,jardin bio,150,france,2025-02-10,5
+254,REC-749206,14466,kitkat,nestlé,36,ma,2024-04-28,12
+255,REC-432435,12770,crunchy,be,34,maroc,2025-09-12,8
+256,REC-503925,8359,chips recette paysanne nature,lays,155,france,2025-03-18,17
+257,REC-801714,12355,fine milled oatcakes,nairn's,4,united kingdom,2024-08-29,9
+258,REC-789642,14617,prince multicrales got chocolat au bl complet,unknown,293,france,2025-09-24,7
+259,REC-501122,8459,nutella biscuits fergulf,ferrero,166,france,2025-10-28,2
+260,REC-425316,8036,pringles paprika,unknown,40,franța,2025-09-25,20
+261,REC-673861,8907,chocolate for change single origin  cocoa dark chocolate,coop,100,united kingdom,2024-04-26,4
+262,REC-975360,8850,pain au lait bio x g,la boulangère,420,france,2026-01-26,5
+263,REC-610460,8398,protein salted caramel nut,unknown,40,france,2024-11-08,7
+264,REC-403782,7698,lu  grany pommes,lu,125,france,2026-01-24,24
+265,REC-777889,11571,pims  framboise,lu,150,belgique,2024-12-31,5
+266,REC-378766,14247,galleta ligera sin sal y sin azcar,gullón,80,francia,2025-02-13,12
+267,REC-327239,13402,paahdettu maaphkin,alesto,200,france,2024-06-30,3
+268,REC-326397,9991,chocolat noir  quateur intense et floral,ethiquable,100,france,2025-10-27,16
+269,REC-690278,14683,chocolate negro  cacao,hacendado,100,españa,2024-12-07,3
+270,REC-102120,7648,milk chocolate,fin carré,100,bulgaria,2024-09-16,6
+271,REC-688832,10581,dunkle schokolade mit ganzen haselnssen,fin carré,100,belgium,2025-05-31,22
+272,REC-291490,12382,biscuits fourrs aux framboises,unknown,175,france,2025-12-15,19
+273,REC-740623,7606,mms peanut,mars wrigley,330,belgium,2025-03-31,21
+274,REC-247388,9226,oregano crostini italian bread bites,crosta & mollica,150,france,2024-09-14,16
+275,REC-118961,6135,oat biscuits,unknown,200,new zealand,2024-12-30,3
+276,REC-348747,6106,excellence  la pointe de fleur de sel noir,lindt,100,bélgica,2025-04-20,12
+277,REC-451588,6932,moelleux chocolat noix,unknown,138,france,2024-02-22,9
+278,REC-933861,6676,ovomaltine crunchy,ovo maltine,360,belgium,2024-10-16,12
+279,REC-985358,10037,chocolat bio noir,côte d'or,90,belgique,2025-06-10,12
+280,REC-447978,8413,crunchy cereal bars made with whole grain rolled oats and honey,nature valley,420,france,2025-12-10,9
+281,REC-783284,10364,cookies chocolate chip,sondey,225,francia,2025-02-12,2
+282,REC-159182,10578,love,unknown,115,gb,2024-07-15,20
+283,REC-312884,6758,digestive,hacendado,400,españa,2025-09-04,9
+284,REC-417952,12417,genova  double creme,unknown,38,morocco,2025-05-09,4
+285,REC-867395,10685,madagascar dark chocolate tummasuklaa,preferred selection,100,czech republic,2024-07-03,9
+286,REC-597548,12785,mini bn chocolat,bn,175,belgique,2025-04-24,12
+287,REC-154012,12482,biscuit fondant choco noir sans sucres ajouts,gerblé,126,francia,2025-06-23,11
+288,REC-245493,8880,baguettes viennoises g,la boulangère,340,france,2024-07-04,7
+289,REC-550722,5410,vritable petit colier pocket chocolat au lait,lu,250,france,2025-12-15,15
+290,REC-405850,13531,shortbread fingers,paterson's,20,spain,2025-11-29,11
+291,REC-758625,11017,cioccolato fondente,fin carre,200,italy,2024-10-28,5
+292,REC-633365,5484,chips sel de mer et poivre noir,tyrrell’s,150,france,2025-06-04,15
+293,REC-613708,9966,nestl dessert noir g,unknown,205,france,2024-12-15,3
+294,REC-793167,6407,corn thins original,real foods,150,australia,2025-07-21,2
+295,REC-914211,14067,marmite crunch,graze,100,france,2024-07-27,22
+296,REC-236097,12806,the original cracker,ritz bakery,200,united kingdom,2025-12-22,16
+297,REC-537240,7407,msli oat biscuits,emco,60,france,2025-11-25,12
+298,REC-346552,9023,ginger  cocoa bar,green & black's,90,spain,2024-04-27,12
+299,REC-787632,11920,barbecue lentil chips,proper,85,united kingdom,2024-11-23,4
+300,REC-473925,7936,lu  grany chocolate  cereals bar x,lu,125,france,2025-06-16,14
+301,REC-477514,11188,kinder riegel einzelpackung,ferrero group,100,belgium,2025-05-08,6
+302,REC-528664,10267,just snax tortilla chips,sainsbury's basics,200,united kingdom,2026-01-26,11
+303,REC-887059,7787,hazelnut,deliciously ella,3,united kingdom,2024-08-23,10
+304,REC-756881,6573,bonne maman  quatre quarts,bonne maman,500,francia,2024-06-14,5
+305,REC-436222,12499,chips saveur sel  vinaigre,unknown,125,croatie,2025-08-07,19
+306,REC-594096,13112,la paille dor aux framboises,lu,170,france,2024-03-09,22
+307,REC-953953,13647,choco wafer,milka,180,belgique,2025-04-06,12
+308,REC-162742,12477,musli oat biscuits blueberry,emco,60,france,2024-11-07,17
+309,REC-404794,8005,lightly salted potato chips,kettle,25,gb,2025-06-21,4
+310,REC-411911,6538,palmito loriginal,lu,100,belgique,2025-06-03,12
+311,REC-709714,9026,curly cacahute loriginal,unknown,160,canada,2025-08-21,4
+312,REC-142011,11614,salt and vinegar flavour potato crisps,walkers,25,united kingdom,2026-01-15,17
+313,REC-450859,14600,chocolat noir bio,côte d'or,90,belgium,2025-05-14,10
+314,REC-899654,7650,chips sea salt  cider vinegar,tyrrels,150,france,2024-12-01,19
+315,REC-637476,10477,ready salted crisps,tesco finest,150,united kingdom,2024-07-06,16
+316,REC-940651,10035,all butter shortbread fingers,tesco,210,gb,2024-12-02,10
+317,REC-550308,7241,petites madeleines,st michel,1,france,2025-01-22,12
+318,REC-269908,12654,dark chocolate,moser roth,25,gb,2024-06-27,5
+319,REC-904498,6405,milk single origin chocolate,waitrose,100,united kingdom,2024-07-23,4
+320,REC-704624,11348,snack popp th,too goodfrance,85,frankrijk,2024-02-23,22
+321,REC-117145,6566,crackerbread,ryvita,200,france,2025-06-17,8
+322,REC-528594,13701,carres graines pepites de chocolat,lidl,140,frankrijk,2025-01-06,15
+323,REC-646271,10486,chips de lentilles saveur oignons caramliss,vico,85,france,2024-09-07,7
+324,REC-323617,8422,excellence noir caramel  la pointe de sel,lindt,100,france,2025-07-22,3
+325,REC-330558,11609,kinder pinguin,kinder,240,france,2025-06-17,22
+326,REC-243290,5811,gerbl cacao crales,gerblé,160,francia,2025-01-07,17
+327,REC-561962,10725,noir amandes entires,côte d'or,180,france,2024-06-11,10
+328,REC-684507,7706,milk caramel sea salt chocolate,tony's chocolonely,180,united kingdom,2024-09-22,12
+329,REC-724820,12941,raffaello  confetteria  kokos  mandelcreme,ferrero,90,bulgaria,2025-09-21,24
+330,REC-449605,10319,chocolate chip oat biscuit breaks,nairn’s,160,czech republic,2025-02-17,19
+331,REC-949874,10721,milk chocolate nut,fin carre,100,bulgaria,2025-09-20,18
+332,REC-859685,8583,lindt excellence dark orange intense,lindt,100,ประเทศออสเตรีย,2024-03-05,17
+333,REC-522487,6246,tyrrells sweet chilli  red pepper,tyrrell’s,150,france,2024-05-13,12
+334,REC-157991,9251,brioche tranche nature ss additif,harrys,680,france,2026-01-30,18
+335,REC-441880,13367,pringles,pringles,175,frankrijk,2025-04-23,14
+336,REC-220764,12019,tortilla chips,tesco,200,isle of man,2024-07-24,23
+337,REC-274859,11967,chvre piment despelette,bret's,125,france,2024-07-22,3
+338,REC-487510,11203,raffaello,ferrero,230,austria,2024-08-25,5
+339,REC-289254,13814,raw fruit  nut bar,nakd,35,royaume-uni,2025-11-07,22
+340,REC-830455,7199,nestl dessert  absolu g,nestlé,170,france,2025-11-24,2
+341,REC-675513,12219,tosta rica,cuétara,570,france,2025-05-17,3
+342,REC-894378,9551,crunchy canadian maple syrup,nature valley,210,francia,2025-11-30,15
+343,REC-712691,12721,bio crackers,lidl,200,frankrijk,2025-01-22,22
+344,REC-741000,9144,mcvities rich tea biscuits,mcvitie's,300,united kingdom,2024-03-01,22
+345,REC-253952,13821,baiocchi nocciola snack mb,barilla,336,france,2024-03-29,3
+346,REC-560612,12280,intense dark chocolate  cocoa solids,marks & spencer,100,france,2025-05-19,5
+347,REC-377992,13367,tartines craquantes multicrales,céréal bio,145,france,2024-11-23,19
+348,REC-766839,11640,chocolat au lait feuillet caramel,poulain,95,france,2024-11-14,5
+349,REC-400914,6909,chocolate negro  azcares aadidos  cacao,unknown,100,spain,2024-12-14,2
+350,REC-952850,14781,chips de sarrasin au sel de guerande,brets,120,france,2024-03-09,18
+351,REC-698801,10404,bn  strawberry cookies,bn,285,bélgica,2024-06-12,6
+352,REC-555333,10657,baked sea salt,walkers,6,united kingdom,2024-10-09,20
+353,REC-692545,13969,salt and vinegar flavour rice and corn cakes,unknown,117,united kingdom,2025-11-11,15
+354,REC-224080,10303,scottish rough oatcakes,savour bakes,250,united kingdom,2025-04-04,22
+355,REC-155289,10861,itri choco,unknown,32,morocco,2025-03-10,12
+356,REC-757953,10560,pains au lait frais sans sucres ajouts g,la boulangère,350,france,2025-06-10,16
+357,REC-115392,13265,pomme de terre nature,unknown,155,fr,2025-09-17,14
+358,REC-892352,7611,all butter shortbread fingers,tower gate,210,czech republic,2025-08-31,22
+359,REC-494805,13387,curly cacahuete,curly,100,france,2025-03-10,12
+360,REC-700666,5519,mms cacahutes  pack familial,m&m's,550,france,2024-08-02,1
+361,REC-315153,11263,crunchy avoine  fruits rouge  x  g,unknown,210,france,2025-02-15,12
+362,REC-483324,12448,digestive zero sin azcares,gullón,400,andorra,2026-01-06,12
+363,REC-212204,12863,hazelnut butter dark chocolate,hu,60,spain,2024-09-07,12
+364,REC-540997,9547,chips nature,lay's,135,fr,2025-06-15,10
+365,REC-159098,5660,brioche tranche,maître jean pierre,500,france,2025-01-25,12
+366,REC-154990,7787,framboise intense,lindt,100,australien,2024-10-12,12
+367,REC-205019,10957,petits coeurs chocolat,kraft foods,125,france,2025-01-16,12
+368,REC-448241,10128,le sabl pur beurre,unknown,125,france,2024-06-30,4
+369,REC-402691,13147,schokobons,kinder,200,autriche,2025-05-26,21
+370,REC-501265,13534,mara dorada,hacendado,400,portugal,2025-06-01,7
+371,REC-132229,9786,belvita original petit djeuner ppites de chocolat,lu,300,belgique,2025-10-12,17
+372,REC-693525,12459,walkers ready salted crisps pk,walkers,150,united kingdom,2025-12-21,12
+373,REC-928352,7317,berry delight bars,nakd,140,belgium,2024-09-22,14
+374,REC-771515,9509,pombear potato snacks,kp snacks,13,united kingdom,2025-03-07,23
+375,REC-503591,5684,organic sesame biscuits,biscuiterie de l'abbaye,170,france,2025-12-30,14
+376,REC-183457,12235,excellence lait extra fondant,lindt,100,france,2024-09-09,12
+377,REC-620581,14477,fourr cacao sans sucres,gerblé,185,francia,2025-05-06,11
+378,REC-734098,13212,kinder maxi,ferrero,231,belgium,2024-07-26,1
+379,REC-241923,10558,lentil chips  sea salt flavour,eat real,113,united kingdom,2025-02-05,18
+380,REC-885440,14660,vegetable chips,deluxe,100,czech republic,2024-07-06,3
+381,REC-693147,7455,mon cherie,unknown,315,austria,2024-07-21,19
+382,REC-213879,14019,top original,unknown,56,morocco,2024-02-16,5
+383,REC-532547,8179,chips saveur poulet brais,unknown,125,france,2024-06-05,8
+384,REC-273703,12815,petit djeuner chocolat,belvita,600,belgique,2024-07-29,21
+385,REC-945353,9689,biscuits nutella bready x gaufrettes fourres,ferrero,330,france,2025-08-17,20
+386,REC-628376,12803,delichoc milk chocolate cookies,delacre y,150,france,2024-02-24,20
+387,REC-573722,9580,breaksta,tiffany,13,qatar,2025-05-24,12
+388,REC-669569,8846,cream crackers,unknown,300,united kingdom,2025-10-06,20
+389,REC-332005,5142,schokobons,kinder,225,france,2025-04-07,21
+390,REC-661603,7838,chocolate extrafino  noir  azcares aadidos,trapa,80,spain,2025-11-08,24
+391,REC-152568,11040,harrys brioche tranchee pepites de chocolat sans additif g,harry's,485,france,2026-01-30,15
+392,REC-283969,11603,biscuit chocolat crales,gerlinea,200,france,2024-08-16,11
+393,REC-623742,10968,loriginal noir,côte d'or,200,france,2025-06-19,11
+394,REC-182020,11664,prince got tout choco au bl complet,lu,300,france,2025-10-04,23
+395,REC-734828,14472,sticks bretzels dalsace loriginal,dr. oetker,300,france,2025-09-07,23
+396,REC-614213,7642,lightly salted tortilla,lidl,200,frankreich,2026-01-10,23
+397,REC-227715,14036,biscuits abricot pistache,gerblé,160,france,2024-06-16,21
+398,REC-890176,14282,british ribeye steak,tesco finest,300,gb,2025-04-04,12
+399,REC-350428,7250,protein peanut butter bar,n?kd,45,france,2025-02-12,15
+400,REC-676463,10522,ugandan dark chocolate,sainsburys,100,united kingdom,2025-03-09,18
+401,REC-561676,13637,g dragibus soft haribo,haribo,300,france,2024-09-26,20
+402,REC-310475,8391,chilli and lime protein nut crunch,graze,100,united kingdom,2025-10-20,9
+403,REC-560155,9783,shortbread all butter fingers,sainsbury's,200,france,2025-12-18,8
+404,REC-469529,8317,chips paysannes,lay's,150,france,2024-12-14,12
+405,REC-101717,12856,gteau marbr au chocolat,bonne maman,475,france,2026-01-03,12
+406,REC-828599,6831,prou grand cru amazonas  note de fruits rouges,ethiquable,100,france,2025-07-14,20
+407,REC-547341,14509,cheetos sticks palitos,unknown,27,france,2024-10-10,12
+408,REC-852250,13816,cracker peautre et  graines,maître jean pierre,200,france,2024-04-08,4
+409,REC-934945,14644,duo fourr got chocolat  noisette,belvita,5,belgique,2025-06-03,15
+410,REC-416538,8888,le moelleux,ker cadélac,500,france,2024-06-04,5
+411,REC-105895,5408,mini mix,gullón,350,algérie,2024-08-15,16
+412,REC-292499,13115,galletas desayuno zero sin azcares,gullón,216,bolivia,2024-09-03,12
+413,REC-791744,11417,gran cereale classico,gran cereale,500,italia,2024-11-23,5
+414,REC-629664,10466,lightly salted potato chips,kettle,25,united kingdom,2024-07-04,24
+415,REC-816334,9833,tartelettes citron,bonne maman,125,belgium,2025-12-15,2
+416,REC-582703,9474,grany noisettes  crales,lu,125,belgium,2025-08-05,13
+417,REC-718810,7528,pringles hot  spicy,pringles,40,france,2025-04-03,8
+418,REC-612639,12948,nutella bready,ferrero,220,autriche,2025-11-29,1
+419,REC-368267,5524,madeleines aux ufs de poules leves en plein air,st michel,600,france,2024-05-19,3
+420,REC-375286,8001,crackers heudebert,heudebert,250,france,2024-04-13,21
+421,REC-547576,6207,crunchy nut bars with peanuts  chocolate,eat natural,3,belgië,2024-10-07,14
+422,REC-498844,6133,loriginal lait,unknown,200,belgium,2024-12-18,5
+423,REC-721496,12592,gran cereale cioccolato,gran cereale,230,italia,2024-12-14,8
+424,REC-715073,14838,doradas al horno zero sin azcares,gullón,330,portugal,2025-07-04,12
+425,REC-985280,5564,raw fruit  nut bars  salted caramel,nākd,4,united kingdom,2025-05-14,15
+426,REC-252231,6894,madagascan dark chocolate,extra special,100,united kingdom,2025-07-11,6
+427,REC-137791,6601,barres protines aux chocolat et cranberries sans gluten,nature valley,4,belgique,2025-01-03,6
+428,REC-526840,12072,pains au lait au levain,marque repère,350,france,2025-03-08,2
+429,REC-420573,14732,proper corn sea salted popcorn,proper,70,belgium,2025-03-04,21
+430,REC-268750,10758,peanut butter oat bar,deliciously ella,50,france,2025-03-16,1
+431,REC-835443,8459,doritos got nature,doritos,160,france,2025-04-03,23
+432,REC-517074,5722,bretzels dalsace maxi,dr. oetker,200,france,2024-10-07,13
+433,REC-858821,12039,yoyos strawberry multipack  x,bear,5,france,2025-04-10,7
+434,REC-209315,6477,lindt excellence  cocoa,lindt,50,österreich,2024-08-24,12
+435,REC-559704,8805,salt  vinegar lentil chips,unknown,85,united kingdom,2024-06-01,19
+436,REC-953626,5378,fourrs chocolat,jardin bio,300,france,2024-11-03,1
+437,REC-248915,8282,fettuccine alfrado,trader giotto's,200,france,2024-08-07,23
+438,REC-454710,7294,petit nesquik,nestlé,6,belgique,2025-12-05,21
+439,REC-123934,14679,crpes dentelle  lauthentique,unknown,125,france,2024-08-21,20
+440,REC-896748,11080,gaufre de lige  perles de sucre,lotus,315,belgique,2024-10-15,6
+441,REC-801387,10403,loriginal noir,côté d'or,300,france,2024-10-07,16
+442,REC-157258,12355,apple  raisin oat bar,deliciously ella,50,france,2024-11-03,14
+443,REC-210063,8108,prince petit dej,lu,300,belgique,2025-01-04,20
+444,REC-437082,8232,arme vanille,unknown,200,france,2025-02-27,14
+445,REC-841779,12779,special k high protein,unknown,112,belgique,2025-12-12,1
+446,REC-441261,7112,pringles cacaval,pringles,165,hungary,2024-08-13,12
+447,REC-873432,8125,bournville dark chocolate bar,cadbury,180,france,2024-12-25,21
+448,REC-530966,8152,doo wap ppites choco,harrys,320,france,2024-08-21,19
+449,REC-545232,10025,mcvities rich tea the light one delights,mcvitie's,300,gb,2025-05-30,20
+450,REC-790841,11019,lotus biscoff speculoos fourr  crme speculoos  g,lotus,150,australia,2025-03-21,11
+451,REC-995899,7738,cake fourr saveur fraise,unknown,6,france,2024-07-31,18
+452,REC-764286,6219,galettes bretonnes pur beurre,unknown,250,france,2025-10-26,16
+453,REC-135793,5182,sticks et bretzels dalsace,dr. oetker,137,france,2025-12-26,16
+454,REC-455654,5649,lindt excellence milk chocolate g,lindt,100,australia,2024-02-20,15
+455,REC-915893,9141,moelleux ppites de chocolat,gerblé,196,francia,2025-07-14,19
+456,REC-906408,8594,g vichy menthe,vichy,230,france,2025-02-20,12
+457,REC-717570,8341,la grande galette,st michel,150,france,2024-07-05,12
+458,REC-605981,13347,grany moelleux,lu,192,belgique,2025-01-18,15
+459,REC-965000,9706,baked pretzels original sea salted,penn state,175,france,2025-01-06,3
+460,REC-289005,5062,pombear original pk,pom-bear,6,united kingdom,2024-05-22,7
+461,REC-751061,10543,rice crackers finement sal promotion,unknown,85,belgique,2025-07-05,13
+462,REC-371565,14283,toast brioch,lu,150,frankrijk,2024-02-21,12
+463,REC-315652,10902,bounty x,mars,2,belgium,2024-07-16,17
+464,REC-824782,5746,bear pure fruit yoyos strawberry g,bear,20,tschechien,2024-08-28,9
+465,REC-116038,10484,walkers supreme prawn cocktail,walkers,25,united kingdom,2025-02-27,21
+466,REC-797759,7004,oreo double creme,mondelez,157,autriche,2024-09-25,17
+467,REC-110224,13568,ferrero rocher,ferrero,100,france,2025-01-13,3
+468,REC-189159,13071,raspberry wholegrain oat bars,stoats,4,gb,2024-04-22,8
+469,REC-120920,11933,knusper schnitte,sondey,10,франция,2025-04-24,4
+470,REC-342844,14577,biscuit chocolat noir,gerblé,150,france,2025-05-31,19
+471,REC-846346,8714,fourrs vanille bio,bjorg,225,france,2024-09-01,2
+472,REC-249351,5221,hati grand cru cap hatien  cacaot et fruit,éthiquable,100,france,2024-09-09,1
+473,REC-599185,8373,gran cereale frutta,barilla,250,greece,2024-10-04,20
+474,REC-533938,13168,briochettes,pasquier,480,france,2024-04-19,18
+475,REC-859930,9693,ugandan dark chocolate,asda,100,united kingdom,2024-12-12,10
+476,REC-938747,11561,chocolat noir aux ppites,carlotti,100,morocco,2025-10-03,2
+477,REC-570792,11474,peanuts roasted  salted,alesto,500,bélgica,2026-01-25,8
+478,REC-196794,5746,leibniz butterkeks,bahlsen,120,germany,2025-09-08,12
+479,REC-749902,7759,sensations thai sweet chilli crisps,walkers,150,united kingdom,2024-11-10,12
+480,REC-695435,13986,cracotte fibres,lu,250,france,2025-07-20,16
+481,REC-761163,6268,cuor di cereale cioccolato,gullón,280,france,2025-06-06,21
+482,REC-160620,11740,corn smoked bbq crunchy corn,love corn,115,spain,2024-09-25,18
+483,REC-671417,11925,brunch bar choc chip,cadbury,5,united kingdom,2024-02-11,3
+484,REC-982031,10416,all butter scottish shortbread fingers,marks & spencer,210,france,2025-01-14,15
+485,REC-113541,9705,taboule oriental g,bonduelle,300,france,2025-05-06,22
+486,REC-842371,13428,brossard le cake  langlaise,unknown,400,france,2025-06-16,10
+487,REC-181325,8461,brioche tresse  la main,unknown,630,france,2025-10-09,12
+488,REC-992067,11794,monster munch sal,intersnack,85,france,2025-09-10,11
+489,REC-232590,12804,protein bar peanut and chocolate,nature valley,40,france,2024-03-20,16
+490,REC-983019,10744,black peppercorn bolli italian crackers,crosta & mollica,150,united kingdom,2025-04-19,9
+491,REC-234590,6850,biscuits nutella x biscuits fourrs,nutella,41,francia,2024-02-05,12
+492,REC-736476,12032,granola loriginal,unknown,225,frankrijk,2025-06-30,5
+493,REC-375103,10120,belvita petit djeuner got noisette et chocolat,belvita,400,france,2026-01-17,13
+494,REC-978721,12600,dlichoc noir,delacre,150,france,2026-01-27,11
+495,REC-857909,12918,dunkle vollnuss,ritter sport,100,austria,2026-01-01,13
+496,REC-428280,13347,crunchy savoury wholewheat sticks,unknown,200,france,2024-10-15,9
+497,REC-873211,5619,sweet chilli flavour wholegrain snack,unknown,150,france,2025-11-30,13
+498,REC-177177,10152,sea salted potato crisps,unknown,150,france,2024-07-08,2
+499,REC-797863,8408,wafers bfb hazelnut,balconi,225,france,2024-07-03,13
+500,REC-915342,13747,molinetti,barilla,800,francia,2024-10-03,19
+501,REC-491921,7451,milka,milka,100,france,2024-06-17,2
+502,REC-352974,12938,salted microwave popcorn,proper corn,210,united kingdom,2024-11-06,12
+503,REC-290242,13737,dark milk chocolate,m&s collection,100,hong kong,2025-11-05,12
+504,REC-776142,9817,petites madeleines   de sucres,st michel,400,france,2024-07-15,7
+505,REC-237622,9075,mars,mars,51,france,2024-03-13,17
+506,REC-603374,6811,lotus biscoff speculoos fourr  crme saveur chocolat  g,lotus,150,république tchèque,2024-04-19,3
+507,REC-405563,10268,snack a jacks mini,snackajacks,19,ireland,2025-07-26,22
+508,REC-805265,7363,mikado chocolat au lait,lu,100,france,2024-06-19,4
+509,REC-725940,6421,amandes grilles sales,alesto,150,république tchèque,2024-06-16,13
+510,REC-112319,12789,excellence noir ssame grill,lindt & sprüngli,100,france,2025-01-14,9
+511,REC-479833,12559,prince got vanille,lu,300,france,2024-07-10,11
+512,REC-863427,7692,pringles original,pringles,195,frankreich,2026-01-26,13
+513,REC-172842,8697,savane chocolat,brossard,210,fr,2024-10-21,17
+514,REC-643647,7739,kafferep,ikea,600,france,2025-10-12,11
+515,REC-352735,12195,snickers  stck   g,mars incorporated,50,france,2024-05-06,11
+516,REC-781612,10982,weie schokolade,fin carré,100,france,2024-10-07,21
+517,REC-977968,14985,snack popp,too good,85,france,2025-04-21,17
+518,REC-346543,8496,lotus dinosaurus original chocolat g xp,lotus,225,france,2024-07-14,8
+519,REC-411714,6068,galletas chocolate rebuenas,hacendado,500,morocco,2025-03-16,18
+520,REC-247713,14552,pain au lait bio pasquier,brioche pasquier,4,france,2024-11-05,10
+521,REC-127715,8125,g ricola citron melisse,ricola,50,france,2025-06-19,2
+522,REC-263705,12021,wasa tartine croustillante sensation aux graines de chia  touche de sel g,wasa,245,france,2024-11-05,11
+523,REC-723202,11319,breaksta tiffany,wafer sandwich,26,morocco,2025-09-16,8
+524,REC-647565,10431,tube caramel beurre sal,régilait,300,france,2024-04-24,23
+525,REC-826172,12161,original salted peanuts,kp,415,france,2024-03-20,12
+526,REC-196679,10288,frusli juicy blueberries chewy cereal bars  x g,jordans,30,france,2024-08-19,4
+527,REC-952086,11647,mini bites quinoa  cha,gullón,250,francia,2025-08-29,21
+528,REC-179116,10929,cacao  almond oat bars,deliciously ella,3,united kingdom,2025-03-03,12
+529,REC-361666,6019,lextra craquante nature,vico,150,france,2024-09-19,11
+530,REC-799310,5974,cashew butter  pure vanilla bean dark chocolate,hu,60,gb,2025-04-30,8
+531,REC-404436,12293,crunchy,bjorg,150,france,2025-08-11,13
+532,REC-573234,8544,doritos cheese,doritos,160,france,2025-07-13,12
+533,REC-630468,11153,rough oatcakes,sainsbury's,250,france,2024-07-10,12
+534,REC-850125,7216,muesli bars chocolate,crownfield,8,bulgarie,2024-07-07,10
+535,REC-619056,12401,dunkle ganze mandel,fin carré,200,france,2024-12-20,1
+536,REC-630599,5081,cake aux fruits  tranch,lidl,300,france,2024-05-10,16
+537,REC-766752,10102,galettes pur beurre,bonne maman,170,france,2024-09-15,14
+538,REC-768004,5802,le palet pur beurre,la mère poulard,125,france,2025-02-08,17
+539,REC-579857,8304,les craquantes bl complet,unknown,250,france,2025-11-06,16
+540,REC-324087,9545,tunnocks  caramel wafer biscuits imp,thomas tunnock ltd,8,australia,2025-07-23,12
+541,REC-687235,10476,wafers cocoa,balconi,45,france,2025-08-03,6
+542,REC-161215,13919,protein bar cookie  cream flavour,ironmaxx nutrition gmbh & co.,45,france,2025-09-06,14
+543,REC-773229,7829,gourmet sea salt savoury crackers,aldi,185,ireland,2025-10-08,2
+544,REC-266437,8787,cream crackers,by sainsbury's,300,france,2025-09-24,3
+545,REC-243011,8446,blueberry  honey porridge oat bars,stoats,4,an fhraing,2025-06-27,4
+546,REC-539546,5522,biscuit filled with hazelnut spread with cocoa,nutella,193,保加利亚,2025-01-12,11
+547,REC-873872,10383,chipster,belin,75,canada,2025-04-17,12
+548,REC-825570,14151,hula hoops original,kp snacks,6,united kingdom,2025-08-07,4
+549,REC-543821,7789,ritz crackers original  g,mondelez,200,germany,2025-04-29,24
+550,REC-608252,13403,berry delight fruit  nut bar,nakd,35,united kingdom,2025-10-11,1
+551,REC-348410,8367,nestle dessert lait,nestlé,170,canada,2025-08-07,1
+552,REC-294915,10211,belvita  petit djeuner tartin,lu,250,belgium,2025-03-15,19
+553,REC-848362,12458,nature valley crunchy,unknown,10,france,2025-05-19,4
+554,REC-932657,5427,gullon cuordi cereale tradizionale,gullon,280,france,2025-07-25,12
+555,REC-478427,5222,proper corn sea salt,proper,6,gb,2026-01-04,8
+556,REC-397645,7667,pringles hot  spicy,pringles,175,frança,2025-10-02,10
+557,REC-982782,5760,crunchy variety,general mills,42,france,2024-06-30,12
+558,REC-298198,13206,single estate venezuelan dark clchocolate,sainsbury's taste the difference,100,gb,2024-12-30,19
+559,REC-999488,10754,,tiffany,12,saudi arabia,2025-04-27,7
+560,REC-567142,13819,mint intense dark chocolate,lindt,100,ireland,2025-03-04,4
+561,REC-748415,6826,kinder duo,kinder,150,frankreich,2025-06-06,16
+562,REC-212845,10753,joyfuel chocolat au lait  cookie dough,joyfuel,55,france,2025-09-11,2
+563,REC-995013,9725,doritos,unknown,230,united kingdom,2024-11-08,19
+564,REC-240403,6000,milka chocolate hazelnuts,milka,100,österreich,2024-10-05,5
+565,REC-843539,6886,ovomaltine barres,ovomaltine,100,belgium,2024-12-31,8
+566,REC-732172,6239,ppito croc sabl got choco,unknown,294,france,2025-01-23,5
+567,REC-389392,11439,digestive fibra,unknown,400,españa,2024-03-13,14
+568,REC-318511,8248,galletas mara dorada,hacendado,800,españa,2025-09-12,16
+569,REC-188620,6736,chocolate negro,hacendado,200,portugal,2025-08-06,12
+570,REC-511680,8652,cadbury dairy milk cadbury dairy milk the classic,suchard,550,francia,2025-10-10,12
+571,REC-351418,10336,breaktime,tiffany,13,qatar,2025-02-09,8
+572,REC-930683,11117,barbeque,pringles,12,france,2024-11-17,24
+573,REC-959878,12237,oats n honey granola bars,unknown,1,france,2025-08-18,1
+574,REC-320838,5258,biscuit saveur vanille citron,gerlinéa,156,france,2025-11-02,4
+575,REC-114796,9377,tablette bio dgustation chocolat noir  g,ivoria,100,france,2025-09-23,23
+576,REC-620781,13762,pain des fleurs sarrasin,le pain des fleurs,150,belgië,2025-07-28,23
+577,REC-758527,14701,chocolat noir  cacao,marque repère,100,france,2025-02-24,21
+578,REC-785583,9688,kinder maxi,ferrero,10,österreich,2024-05-25,15
+579,REC-675659,6785,dlices au caramel,lightbody,320,france,2025-04-15,24
+580,REC-513061,10459,lindt,unknown,100,gb,2024-08-20,2
+581,REC-461910,14376,manchego  green olive,manomasa,140,gb,2026-02-04,1
+582,REC-418209,9355,butternut squash,aldi,200,united kingdom,2024-06-21,15
+583,REC-989169,6549,pepito lu ppite choco,lu,150,france,2025-09-05,19
+584,REC-926774,8817,madeleine,armor délices,430,france,2025-04-03,12
+585,REC-221525,9733,la grande galette pur beurre,unknown,135,france,2024-02-05,7
+586,REC-664894,11162,navettes au beurre frais et  la crme frache,la fournée dorée,400,france,2025-05-29,11
+587,REC-682987,11767,protein flapjack cocoa oat,trek,50,france,2024-09-16,16
+588,REC-247274,12831,macine mb g int eu,barilla,350,francia,2025-10-18,22
+589,REC-327334,5940,sweet  saltynut,nature valley,30,france,2024-06-27,15
+590,REC-450794,12469,gche tranche,saveurs de nos régions,500,france,2024-05-24,19
+591,REC-606238,10295,chocolate,trapa,80,spain,2024-12-13,21
+592,REC-254475,11515,lulu lourson chocolat,lu,150,france,2025-09-08,1
+593,REC-997609,6579,sabls sarrasin miel saveur citron,céréal bio,132,france,2024-09-23,11
+594,REC-344258,9455,sweet and salted popcorn,tesco,110,frankreich,2024-10-12,18
+595,REC-538715,10760,lotus biscoff speculoos original pocket format familial  g xp,lotus,248,france,2024-05-11,14
+596,REC-732999,9921,breakfast cocoa with choc chips,belvita,225,france,2025-09-08,12
+597,REC-127463,13169,knoppers einzelpack,storck,25,dänemark,2025-01-31,24
+598,REC-196691,7786,dark chocolate nuts  sea salt,kind,40,france,2025-09-27,24
+599,REC-113479,5718,tableta chocolate negro,carrefour bio,100,belgique,2024-11-12,2
+600,REC-764198,5365,lentil chips,snackrite,6,united kingdom,2025-03-17,19
+601,REC-601543,11146,pick up  choco x,unknown,168,france,2024-09-16,20
+602,REC-204201,6171,fourr figues,gerblé,180,fr,2024-09-09,21
+603,REC-316418,14598,curry cauliflower bites,holland & barrett,171,united kingdom,2024-06-19,10
+604,REC-260803,9776,tartelettes chocolat caramel,bonne maman,135,belgium,2024-08-11,5
+605,REC-561609,6283,tablette dgustation chocolat noir   g,ivoria,100,france,2025-04-19,12
+606,REC-993869,14044,chips craquante sel brets,bret's,125,france,2024-07-27,23
+607,REC-104547,9830,hanuta erpack,ferrero,220,france,2025-02-12,15
+608,REC-221393,13322,fennel seed tarallini,crosta & mollica,170,united kingdom,2025-04-17,12
+609,REC-452478,12790,caramel,lindt,100,gb,2024-11-16,12
+610,REC-868294,10244,sweet  salty popped crisps,popworks,85,ireland,2025-11-13,19
+611,REC-992864,10746,chipsfrisch ungarisch,funny-frisch,150,deutschland,2025-07-01,6
+612,REC-955523,8057,noir,biocoop,100,france,2024-02-24,16
+613,REC-218768,6370,matin chocolat,unknown,200,france,2024-02-21,22
+614,REC-382273,6367,macaroni cheese with bacon,woolworths food,200,bulgaria,2025-04-10,18
+615,REC-346482,14372,vritable petit beurre,unknown,25,belgium,2024-04-18,20
+616,REC-408869,7478,le palmier,bjorg,100,france,2025-06-21,9
+617,REC-609749,13831,fourrs got citron,bjorg,225,france,2024-06-04,23
+618,REC-518995,11640,nicaragua grand cru waslala,unknown,100,france,2025-03-02,1
+619,REC-679537,7701,regaa,hacendado,250,rumania,2025-04-28,19
+620,REC-120400,11836,wholegrain ryvita crackerbread,ryvita,125,united kingdom,2025-02-25,20
+621,REC-742848,14075,sabls pavot coco,unknown,132,francia,2025-02-14,17
+622,REC-993045,11096,choco tablet zero sin azcares,anturios,150,marruecos,2025-08-17,17
+623,REC-276484,5450,extra dark  cocoa,fin carré,100,bélgica,2025-10-15,21
+624,REC-380641,6676,donut,be,50,ma,2024-03-07,1
+625,REC-590661,5746,bio crackers,maître jean pierre,200,france,2025-01-20,12
+626,REC-298768,6956,melty  be,be,40,morocco,2024-04-08,20
+627,REC-900752,9555,digestive sin azcares,gullón,400,españa,2024-07-04,1
+628,REC-234370,8993,chocolat noir amande et corces dorange,lidl jd gross,125,france,2024-08-20,4
+629,REC-302639,14765,gaufrettes saveur cacao,brun,146,francia,2024-05-30,21
+630,REC-392128,8230,brioche tresse ppites de chocolat,pasquier,630,france,2024-05-26,9
+631,REC-332397,10763,mon chri,mon chéri,157,frankreich,2024-10-26,2
+632,REC-834378,9927,anglesey sea salt crisps,pipers,150,france,2025-10-24,13
+633,REC-365424,5254,lotus gaufre de lige chocolat g xp,lotus,363,france,2024-07-31,12
+634,REC-610291,6868,chocolat dessert noir,aiguebelle,175,france,2025-06-03,23
+635,REC-582086,8981,milka choco mini stars,milka,150,bulgaria,2025-08-26,23
+636,REC-137989,8808,choco wafer,milka,180,francia,2025-07-24,16
+637,REC-664778,11341,pelotazos,cheetos,130,portugal,2025-01-30,17
+638,REC-710479,7970,eat natural bar peanutchocolate g,eat natural,45,france,2024-02-29,14
+639,REC-800626,5120,kiddylicious veggie straws  saveur lgumes  g xg,kiddylicious,48,france,2024-12-04,7
+640,REC-476792,10960,barquillos chocolate zero sin azcares,gullón,60,morocco,2025-01-04,13
+641,REC-389541,8760,sweet  salty nut,nature vallley,30,france,2025-04-04,12
+642,REC-436451,5050,barres de crales fraises et framboises x,crownfield,124,france,2025-06-24,1
+643,REC-668201,14522,oatcakes  organic,nairn's,250,france,2025-10-23,21
+644,REC-559769,9717,multigrain crackers,rivercote (lidl),170,france,2025-03-28,11
+645,REC-163843,7058,mlange de noix et pistaches,alesto,200,bulgaria,2024-06-11,5
+646,REC-389627,7968,petit colier tendre coeur au lait,lu,120,france,2025-05-10,15
+647,REC-291625,9280,tartines de pain multicrales,pasquier,240,france,2025-01-16,3
+648,REC-215939,12008,tzatziki,blini,200,france,2024-12-25,12
+649,REC-111592,12951,chocolat noir  togo,alter eco,90,france,2024-09-29,8
+650,REC-965114,7928,maltesers g,maltesers,175,argelia,2024-11-10,3
+651,REC-143795,12084,sweet  salty popcorn,propercorn,30,france,2024-10-22,7
+652,REC-327611,14977,caprice,papadopoulos,115,bulgaria,2025-02-06,20
+653,REC-663235,14945,horno al punto de sal,lay's,150,italia,2025-07-30,21
+654,REC-216026,13503,snack pipas,anitin,166,espanha,2025-05-15,19
+655,REC-755317,12628,sour cream  onion potato chips,popchips,85,gb,2024-10-25,12
+656,REC-981342,9462,crpes chocolat,whaou,8,france,2024-06-05,2
+657,REC-710952,10977,savoury crackers,savour bakes,200,gb,2024-02-22,21
+658,REC-645017,5017,ready salted grab bag crisps,walkers,45,united kingdom,2024-09-20,12
+659,REC-651702,8050,digestive,unknown,400,croatia,2024-10-10,7
+660,REC-534429,13627,erdnsse gerstet  gesalzen,ültje,180,österreich,2026-01-20,8
+661,REC-247463,5655,choco tom gaufrettes,tom,100,tunisia,2025-10-17,2
+662,REC-789412,11990,sabls beurr nantais,lu,130,france,2025-11-24,16
+663,REC-999404,14703,grany fraise   framboise,lu,108,francia,2025-10-22,11
+664,REC-917059,12881,ds bugles got nature,3d's bugles,85,france,2025-02-14,5
+665,REC-183053,6705,gerbl  choco hazelnut filled cake,gerblé,200,francia,2025-09-03,8
+666,REC-974820,9615,pain dpices au miel,brossard,350,france,2024-08-30,15
+667,REC-624871,13121,barbeque flavour popped potato snacks,popchips,85,france,2025-05-21,23
+668,REC-161412,6432,original oreo,oreo,352,belgium,2025-10-24,5
+669,REC-507617,10369,takis fuego g,unknown,90,morocco,2025-12-05,17
+670,REC-583819,12795,cacahutes grilles sans sel ajout,carrefour,200,belgique,2025-04-01,18
+671,REC-386157,7846,le petit beurre,lu,167,gb,2025-01-18,11
+672,REC-814427,14101,pringles salt  vinegar,pringles,185,germany,2024-08-16,12
+673,REC-816700,9477,jelly snakes,the natural confectionery co.,130,switzerland,2025-02-08,10
+674,REC-837125,9228,madeleine,bonne maman,175,france,2025-10-15,5
+675,REC-185893,7422,poulain noir extra g,poulain,200,france,2024-02-09,6
+676,REC-475215,14944,snack a jacks caramel rice cakes,snack-a-jacks,159,france,2024-06-15,20
+677,REC-527082,10476,jacobs savours salt and black pepper bakes,jacobs,200,france,2025-04-01,4
+678,REC-943230,8023,dark chocolate  cocoa,unknown,80,romania,2025-11-19,21
+679,REC-887106,13893,gran cereale croccante con riso,gran cereale,230,francia,2025-03-05,16
+680,REC-475078,5189,chocolate  cacao  azcares aadidos,valor,100,bolivia,2025-08-05,22
+681,REC-240162,8735,mini cracker,gullón,350,francia,2025-05-30,1
+682,REC-779048,13269,biscuits  lorange orange et au graines de chia,gerblé,132,france,2024-06-15,8
+683,REC-375336,10650,cashews roasted  salted,alesto,150,bulgaria,2025-09-29,11
+684,REC-709387,10421,gerbl  organic muesli fig apricot spelt cookie,gerblé bio,132,france,2024-06-16,23
+685,REC-407316,7196,tartines croquantes,aldi,200,france,2025-01-31,5
+686,REC-989289,6898,chocolat au lait du pays alpin,kraft foods,200,france,2026-01-24,7
+687,REC-846558,9606,tablette de chocolat noir g,u,100,france,2024-02-12,10
+688,REC-964602,13977,brioche tranche,brioche pasquier,450,frankreich,2024-06-24,12
+689,REC-291860,12564,tartines craquantes multicrales,jardin bio etic,150,france,2024-11-27,4
+690,REC-647168,6886,chilli heatwave tortilla chips,doritos,180,france,2024-10-21,24
+691,REC-804584,11991,dunkle schweizer schokolade mit chiliextrakt,lindt excellence,100,australia,2025-09-07,16
+692,REC-280797,7748,sasanki,lidl,210,bulgaria,2024-04-04,18
+693,REC-218429,11026,black pepper savoury crackers,aldi,185,united kingdom,2024-06-07,7
+694,REC-820572,14990,lightly sea salted,sainsbury's,150,united kingdom,2024-08-25,17
+695,REC-479422,11567,honey roast crunch,graze,100,united kingdom,2025-11-24,8
+696,REC-966925,9174,salt  vinegar flavoured rice cakes,tesco,130,ireland,2025-03-03,12
+697,REC-318299,12291,barbecue lentil chips,proper chips,70,united kingdom,2025-06-01,21
+698,REC-934772,8086,lays,lay's,250,france,2024-09-08,7
+699,REC-490629,7191,cracotte framboise,lu,200,france,2024-09-21,12
+700,REC-505061,12134,milk hazelnut,lindt,150,france,2024-02-19,16
+701,REC-201449,13246,sabls bio chocolat noir intense,céréal bio,132,belgium,2025-02-17,17
+702,REC-752813,11929,petits muffins chocolat,unknown,235,france,2025-01-06,15
+703,REC-664382,13394,biscuits farine de bl et graines de ssame,bjorg,184,france,2025-06-16,13
+704,REC-507539,12871,cioccolato nocciole intere,ritter sport,100,austria,2025-10-26,17
+705,REC-122982,8212,crunchy canadian maple syrup,nature valley,210,france,2025-04-09,3
+706,REC-323880,14871,raw fruit  nut bar,nākd,35,bélgica,2024-09-30,6
+707,REC-406158,6244,rosemary  sea salt flatbreads,nairn's,150,france,2025-03-04,4
+708,REC-720973,10030,sea salted popcorn,unknown,10,united kingdom,2024-02-28,22
+709,REC-336820,9595,lightly salted tortilla chips,aldi,200,united kingdom,2025-10-11,19
+710,REC-138780,9275,biscuits caramel peautre,gerblé,132,france,2024-04-14,16
+711,REC-647288,13051,nestle dessert noir bio g,nestlé,170,france,2025-11-05,12
+712,REC-647081,13501,chips saveur beurre sal,brets,125,france,2024-04-02,13
+713,REC-536166,7911,almond butter  puffed quinoa dark chocolate,hu,60,united kingdom,2025-07-12,20
+714,REC-676722,5228,rice and corn cakes,snack a jacks,117,united kingdom,2024-08-21,22
+715,REC-180800,13602,soft bakes blueberry,belvita,250,united kingdom,2024-04-17,10
+716,REC-850691,12889,palets bretons au beurre,sondey,250,frankrijk,2025-04-02,12
+717,REC-790409,14117,madeleines chocolat lait,bonne maman,300,france,2025-10-01,10
+718,REC-258740,10660,bonne maman  le petit quatrequarts pur beurre,bonne maman,300,france,2024-08-23,10
+719,REC-586138,10754,monster munch  produit souffl  base de pomme de terre got sal,unknown,135,frankrijk,2025-09-23,1
+720,REC-948010,6414,chips paysanne,brets,250,france,2025-04-01,13
+721,REC-656624,14296,la madeleine coque chocolat noir,maison colibri,240,france,2025-08-21,15
+722,REC-627465,9319,bio vollmilchschokolade,fairglobe,100,france,2024-06-17,12
+723,REC-862824,6149,tunnocks teacakes pk al anhar,tunnock’s,144,australia,2025-01-17,1
+724,REC-621553,11127,gaufres de lige perles de sucre,lotus,45,belgique,2024-09-07,1
+725,REC-640030,5943,pufuleti,gusto,45,germany,2024-11-17,20
+726,REC-693182,6983,barritas de trigo y arroz integral con chocolate con leche,hacendado,100,spain,2024-08-16,11
+727,REC-318596,12823,noix du bresil,seeberger,200,frankreich,2025-02-12,12
+728,REC-668123,7387,protein bar,unknown,45,germany,2024-07-25,23
+729,REC-814899,5229,lotus biscoff speculoos original pocket  g xp,lotus,186,france,2025-12-18,24
+730,REC-847049,7866,petites madeleines aux ufs saint michel,st michel,400,france,2024-04-21,24
+731,REC-863361,9411,hazelnut,waitrose,100,united kingdom,2025-04-02,4
+732,REC-990571,11012,biscotti pan di stelle,barilla,350,france,2024-05-22,20
+733,REC-246458,6775,root vegetables,tesco,125,gb,2024-06-13,22
+734,REC-867763,5945,cheese twists,m&s food,125,united kingdom,2024-03-15,8
+735,REC-727112,13324,quadro loriginal,cémoi,187,france,2025-03-15,15
+736,REC-579136,13571,takis fuego,barcel,100,bosnia and herzegovina,2024-02-28,10
+737,REC-822917,6265,original made with sea salt,triscuit,8,france,2024-04-14,1
+738,REC-475261,7445,roasted cashewpeanutmix honey  salt,alesto,200,germany,2024-02-27,22
+739,REC-923721,6741,scottish rough oatcakes,rivercote,250,france,2025-05-31,13
+740,REC-760379,10111,menier ptissier tablette,nestlé,200,france,2025-04-03,16
+741,REC-499701,5423,barre amande,unknown,150,francia,2025-08-01,12
+742,REC-271147,5701,formule boost,daco bello,200,france,2025-09-11,21
+743,REC-213317,7388,walkers  salted,walkers,32,united kingdom,2025-09-11,15
+744,REC-659804,8799,lime  coriander chutney poppadoms,sensations,82,france,2025-03-22,12
+745,REC-266689,8992,conikos fromage,conikos,35,maroc,2025-01-30,11
+746,REC-239220,9396,pan goccioli,barilla,8,italy,2024-07-07,1
+747,REC-391103,8565,sour cream  chive flavour wheat  potato pretzel knots,penn state snacks,7,france,2025-03-26,13
+748,REC-653026,12527,organic cacao nibs,unknown,125,gb,2024-12-11,3
+749,REC-846891,11252,fluffy milky,best biscuits,1,morocco,2025-06-06,15
+750,REC-522970,8207,gullon zero snack choco,gullón,150,spain,2024-05-26,10
+751,REC-443022,5469,browny,be,40,morocco,2025-01-29,21
+752,REC-810406,7157,mikado chocolat au lait,glico,90,france,2025-08-09,17
+753,REC-905909,11926,bn  cookies  mini strawberry x,bn,175,belgium,2025-08-05,20
+754,REC-658364,7955,pain dpices miel,bjorg,300,france,2025-02-26,1
+755,REC-773311,5932,galleta de mantequilla,carrefour,167,belgium,2025-05-31,12
+756,REC-448844,7037,chocolat noir aux corces dorange,alter eco,100,france,2024-03-24,2
+757,REC-239562,14930,doritos cool original g,doritos,180,france,2024-05-17,1
+758,REC-556341,5432,chocolat nestle dessert noir xg,nestlé dessert,410,canada,2024-04-11,14
+759,REC-699230,12464,milk chocolate large bar,toblerone,360,france,2025-08-18,12
+760,REC-418377,11371,caramelo,milka,100,bélgica,2024-07-06,11
+761,REC-681037,8263,tablette kinder chocolat chocolat au lait x g,kinder,200,france,2025-08-07,1
+762,REC-222981,6449,pi integrali,galbusera,330,italy,2025-10-08,3
+763,REC-897575,12965,raw fruit  nut bar,unknown,35,france,2024-11-07,8
+764,REC-924883,12563,pancakes,la fournée dorée,350,france,2024-11-28,24
+765,REC-940891,5742,brioche chocolat,unknown,8,fr,2025-03-31,8
+766,REC-193508,8575,quality street,nestlé,600,belgium,2024-08-15,7
+767,REC-823819,6801,peanut butter bars,graze,4,gb,2025-06-28,3
+768,REC-800802,10117,g ricola framboise melisse,ricola,50,france,2025-01-14,13
+769,REC-278812,10649,sabl des flandres,unknown,250,france,2024-05-31,12
+770,REC-315062,9986,kango,kango,225,france,2024-05-29,17
+771,REC-593546,8506,belvita petit djeuner,belvita,600,france,2025-08-25,22
+772,REC-897947,8365,chocolate con leche oreo,milka,100,francia,2024-05-15,12
+773,REC-673732,14940,granola bar vanilla  white cream,vitalia,3,netherlands,2024-02-07,17
+774,REC-801989,11261,sabls ssame  pavot,cereal bio,132,france,2025-09-18,24
+775,REC-809953,7355,sabls myrtilles germes de riz,unknown,140,france,2025-05-18,24
+776,REC-699892,8149,financiers amandes,bonne maman,250,france,2025-10-31,11
+777,REC-127088,12111,toetilla chips nature,carrefour,200,belgium,2024-12-04,1
+778,REC-419059,7828,mlange japonais,maître prunille,250,france,2024-04-23,12
+779,REC-276146,5884,oreo enrobed white imp,charbonnel et walker,245,belgique,2024-07-25,1
+780,REC-210526,10329,chocolate salted caramel flavour vitamin  protein bar,fulfil,55,france,2025-11-23,22
+781,REC-975885,12924,essential waitrose wholewheat biscuits,waitrose,24,francia,2024-08-31,1
+782,REC-604853,8195,harrys brioche tranchee farine complete sans additif g,harrys,485,france,2025-09-09,3
+783,REC-891146,6734,protein bar,kind,3,gb,2024-08-04,18
+784,REC-893530,10022,biscotti allo yogurt dolcesenza,misura,400,italia,2024-06-18,15
+785,REC-240159,14086,toast crock crales compltes,carrefour,250,france,2025-12-14,13
+786,REC-930563,11291,crunchy oats  honey,nature valley,42,france,2025-10-18,9
+787,REC-171365,12672,avoine citron  graines de chia,bjorg,130,france,2024-11-01,22
+788,REC-294340,6040,quateur,alter eco,100,france,2025-07-26,5
+789,REC-287802,8079,almond and apricot with a yoghurt coating fruit and nut bar,eat natural,50,france,2024-02-17,10
+790,REC-315140,12112,dgustation  chocolat noir  cacao,maestro,100,france,2025-05-30,24
+791,REC-717281,5148,les grandes  hazelnut dark,lindt,150,reino unido,2026-01-30,21
+792,REC-312621,11778,salinis,unknown,60,france,2025-08-19,15
+793,REC-417513,6916,chocolat noir,scholetta,100,france,2024-09-13,11
+794,REC-999230,8901,fluffy,be,40,maroc,2024-07-31,23
+795,REC-301994,10649,silvia duo cacao,excelo,26,ma,2025-11-04,24
+796,REC-417972,14035,biscuits avoine chocolat,carrefour bio,130,france,2025-04-13,21
+797,REC-378786,7970,panettone classico,favorina,1,spagna,2025-01-30,8
+798,REC-299437,12690,snack mix,alesto,200,frankrijk,2024-08-05,16
+799,REC-520068,13562,pitch,brioche pasquier,310,france,2024-04-25,2
+800,REC-125492,5559,ker cadlac  marble cake,ker cadélac,500,francia,2024-10-05,18
+801,REC-165373,14283,fruit sticks,n.a! nature addicts,40,frankreich,2025-07-04,12
+802,REC-366550,8646,bourbon creams,tesco,296,france,2024-02-28,20
+803,REC-762832,8104,flutes aux  graines,kambly,125,france,2025-05-27,7
+804,REC-622589,12242,soft bakes choc chip,belvita,5,france,2024-12-22,21
+805,REC-983635,13163,cruschelle,unknown,700,france,2024-08-15,12
+806,REC-258088,8957,avena con chocolate negro  sin azcares aadidos,gullón,275,marruecos,2025-12-20,2
+807,REC-934446,12062,naked oven chips,mccain,1,gb,2025-01-06,8
+808,REC-361222,9873,cream crackers,savour bakes,300,ireland,2024-07-07,13
+809,REC-169485,12726,prinzenrolle,debeukelaer,400,germany,2025-12-15,22
+810,REC-276003,7364,walkers baked,walkers,22,united kingdom,2024-02-09,13
+811,REC-996169,14919,tobigo,tobigo,100,maroc,2024-10-27,12
+812,REC-234480,12437,twix x,twix,250,germany,2025-11-20,21
+813,REC-824768,11612,jaffa cakes,tower gate,300,finlândia,2025-10-01,10
+814,REC-982478,13664,tortitas de maz,unknown,130,alemanha,2024-02-08,2
+815,REC-888131,8970,coleslaw g,bonduelle,320,france,2024-10-24,12
+816,REC-361595,6362,gerble  miel chtaigne graines de lin,gerblé,200,france,2024-12-16,21
+817,REC-554247,14658,doonuts,st michel,180,france,2024-03-18,1
+818,REC-995018,11143,pitch choco x,brioche pasquier,310,france,2025-11-01,17
+819,REC-998260,10343,vico extra craquantes,vico,400,france,2025-04-15,10
+820,REC-318319,10320,cacao noir,carrefour,80,france,2024-11-24,3
+821,REC-874806,10855,biscuits craquants saveur citron,karelea,132,france,2025-06-25,5
+822,REC-237316,14743,yoyos raspberry multipack  x,bear,5,czech republic,2024-09-01,12
+823,REC-375627,11993,crunchy nut  almond,santé,35,france,2024-09-03,6
+824,REC-570586,8097,croustilles got emmental,belin,138,france,2025-02-10,12
+825,REC-628200,7559,lait amandes,côte d'or,180,belgium,2025-04-03,12
+826,REC-613358,7886,buonicos,galbusera,300,france,2025-05-08,12
+827,REC-482706,7384,dinosaurus,artiach,411,spain,2025-02-08,6
+828,REC-863530,5153,cuore di cereale biscotti di avena con frutti rossi,gullón,220,france,2025-01-18,5
+829,REC-675627,6583,cereal,kinder,204,austria,2024-02-12,24
+830,REC-371590,6005,wheat biscuits,stockwell,432,germany,2024-04-18,16
+831,REC-306742,13415,hand cooked crisps,aldi,150,united kingdom,2024-09-02,12
+832,REC-373063,14641,karla pautre noisette,karéléa,150,france,2025-03-20,10
+833,REC-236208,7948,gerble  organic chocolate cookie flavored w banana,gerblé,132,francia,2025-05-23,9
+834,REC-823306,11300,barres crales graines et amandes,carrefour bio,100,france,2026-02-02,10
+835,REC-818969,6072,ricola eucalyptus,ricola,50,france,2024-03-16,22
+836,REC-202116,5612,texas bbq sauce,unknown,185,germany,2024-09-12,17
+837,REC-520296,6583,chips saveur tartiflette,brets,125,francuska,2024-05-23,12
+838,REC-924073,13332,chips de lentilles saveur paprika,vico,85,france,2025-04-07,15
+839,REC-162168,9602,barritas de cereales mango,hacendado,120,portugal,2024-10-29,8
+840,REC-796251,9769,coleslaw,saladinettes,500,france,2025-09-05,11
+841,REC-187263,9934,napolitain loriginal,unknown,6,belgium,2024-07-30,12
+842,REC-398825,6640,chipster,belin,150,france,2025-12-14,6
+843,REC-257543,9713,cioccolato al latte,lu,75,bélgica,2026-02-04,18
+844,REC-404143,6276,mini bn chocolat,bn,350,france,2025-12-06,16
+845,REC-880410,12969,chocolat noir sans sucres ajouts,gerblé,80,france,2025-09-22,6
+846,REC-244513,10125,bonne maman  petits cakes fruits,bonne maman,300,francia,2025-08-09,2
+847,REC-534272,14149,le biscuit de natty,bjorg,150,france,2024-11-28,1
+848,REC-499128,7512,tartines craquantes au sarrasin,terres et céréales bio,150,france,2025-10-28,4
+849,REC-719451,11908,tartines craquantes quinoa pois chiche,jardin bio,150,france,2026-01-17,15
+850,REC-678730,12261,bruschette sour cream,unknown,70,bulgaria,2024-10-08,12
+851,REC-938124,8643,lorenz saltletts sticks,lorenz,250,deutschland,2025-09-04,19
+852,REC-594455,10059,digestives,mcvities,266,france,2025-09-12,11
+853,REC-411539,13726,choco biscuits,milka,150,francia,2024-12-10,5
+854,REC-704843,13136,tortilla chips,general mills,185,france,2024-10-17,1
+855,REC-974469,6641,pi integrali ricchi di fibre segale,unknown,380,france,2025-04-25,7
+856,REC-748474,6653,ambassadeur noir prcieux  cacao,bimo,100,algeria,2024-08-12,15
+857,REC-368339,10762,dark chocolate almond sea salt,tony's chocolonely,180,united kingdom,2025-02-19,10
+858,REC-806968,11810,grahams,honey maid,14,united states,2025-07-18,13
+859,REC-918691,12901,lentil bites sea salt,lidl,110,ireland,2025-02-18,16
+860,REC-163736,8081,belgian dark chocolate,waitrose,180,united kingdom,2025-07-07,22
+861,REC-339680,7068,sandwichs choc,excelo,65,morocco,2025-03-13,7
+862,REC-646898,7408,peri peri crunch,graze,100,united kingdom,2024-06-04,11
+863,REC-322233,13679,mini brownies lidl,unknown,240,belgique,2024-10-03,15
+864,REC-102437,10166,brun   wafers vanilla flavor,brun,146,frankrijk,2024-04-19,24
+865,REC-307627,11068,la paille dor aux fraises,lu,170,france,2025-06-30,18
+866,REC-448265,5976,lindor noir,lindt,150,france,2025-10-05,1
+867,REC-934286,11520,tagada,haribo,400,france,2025-01-15,8
+868,REC-580193,8343,le palmier,saint michel,87,france,2026-01-17,11
+869,REC-421704,13247,la classique nature,intersnack france,135,france,2025-08-05,2
+870,REC-389360,5515,clotted cream shortbread fingers,paterson's,300,france,2025-05-15,10
+871,REC-256058,13471,tuc original  biscuits sal,lu,75,belgique,2025-08-21,22
+872,REC-485226,8073,king kotes  corn fried barbecue flavoured,sol de alba,14,marruecos,2024-12-25,13
+873,REC-278659,8708,salted popcorn,tesco,85,united kingdom,2024-08-13,21
+874,REC-813831,7179,chocolat noir et caramel cte divoire,ethiquable,100,france,2024-04-25,5
+875,REC-304091,5053,absolute black orange  cocoa nibs,montezuma’s,90,gb,2025-11-25,11
+876,REC-862313,7764,macaroons,mrs crimbles,195,united kingdom,2025-09-14,24
+877,REC-337510,14340,gelatina proteinas frutos silvestres,hacendado,4,españa,2024-07-24,12
+878,REC-231389,12239,bounty,bounty,57,morocco,2024-05-23,22
+879,REC-843385,12452,lightly sea salted hand cooked crisps,m&s,150,france,2024-04-23,23
+880,REC-728214,5179,chouchou,alesto,250,frankrijk,2025-12-26,21
+881,REC-552340,8869,grany chocolat au lait noisettes,lu,138,francia,2024-12-17,9
+882,REC-648686,8507,sabl de retz le vritable,st michel,120,belgique,2024-11-17,9
+883,REC-915625,14356,g happy box haribo,haribo,600,france,2025-02-02,14
+884,REC-877009,5861,curly cacahuete,curly,60,francia,2024-12-01,3
+885,REC-121908,9141,marzipan dark chocolate with marzipan,ritter sport,100,belarus,2025-03-06,6
+886,REC-314566,6634,melts original,carr's,150,france,2024-09-28,13
+887,REC-154093,6817,the original speculoos,biscoff,140,belgium,2024-02-16,21
+888,REC-215889,13313,crackers,schär,210,bélgica,2025-03-25,23
+889,REC-276502,10539,galletti mb g int eu,barilla,350,france,2025-07-29,7
+890,REC-772291,11300,kurkure,kurkure,78,france,2025-07-14,12
+891,REC-351944,6919,milk chocolate caramel seasalt,fin carré way to go,180,belgium,2024-08-31,20
+892,REC-163514,7115,trident menthol,trident,60,ma,2024-05-02,12
+893,REC-355592,10093,biscotti cereali g granola e frolla,galbusera,300,francia,2024-06-01,7
+894,REC-476368,6916,pop chip bbq,popchips,5,united kingdom,2026-01-05,13
+895,REC-548590,10699,ptit nature  crales,bjorg bio nutri +,167,fr,2024-12-14,24
+896,REC-433464,11076,thins rosemary  sea salt flatbreads,unknown,125,gb,2025-10-25,13
+897,REC-529167,9608,la galette fourre,unknown,240,fr,2024-05-16,22
+898,REC-227982,10663,black chocolate  with almonds,hacendado,200,marruecos,2024-10-09,12
+899,REC-259461,12650,brioche tresse nature allege en sucres sans additifs g,harrys,450,france,2024-07-09,13
+900,REC-909459,6466,,unknown,35,morocco,2025-02-05,3
+901,REC-626158,6867,luxury hot cross buns,unknown,312,france,2025-06-27,1
+902,REC-417209,14402,cheese oatcakes,nairn's,180,france,2025-01-13,11
+903,REC-325900,8488,biscuit muesli avoine gerbl,unknown,290,francia,2025-12-21,18
+904,REC-107230,7813,fourrs myrtilles,bjorg,175,france,2025-09-28,20
+905,REC-703564,5128,chips nature loriginale nutriscore b,brets,125,france,2025-07-25,1
+906,REC-518027,6179,fine gaufre,karelea,140,france,2025-11-17,1
+907,REC-951568,10173,duplo einzelriegel,duplo,18,österreich,2025-10-21,22
+908,REC-773836,8181,orkney thick oatcakes,stockan's,200,france,2025-06-23,12
+909,REC-209292,12095,hummus chips tomato and basil,unknown,135,france,2025-04-07,3
+910,REC-792593,13517,pringles hot  spicy,pringles,165,belgium,2024-05-13,20
+911,REC-228096,14220,furrows sea salted imp,tyrrell’s,150,united kingdom,2025-06-16,4
+912,REC-620416,10629,toblerone dark chocolate with honey  almond nougat,mondelez,100,france,2024-06-04,20
+913,REC-325974,8823,dairymilk buttons,cadbury,119,switzerland,2025-12-23,9
+914,REC-214326,8029,mignonnette noir  orange,côte d'or,240,france,2025-03-17,2
+915,REC-905602,10000,kinder schokobons white,ferrero,200,austria,2025-02-12,22
+916,REC-737970,7753,stem ginger oat biscuit breaks,nairn's,160,france,2024-03-06,20
+917,REC-588226,8550,mamas babydream stillsaft,rossmann,500,germany,2025-02-09,6
+918,REC-492166,6479,nestle lion crales caramel chocolat bio g,nestlé,400,belgique,2025-01-15,8
+919,REC-577810,7442,galletas  azcares aadidos,sondey,6,españa,2024-09-03,19
+920,REC-921077,12701,chocolat villars noir  g,villars,100,france,2026-01-11,13
+921,REC-752416,6411,pan di stelle,mulino bianco pan di stelle,700,it,2024-08-24,14
+922,REC-722431,14586,crimbles coconut macarons imp,danube,180,verenigd koninkrijk,2025-02-14,8
+923,REC-914854,5745,le petit beurre,la mère poulard,145,france,2025-08-08,12
+924,REC-187840,14362,cream crackers,savour bakes,300,united kingdom,2025-10-13,22
+925,REC-842977,9067,wasa tartine croustillante sensation aux flocons davoine  touche de sel g,wasa,265,france,2025-01-16,17
+926,REC-526972,14997,skittles,wrigley,45,ireland,2025-03-12,12
+927,REC-607413,6007,excellence noir menthe intense,lindt,100,france,2024-03-22,14
+928,REC-660334,12862,cration crme brle,lindt,150,france,2025-11-24,20
+929,REC-541183,5944,macdoine,bonduelle,265,france,2025-05-02,18
+930,REC-771409,10241,riz provencal g,bonduelle,320,france,2025-05-14,17
+931,REC-488746,14777,longfizz,unknown,200,belgium,2024-08-23,21
+932,REC-126607,8019,biscuits a la cuillere,bonne maman,250,francia,2024-02-18,2
+933,REC-928442,8112,carottes rpes au jus de citron,carrefour,300,belgique,2024-07-24,19
+934,REC-249544,5181,chips a lancienne sel de gurande brets,altho,125,france,2025-08-29,11
+935,REC-812174,14956,pains au lait,la fournée dorée,350,france,2024-06-19,2
+936,REC-243111,5772,hobnobs milk chocolate,mcvities,262,france,2024-11-15,17
+937,REC-845916,5715,caprice,papadopoulos,400,bulgaria,2024-09-15,21
+938,REC-658424,5011,pte de cacahute pindakaas,calvé,350,belgien,2024-08-29,3
+939,REC-417967,12100,barni lapte,mondelez,30,france,2025-02-21,14
+940,REC-744133,13201,fiori dacqua,unknown,250,italy,2024-06-12,17
+941,REC-276523,14324,mini fish,gullón,350,france,2025-12-08,3
+942,REC-631872,11310,leader chips,unknown,20,ma,2025-02-06,12
+943,REC-566981,13056,grissini artigianali romarin,florelli,300,france,2024-02-08,6
+944,REC-412499,11003,dark chocolate,waitrose & partners,100,gb,2025-06-30,3
+945,REC-266940,5428,barre crales chocolat,carrefour bio,138,france,2024-12-16,8
+946,REC-508874,5374,texas bbq  sauce,pringles,175,france,2026-01-26,12
+947,REC-191674,12748,excellence noir suprme cors  cacao,lindt,100,france,2024-12-02,12
+948,REC-694110,12981,nature wrap de bl,snack day,6,germany,2025-01-10,19
+949,REC-949485,6585,tortillas  base de farine de bl,grafschafter,370,bulgarien,2024-09-30,18
+950,REC-189866,12756,lulu,lu,150,france,2025-06-10,10
+951,REC-391046,13826,tartines craquantes riz chtaigne,céréal bio,145,france,2024-07-28,18
+952,REC-223265,7293,pains au lait format familial,brioche pasquier,700,france,2026-01-16,4
+953,REC-416620,12032,noir amandes entieres,carrefour,200,france,2024-09-12,17
+954,REC-771257,14249,cacahutes non sales,marque repère,200,france,2024-08-08,7
+955,REC-289841,11197,corny free schoko,corny,20,bulgaria,2025-03-19,3
+956,REC-828883,13845,organic dark cooking chocolate,green & black's,150,france,2025-09-26,22
+957,REC-710834,11171,flavour cheese,lu,100,bélgica,2024-07-21,15
+958,REC-791945,5082,galleta mara,unknown,400,francia,2024-08-13,15
+959,REC-698605,7190,ferrero rocher,ferrero,37,australia,2025-06-25,3
+960,REC-739496,10470,knoppers nussriegel einzelpackung,knoppers,40,allemagne,2025-01-15,1
+961,REC-618029,10811,happy hippy  cocoa organic orange  geranium dark chocolate,montezuma's,90,united kingdom,2024-09-19,13
+962,REC-121202,7322,digestive avena,lidl,425,portugal,2024-07-01,7
+963,REC-174773,8786,hobnobs,mcvitie's,255,united kingdom,2024-02-26,17
+964,REC-654434,12872,salt  vinegar crunch,graze,100,gb,2025-08-25,9
+965,REC-459220,12098,choco leibniz  dark,bahlsen,111,united-kingdom,2024-11-27,23
+966,REC-324715,6468,galettes de pontaven,saveurs de nos régions,135,frankrijk,2024-07-10,15
+967,REC-645058,13246,envitas miel  ppites de chocolat,sondey,400,france,2024-04-18,14
+968,REC-755998,14644,cracotte fraise,lu,200,belgium,2025-05-23,13
+969,REC-435176,13068,g lindor lait lindt,lindt,150,france,2025-12-24,5
+970,REC-503494,14481,tartines craquantes bio  la chtaigne sans gluten,ekibio,150,belgium,2026-01-09,9
+971,REC-250360,6796,choco bisson cacao,unknown,15,francia,2024-09-03,3
+972,REC-233148,13914,bruschette chips,maretti,70,bulgaria,2024-09-24,12
+973,REC-930429,12217,peanut,m&m's,250,france,2025-01-12,5
+974,REC-671292,9770,pipers burrow hill cider vinegar  sea salt crisps,pipers,40,france,2024-02-27,6
+975,REC-960920,12197,gran saraceno,galbusera,100,italy,2025-07-08,3
+976,REC-886411,10840,misura privolat,misura,290,italy,2025-06-08,6
+977,REC-836786,13386,doritos nacho cheese,doritos,170,belgium,2025-12-09,4
+978,REC-949086,9818,kinder joy,ferrero,60,france,2025-04-27,18
+979,REC-636894,14818,savane tout choco,brossard,310,france,2025-10-28,4
+980,REC-434765,14231,dark chocolate nuts  sea salt,kind,40,francia,2024-04-23,16
+981,REC-330819,11633,nachos,hacendado,150,spain,2024-11-09,14
+982,REC-152003,13235,galletas chocolate,hacendado,250,españa,2024-12-08,8
+983,REC-711964,9046,gpav cracker salato pav  gr,unknown,560,italy,2024-12-07,18
+984,REC-458978,6875,smooth,green & black's,90,gb,2025-05-13,12
+985,REC-493176,10583,sea salt flavour pea and bean sticks,unknown,100,united kingdom,2025-04-01,2
+986,REC-911993,8563,patatas fritas  sal,hacendado,130,españa,2025-12-11,2
+987,REC-657100,7824,pains au lait,maitre jeanpierre,400,france,2024-12-26,6
+988,REC-737049,6163,original made with sea salt,triscuit,12,france,2024-04-08,4
+989,REC-119319,6226,fig bar raspberry,nature's bakery,57,france,2024-08-09,12
+990,REC-350392,6761,fruit oat biscuit breaks,nairn's,160,france,2025-01-18,12
+991,REC-544623,8701,ginger crystallized in dark chocolate,chocolove,3,united states,2024-10-30,20
+992,REC-310249,6590,envitas crales compltes et ppites de chocolat,sondey,400,frankrijk,2024-05-19,3
+993,REC-344208,9651,rosemary crackers,deluxe,170,united kingdom,2024-02-05,12
+994,REC-859435,14606,kitkat ball,nestlé,250,france,2025-09-22,20
+995,REC-670105,10699,pois wasabi,tanoshi,100,france,2025-09-08,23
+996,REC-914072,11988,lunettes fraise,bjorg,200,france,2024-12-25,12
+997,REC-545382,10072,crackers bio emmental et graines de courge paquet de g,u,200,france,2025-03-07,17
+998,REC-160413,8017,tartines bio craquantes multicrales sans gluten,le pain des fleurs,150,france,2024-12-17,17
+999,REC-515616,11738,galettes aux flocons davoine fourres chocolat noir,biocoop,150,france,2024-10-27,12
+1000,REC-311452,7159,mix nergie,alesto,150,frankrijk,2024-12-26,17
+1001,REC-934656,13082,g cote dor noir original,côte d'or,100,belgium,2024-11-23,7
+1002,REC-962558,5068,lotus dinosaurus original chocolat lait g xp,lotus,225,france,2025-06-08,13
+1003,REC-641713,14614,biscoff,lotus,186,czech republic,2025-06-20,15
+1004,REC-672625,10975,milka choc  choc,milka,175,bélgica,2024-05-19,9
+1005,REC-284045,14898,alpine milk,milka,270,austria,2025-05-11,11
+1006,REC-415154,13799,mini oreo,oreo,160,austria,2025-05-26,13
+1007,REC-144391,11694,wafers alla vaniglia,balconi,45,italy,2024-11-26,12
+1008,REC-462936,11321,doritos texmex,doritos,44,francia,2024-07-12,6
+1009,REC-256990,14600,flan,ideal,2,morocco,2025-08-24,12
+1010,REC-564988,10918,pains au lait frais bio  la farine complte g,la boulangère,280,france,2025-05-25,20
+1011,REC-671166,7613,galletas maria sin gluten,hacendado,205,españa,2024-12-15,13
+1012,REC-819983,8543,noir extra,equador,100,france,2025-11-17,9
+1013,REC-166982,9132,fagottini,balocco,700,italy,2024-05-14,14
+1014,REC-569439,8879,kind protein dark chocolate nut,kind,42,gb,2025-07-13,12
+1015,REC-778795,8219,recette  lancienne,lay's,295,fr,2024-05-04,10
+1016,REC-188613,10014,protein cookie double chocolate,bodymass,75,france,2025-01-29,23
+1017,REC-749759,7610,pavesini  gr,pavesi,200,francia,2025-01-04,4
+1018,REC-409122,12661,barre protine,joyfuel,55,fr,2025-05-31,4
+1019,REC-162042,10063,palitos frutos secos,hacendado,130,españa,2025-02-25,6
+1020,REC-370964,7843,sfogliatine glassate,unknown,200,bulgaria,2024-09-11,7
+1021,REC-720204,8790,granola chocolat noir,lu,195,france,2025-04-11,12
+1022,REC-828818,6623,bruges assortment biscuits,delacre,200,belgique,2025-04-28,14
+1023,REC-350692,12955,madeleines,saint michel,75,france,2024-10-27,14
+1024,REC-602222,8934,tablette dessert chocolat noir   g,intermarché,200,france,2024-10-09,13
+1025,REC-355268,10536,brioche tranche,carrefour,500,france,2025-03-12,14
+1026,REC-353264,10679,taboul au poulet  la ciboulette,pierre martinet,300,france,2024-08-30,22
+1027,REC-807086,11598,pains au chocolat pur beurre g,la boulangère,400,france,2024-12-02,12
+1028,REC-488857,8372,pains au lait,unknown,280,france,2024-03-18,16
+1029,REC-531968,8834,tartines craquantes froment,marque repère,250,france,2024-02-22,9
+1030,REC-365666,10155,chinois crme ptissire,la fournée dorée,600,france,2025-12-06,8
+1031,REC-613926,6869,grand cur fondant,michel et augustin,180,france,2024-04-17,24
+1032,REC-626897,6851,spearmint flavour,wrigley's extra,84,france,2024-11-23,2
+1033,REC-715439,6053,twiglets original,jacobs,150,france,2025-02-10,7
+1034,REC-699888,6852,tuc,tuc,150,france,2024-10-28,10
+1035,REC-714727,6682,roasted  salted peanuts,stockwell & co,200,france,2024-06-01,16
+1036,REC-562376,12578,momo white,excelo,35,france,2025-08-05,6
+1037,REC-186239,9356,,maxi sticks,60,bulgaria,2025-02-11,15
+1038,REC-383171,14854,le sfoglie,italiamo,225,croatia,2026-02-04,3
+1039,REC-154746,11883,vitamin coconut bar,sante,50,egypt,2025-08-20,2
+1040,REC-239527,6883,sour cream  onion,pringles,195,france,2024-09-24,12
+1041,REC-710440,10010,protein bar chocolate brownie,lidl,135,france,2025-07-15,17
+1042,REC-238083,5395,chocolate negro,hacendado,100,morocco,2025-03-17,18
+1043,REC-894864,8441,kinder tronky,ferrero,90,australie,2024-12-15,9
+1044,REC-903339,12486,barritas de galleta rellenas de arndanos,hacendado,125,portugal,2025-03-31,14
+1045,REC-827523,14604,mini rollos chocolat au lait  coeur fondant au lait,lu,225,france,2025-09-15,17
+1046,REC-537049,11218,gaufres au sucre perl,unknown,300,france,2024-10-10,12
+1047,REC-911943,13632,chips  lancienne nature,cmi (carrefour marchandises internationales),150,france,2025-11-30,4
+1048,REC-362150,8096,ptit dj bio crales et chocolat,unknown,190,france,2024-04-18,4
+1049,REC-378651,11845,cookies chocolat noisettes,carrefour bio,200,frankrijk,2025-12-28,12
+1050,REC-765266,12093,dipster,carrefour,170,france,2025-12-14,15
+1051,REC-678283,13434,chocolat noir aux clats damandes,alter eco,100,france,2025-09-08,18
+1052,REC-526402,12595,snacks a jacks chocolate chip rice cakes g,snack a jacks,180,france,2024-04-17,4
+1053,REC-247704,12305,dark chocolate bar with cranberries and macadamias,eat natural,3,france,2024-12-28,7
+1054,REC-432468,14210,raw fruit  nut bar,nakd.,1,spain,2025-05-01,22
+1055,REC-896481,8436,snack aper matutano doritos texmex g,doritos,120,france,2024-10-01,9
+1056,REC-346240,7082,fibrextra,misura,330,法国,2024-02-11,14
+1057,REC-810414,9410,choco chip cookies,schär,200,france,2025-04-27,10
+1058,REC-196394,9919,digestive choco,unknown,270,francia,2024-08-24,2
+1059,REC-227714,7133,cuor di cereale,gullon,265,france,2025-03-08,12
+1060,REC-309234,7988,galleta boer sabor coco,coral,450,francia,2025-06-12,12
+1061,REC-318805,13443,lu th pocket,lu,264,france,2026-01-01,21
+1062,REC-454748,14468,kp dry roasted peanuts,kp,415,france,2025-12-19,23
+1063,REC-497572,7573,kingsize peanuts unsalted,snacks of the world,375,france,2025-07-03,12
+1064,REC-832139,10919,kinder cards familypack days,ferrero,256,frankreich,2024-12-18,11
+1065,REC-485234,10933,organic peruvian  cocoa dark chocolate,moser roth,100,united kingdom,2025-04-08,24
+1066,REC-695546,12172,nascondini mb g int eu,mulino bianco,330,hrvatska,2024-02-21,7
+1067,REC-775836,13262,salted potato rings,hula hoops,45,united kingdom,2025-12-08,22
+1068,REC-922538,11230,trufas,lacasa,250,morocco,2024-12-21,13
+1069,REC-963706,10143,granola cookie cur extra moelleux,granola,5,france,2025-01-05,9
+1070,REC-886381,5823,oaty  crispy avoine  cacao x  barres de  g,unknown,115,fr,2024-07-15,15
+1071,REC-966843,6397,avoine  miel,nature valley,115,france,2024-05-08,23
+1072,REC-951651,7853,spculoos,sondey,500,france,2025-06-15,2
+1073,REC-466621,12051,chocolat noir bio  cacao,fair,100,france,2025-06-22,2
+1074,REC-479956,8720,glico mikado  go  chocolat au lait,lu,39,france,2025-11-02,1
+1075,REC-267547,5737,triangolini ssame,belin,100,france,2024-12-24,3
+1076,REC-600661,6897,g draglo haribo,haribo,300,france,2025-03-22,8
+1077,REC-758659,11467,bnnuts ds bugles got bacon,3d's bugles,85,francia,2025-05-01,3
+1078,REC-912417,8284,crousti chocolat,gerlinea,102,france,2026-01-15,6
+1079,REC-133930,12583,tartelettes framboise,bonne maman,135,belgique,2024-04-27,19
+1080,REC-229387,8763,chips de lgumes,bouton d'or,100,france,2024-02-16,24
+1081,REC-120214,6934,curly cacahute loriginal,curly,2,france,2025-07-18,1
+1082,REC-660334,5314,pains au chocolat x,marque repère,360,france,2024-03-05,21
+1083,REC-447636,14455,dli matin allg de  en sucres aux ppites de chocolat,marque repère,300,france,2024-04-15,7
+1084,REC-578343,11561,dli matin multicrales,marque repère,400,france,2025-04-30,12
+1085,REC-551973,7959,chocolat noir fves de cacao,ethiquable,100,france,2024-07-08,13
+1086,REC-110289,12074,finest selection assorted european chocolates,merci,400,bulgaria,2025-10-22,4
+1087,REC-388577,12823,doritos tangy cheese,doritos,180,united kingdom,2025-03-01,19
+1088,REC-329576,12422,mignonnette lait,côte d'or,240,belgique,2025-04-14,12
+1089,REC-870994,6103,oreo original,oreo,154,france,2024-10-06,5
+1090,REC-533704,9456,caramelo liquido,royal,400,frankreich,2024-11-02,1
+1091,REC-237148,11569,original neapolitaner,manner,400,czech republic,2025-02-24,18
+1092,REC-500768,13433,barritas frutos secos,hacendado,4,españa,2024-11-05,8
+1093,REC-128027,7976,galletas relieve,hacendado,645,españa,2025-09-21,18
+1094,REC-794061,8432,schtroumpfs,haribo,300,france,2024-06-02,19
+1095,REC-391244,5957,all butter pistachio and almond cookies,unknown,200,czech republic,2024-02-22,14
+1096,REC-451300,11473,cereali g  granola e frolla,galbusera,300,italy,2024-12-14,24
+1097,REC-535797,5960,petites tartelettes chocolat caramel,unknown,250,belgium,2025-11-24,16
+1098,REC-182838,10269,biscuits petit djeuner,ww,16,france,2024-10-06,7
+1099,REC-421396,13767,chocolate orange dipped almonds,deliciously ella,27,france,2025-06-23,1
+1100,REC-825231,12446,tablette lait noisettes et amandes piles,merveilles du monde,100,france,2025-12-17,4
+1101,REC-314385,14938,petites madeleines,bonne maman,235,france,2024-10-01,24
+1102,REC-861014,5869,fltes feuilletes fromage,snaktastic,150,france,2024-05-10,6
+1103,REC-402908,11994,musli bar apple,crownfield,200,alemanha,2024-08-17,10
+1104,REC-589457,7325,biscuits croquants avoine chocolat,evernat,130,france,2025-07-17,5
+1105,REC-762627,6644,tables du mondes  tortillas chips original,marque repère,200,france,2025-09-25,12
+1106,REC-310695,10372,rochers  chocolat au lait,suchard,245,france,2025-03-07,19
+1107,REC-622907,10440,tartines craquantes avoine,jardin bio,150,france,2024-06-04,15
+1108,REC-100261,5312,lapin dor chocolat au lait,lindt,100,åland islands,2024-06-13,16
+1109,REC-261443,5800,milchschnitte erpack,kinder,280,österreich,2024-04-13,10
+1110,REC-218902,11304,after eight,nestlé,200,france,2026-01-07,19
+1111,REC-433228,14407,after eight dark chocolate thins,unknown,400,francia,2025-09-23,18
+1112,REC-520060,7760,tuc sour cream  onion,lu,100,danmark,2025-06-21,16
+1113,REC-711588,13073,schoko bons,ferrero,125,austria,2024-10-14,19
+1114,REC-986010,11621,lindt chocoletti lait pralin noisettes,lindt,100,france,2025-03-06,12
+1115,REC-955736,11280,ricola eucalyptus,ricola,70,france,2026-02-01,3
+1116,REC-109679,14129,loacker,loacker,90,france,2025-09-27,15
+1117,REC-254616,13795,milk chocolate coated caramel wafer biscuit,tunnock’s,30,france,2025-04-29,18
+1118,REC-223368,5063,chocolat kinder chocofresh fourr lait noisette x,ferrero,102,autriche,2025-09-18,20
+1119,REC-238171,13021,chocolat ptissier noir corse  cacao,carrefour bio,200,france,2025-10-06,14
+1120,REC-820874,14237,tangfastics,haribo,175,united kingdom,2025-11-12,11
+1121,REC-253854,13050,mature cheddar  red onion,unknown,130,united kingdom,2025-12-07,23
+1122,REC-129540,8156,gerbl  no sugar added apple blackcurrant cake filling,gerblé,180,france,2024-05-15,16
+1123,REC-924905,10265,ferrero rocher haselnuss white,ferrero,90,france,2025-07-23,3
+1124,REC-885830,13132,milk chocolate buttons,montezuma,180,gb,2025-02-28,13
+1125,REC-357279,5714,sweet and salty nut,nature valley,150,united kingdom,2025-03-08,19
+1126,REC-663875,6608,tablette de chocolat  cacao varits native prou,ethiquable,100,france,2024-04-21,18
+1127,REC-317392,13484,nut  fruit mix,natural happiness,150,france,2025-09-17,9
+1128,REC-665020,8005,chewing gum pure fresh,mentos,100,france,2025-06-23,12
+1129,REC-910501,8133,flipo,henrry's,3,morocco,2024-02-19,2
+1130,REC-828771,10251,fig bar blueberry,nature's bakery,2,france,2025-09-28,14
+1131,REC-700700,8556,potato wedges slt krumpli,harvest basket,750,finland,2025-12-30,22
+1132,REC-885399,14433,la coqueline fraise,unknown,165,france,2025-05-25,11
+1133,REC-419542,12739,prince chocobarre  barre cralire au chocolat,lu,125,france,2024-09-24,4
+1134,REC-997234,11315,excellence noir zeste de citron vert,lindt,100,france,2025-04-20,6
+1135,REC-908188,5678,gnoise chocolat orange gerbl sans sucres,gerblé,140,francia,2024-06-10,14
+1136,REC-466284,10746,madeleines,unknown,300,france,2024-08-29,23
+1137,REC-849172,13249,madeleine,le ster,25,france,2024-08-04,9
+1138,REC-477050,5066,brioche tranche,chabrior,500,france,2024-04-28,1
+1139,REC-975262,10026,ma salade de lentilles  la lyonnaise,pierre martinet,300,france,2024-05-19,18
+1140,REC-692776,14428,coeur coulant au chocolat,bonne maman,160,france,2024-08-23,14
+1141,REC-124011,8836,tomates sches,florelli,270,france,2026-01-02,12
+1142,REC-831710,7549,petits sabls beaufort,ferrero,100,france,2025-01-08,2
+1143,REC-106778,5126,kinder pingui,kinder,30,bosnie-herzégovine,2024-08-25,20
+1144,REC-403416,13850,manyana,alimani,26,maroc,2025-07-24,19
+1145,REC-214722,13918,bean salt snack,zweifel vaya,80,austria,2024-10-26,7
+1146,REC-596127,8480,caramel et noisettes,milka,300,ประเทศฝรั่งเศส,2024-02-14,1
+1147,REC-193284,11180,noir pralin,côte d'or,200,belgique,2025-06-18,16
+1148,REC-569680,6109,bouches mon chri liqueur cerise x  g,unknown,168,france,2025-08-26,12
+1149,REC-893588,10623,chocolate puro con almendras,valor,250,france,2025-07-27,21
+1150,REC-969221,9167,pan tostado ajo y perejil,hacendado,170,portugal,2025-07-20,10
+1151,REC-543975,10573,galettes au bon beurre bio,st michel,130,france,2025-03-31,19
+1152,REC-959261,13262,starmix,haribo,175,canada,2025-02-14,18
+1153,REC-960717,10825,nussknacker  vollmilchschokolade,aldi,100,germany,2024-11-14,17
+1154,REC-452442,7269,avoine ssame,bjorg,130,france,2025-09-19,1
+1155,REC-513581,11470,home chip,mccain,1,united kingdom,2024-03-03,12
+1156,REC-509111,12895,grany  envie de nuts,lu,120,france,2024-11-16,10
+1157,REC-861734,13306,tortilla pops finement sal,n.a ! nature addicts,80,france,2025-04-06,10
+1158,REC-922046,5136,wild strawberry gourmet sweets,candy kittens,140,united kingdom,2024-06-15,12
+1159,REC-829105,5207,rice cracker paprika,nature addict,85,belgique,2025-07-25,22
+1160,REC-153078,6011,tablette noir noisettes et amandes piles,krokola,100,france,2025-01-30,24
+1161,REC-706672,12786,crunchy nut clusters chocolate,kellogg's,400,gb,2025-03-03,3
+1162,REC-879107,12887,multigrain crackers,savour bakes,170,united kingdom,2025-02-02,12
+1163,REC-879744,9544,tortilla wraps,snack day,740,bulgaria,2024-04-19,12
+1164,REC-257477,7630,mars,mars,51,france,2025-08-28,3
+1165,REC-434589,14272,swiss chocolate extra fine dark,marks & spencer,125,france,2024-02-22,23
+1166,REC-703352,7013,marylands chocolate chip cookies,unknown,200,france,2024-12-23,21
+1167,REC-254549,8129,chocolate sea salt,rxbar,1,united states,2025-03-23,18
+1168,REC-628296,9593,spiced biscuits,coppenrath feingebäck gmbh,600,república checa,2024-12-21,13
+1169,REC-193233,14468,galletas saladas,snack day,350,frança,2024-05-18,2
+1170,REC-850368,6790,goters rem parfum chocolat,rem,375,france,2025-10-25,11
+1171,REC-933080,12622,galettes au bon beurre,st michel,260,france,2024-05-27,7
+1172,REC-913337,13934,minizza tomate herbes de provence,belin,85,francia,2025-04-14,17
+1173,REC-910565,11429,g bubblizz lutti,lutti,250,francia,2025-02-01,24
+1174,REC-562771,5914,chips,lay's,150,france,2025-02-15,14
+1175,REC-719058,13917,moelleux tout chocolat sans sucres,gerblé,196,france,2024-11-25,18
+1176,REC-226430,14705,snack popp saveur paprika,toogood,85,france,2025-04-12,20
+1177,REC-828897,10760,madeleines longues  perles de sucre,le ster,250,francia,2025-04-30,23
+1178,REC-156780,12886,petit beurre g,u,200,france,2025-07-31,12
+1179,REC-763192,12599,chocolat noir dgustation  de cacao tablette de g,u,100,france,2025-07-11,12
+1180,REC-771999,8170,brossard  brownie familial pepites de chocolat gr,brossard,285,france,2025-08-05,12
+1181,REC-680048,10169,baguettes viennoises compltes sans sucres ajouts g,la boulangère,340,france,2025-06-16,2
+1182,REC-596232,6208,wrigleys extra peppermint,wrigley's,60,royaume-uni,2025-10-07,4
+1183,REC-434376,13775,finest scottish shortbread fingers,tesco,165,france,2025-06-09,24
+1184,REC-594932,6953,penguin biscuit bar,mcvitie's,24,france,2026-01-15,7
+1185,REC-537235,6113,sante baton proteinowy go on kakaowy,go on,50,france,2025-07-03,16
+1186,REC-508467,8482,oreo,oreo,154,czech republic,2024-07-27,9
+1187,REC-654088,13672,granola loriginal,unknown,400,france,2024-12-28,15
+1188,REC-645643,9941,lait pralin double lait,côte d'or,200,france,2026-01-13,17
+1189,REC-972955,13466,bonbons tic tac x pastilles menthe  g,ferrero,54,france,2025-04-18,11
+1190,REC-719828,9191,kinder pingui gouter frais genoise avec chocolat noir extra,ferrero,240,belgique,2025-10-06,9
+1191,REC-307113,14480,protein salted caramel nut,nature valley,160,france,2024-05-19,22
+1192,REC-939640,13338,gullon hearts of cereal breakfast,gullón,220,france,2024-09-12,4
+1193,REC-388806,9124,barritas de cereales muesli con avellanas y almendras,unknown,150,españa,2024-04-03,18
+1194,REC-677939,10397,peanut butter pretzels,kirkland signature,55,canada,2024-08-30,11
+1195,REC-840350,5585,sabls normands,carrefour,175,france,2024-11-05,19
+1196,REC-504534,11496,lotus gaufre de lige chocolat au lait g xp,unknown,363,france,2024-11-20,8
+1197,REC-794582,11106,palomitas pipocas microondas sal,hacendado,270,españa,2024-02-06,10
+1198,REC-878514,12336,milka oro,milka,100,france,2025-03-10,5
+1199,REC-595830,12601,curvies original gluten free,arvid nordquist norge as,170,france,2025-05-20,23
+1200,REC-455521,10167,hand cooked lightly salted potato crisps,specially selected,6,gb,2024-08-24,17
+1201,REC-429007,7146,cashew nuts unsalted anacardos sin sal,snacks of the world,150,france,2025-08-30,20
+1202,REC-968440,11725,skartoffel pommes,harvest basket,500,république tchèque,2024-10-24,10
+1203,REC-658069,12892,tartines craquantes sarrasin,carrefour bio,150,france,2025-11-29,8
+1204,REC-460238,12624,sour cream  onion flavour potato chips,popchips,5,gb,2025-09-29,1
+1205,REC-154663,6202,hummus bites tomato and basil,snaktastic,135,gb,2025-03-07,15
+1206,REC-661977,5994,linsen chips paprika style,funny-frisch,90,germany,2024-12-21,14
+1207,REC-418798,5047,tartines craquantes au bl complet g,u,250,france,2025-09-02,17
+1208,REC-620407,12251,brioche muffin x  g,la boulangère,250,fr,2024-04-26,14
+1209,REC-256282,9339,chocolat noir,fairglobe,180,france,2025-02-08,6
+1210,REC-660659,6007,cookies classique,delacre,136,france,2024-11-22,1
+1211,REC-292059,9137,amaretti,crosta and mollica,140,united kingdom,2025-11-19,9
+1212,REC-736619,7858,crispy seaweed thins sea salt,itsu,5,united kingdom,2024-11-11,10
+1213,REC-948811,14567,snickers x,snickers,50,france,2024-06-25,12
+1214,REC-133492,7463,doritos got nature maxi format,doritos,230,frankreich,2026-01-04,14
+1215,REC-479730,6868,chips paysanne au sel de gurande,brets,125,france,2025-02-15,17
+1216,REC-222852,7176,tartines craquantes sarrasin,jardin bio,300,france,2024-08-05,4
+1217,REC-760733,10245,chocolat noir caramel pointe de sel,ethiquable,100,france,2025-10-30,20
+1218,REC-761251,10166,biscuit petit beurre bl cplt  g,biocoop,140,france,2025-07-07,24
+1219,REC-520336,11904,bonbons  leucalyptus,amanienord fresh,300,france,2025-06-28,22
+1220,REC-441194,11892,peanut chocolate treat bag,m&m's,82,france,2025-07-12,20
+1221,REC-431820,11763,mcvities rich tea classic  x,mcvitie's,600,france,2025-12-16,11
+1222,REC-687663,5520,biscoff,lotus,250,österreich,2026-01-24,24
+1223,REC-856276,13683,ficelles olives vertes et noires,kambly,100,france,2025-03-03,5
+1224,REC-735162,5998,lindet choco swis dark yrs prod,lindt,100,france,2025-06-08,15
+1225,REC-867667,12982,moelleux multi crales,belvita,250,belgique,2024-05-17,14
+1226,REC-410547,12109,prince  biscuits fourrs got chocolat,lu,3,france,2025-06-17,16
+1227,REC-110068,13414,milka tendre au lait,milka,100,france,2025-09-22,2
+1228,REC-919137,7180,milk chocolate truffles,unknown,200,italy,2025-05-26,21
+1229,REC-944870,10506,tic tac fresh mint,unknown,18,belgique,2025-05-16,10
+1230,REC-245362,7100,doowap ppites chocolait ss additif,barilla,320,france,2025-07-25,4
+1231,REC-345822,6789,biscuii cu crem de cacao,croco,25,france,2024-10-02,14
+1232,REC-232705,10631,sea salt  chardonnay wine vinegar crisps,co op,150,france,2024-07-25,10
+1233,REC-999167,10562,potato cakes,warburtons,6,gb,2024-11-01,20
+1234,REC-605560,14622,corn puffs star w cascaval g    kg  box,star,90,franța,2025-11-14,18
+1235,REC-497922,10153,pure fresh mentos,mentos,30,spain,2026-01-24,1
+1236,REC-631891,10835,dark chocolate,waitrose,100,united kingdom,2025-03-14,12
+1237,REC-692106,13978,sea salt sourdough flatbreads,peter's yard,115,gb,2025-03-12,1
+1238,REC-496835,6799,les fourres    beurre de cacahute  cacao,funkie,250,france,2025-03-05,23
+1239,REC-602078,9849,barre aux  crales et figue,marque repère,126,france,2026-01-29,24
+1240,REC-327669,11185,brossard  savane mini dark chocolate marble cakes,brossard,210,fr,2024-03-11,1
+1241,REC-769574,5411,g ricola menthol,ricola,50,france,2026-01-22,15
+1242,REC-293254,12395,biscuits  lavoine complte nature bio g,u,130,france,2024-11-29,11
+1243,REC-706176,14601,ptit fondant coeur chocolat,bjorg,180,france,2024-06-07,22
+1244,REC-970573,7195,toffifee wei,storck,125,österreich,2024-11-20,12
+1245,REC-415914,9368,heroes,cadbury,550,russia,2026-01-21,4
+1246,REC-614261,11482,sweet chilli pepper,unknown,160,france,2024-12-10,13
+1247,REC-987997,6921,organix carrot cake oats bars,organix,6,united kingdom,2024-08-18,1
+1248,REC-173883,5736,natural original liquorice  bars,panda,128,france,2024-10-14,15
+1249,REC-296684,7349,mikrowellen popcorn salzig,mcennedy,300,france,2024-11-22,8
+1250,REC-325558,6317,petit beurre,lidl,2,france,2025-03-10,12
+1251,REC-781241,14005,biscuits complets avoine et bl bio,aachener zucker- und backwaren paul schaeffer,200,frankreich,2025-01-12,11
+1252,REC-202883,5163,cacahutes grilles  sec,bénenuts,200,france,2025-07-21,12
+1253,REC-813081,14948,cereal max energy noisette chocolat,isostar,3,france,2024-08-31,18
+1254,REC-970687,5445,sticks et bretzels,carrefour,300,belgium,2024-04-15,8
+1255,REC-467524,12183,tuiles got sal,bouton d'or,170,france,2025-06-13,20
+1256,REC-863738,14977,chips saveur aoli,brets,125,france,2024-03-28,3
+1257,REC-133930,12702,galleta de mantequilla con tableta de chocolate con leche,carrefour bio,150,france,2025-10-06,6
+1258,REC-329610,13755,le palet breton,marque repère,125,france,2024-12-07,12
+1259,REC-738029,6428,rpublique dominicaine,alter eco,100,france,2024-05-18,10
+1260,REC-296064,5497,chocolat noir quinoa,ethiquable,100,france,2025-04-02,12
+1261,REC-494728,14742,werthers original drops sukkerfri g,conaxess trade norway,42,österreich,2025-12-19,23
+1262,REC-911361,12591,storck caramel popcorn classic g,unknown,140,österreich,2025-05-20,3
+1263,REC-405085,12474,balisto miel amandes x,balisto,167,frankreich,2025-08-24,11
+1264,REC-796803,6353,barres de crales extra kelloggs miel  xg,kellogg's,128,belgium,2025-08-08,3
+1265,REC-967434,12306,cashew cookie raw fruit  nut wholefoodbars,nakd,4,ireland,2025-06-04,1
+1266,REC-907261,6921,orange menthe,ricola,50,belgique,2026-01-03,11
+1267,REC-363549,14703,choco sticks,milka,112,bulgaria,2024-09-28,16
+1268,REC-528754,5538,barre chocolate kinder bueno chocolat au lait,kinder,258,france,2025-06-06,18
+1269,REC-383715,8250,buoni cosi,galbusera,300,france,2025-03-01,16
+1270,REC-128676,5141,mixmax,balconi,35,belgium,2025-03-09,12
+1271,REC-759522,13173,cheetos sticks,cheetos,96,francia,2024-09-21,3
+1272,REC-697534,11305,chocolat gianduja,ethiquable,100,france,2024-07-16,12
+1273,REC-983695,13103,sweet  salty microwave popcorn,butterkist,180,united kingdom,2025-09-26,22
+1274,REC-591711,12690,blacks organic white chocolate bar,green & black's,90,ireland,2025-10-24,6
+1275,REC-455140,14636,classic cream crackers,asda,300,united kingdom,2025-12-17,14
+1276,REC-120006,7235,tartines craquantes sarrasin,le pain des fleurs,300,france,2026-01-10,12
+1277,REC-374758,7662,original beef stick,chomps,32,united states,2025-12-01,15
+1278,REC-197979,12416,biscotti al cioccolato,gullón,200,italy,2025-01-30,12
+1279,REC-285833,11247,salt  shake potato crisps,walkers,6,united kingdom,2024-02-15,12
+1280,REC-859689,8866,chocolat au lait,aiguebelle,100,morocco,2025-10-07,3
+1281,REC-944705,11585,sabls quilibre noisette,le moulin du pivert,150,france,2024-03-03,21
+1282,REC-611391,11450,chips saveur miel moutarde,brets,125,france,2024-11-06,14
+1283,REC-629653,14007,hot  spicy,pringles,185,germany,2025-06-19,18
+1284,REC-760152,12144,brioches barre chocolat au lait,pitch,300,france,2024-12-21,5
+1285,REC-735951,7668,sour cream  onion flavour popped potato snacks,popchips,17,united kingdom,2025-11-19,8
+1286,REC-484055,9960,cioccoavena,mulino bianco,270,italy,2025-11-13,17
+1287,REC-931515,12914,napps lait,bjorg,150,france,2024-02-20,8
+1288,REC-798251,13055,pringles hot smokin bbq ribs flavour,pringles,160,frankreich,2024-09-01,17
+1289,REC-195320,5374,dark chocolate covered pretzels with peppermint pieces,unknown,21,brazil,2025-12-27,21
+1290,REC-375991,9334,chocolat lait noisettes entires,bellarom,200,france,2024-05-21,17
+1291,REC-863414,7312,fette croccanti con sesamo,unknown,250,francia,2024-06-19,23
+1292,REC-923685,8623,crusti choc,fin carré,100,франция,2025-03-25,24
+1293,REC-988456,12487,gteau de riz au caramel,nestlé,500,france,2026-01-26,12
+1294,REC-258443,14933,boudoirs g,brossard,175,frankreich,2025-05-05,19
+1295,REC-573438,7233,haribo pik,unknown,275,france,2025-02-27,9
+1296,REC-504266,11739,repas quilibr barre saveur pomme framboise,gerlinéa,360,france,2024-02-23,23
+1297,REC-933430,9785,sabls framboise ssame,unknown,150,francia,2025-03-04,16
+1298,REC-784797,8474,petit beurre,st michel,180,france,2025-11-11,23
+1299,REC-647607,6711,clats de fves de cacao noir,unknown,100,france,2025-01-06,5
+1300,REC-692769,5208,chocolat noir   quateur,kaoka,100,france,2025-04-06,16
+1301,REC-847417,12296,loriginale,bret's,30,france,2025-01-24,16
+1302,REC-984143,10677,crackers aux graines de courge,carrefour,175,france,2024-09-10,11
+1303,REC-116729,5649,chips pomlisse,marque repère,200,france,2025-06-04,16
+1304,REC-118132,14332,rocher suchard noir  x g  g e,suchard,245,france,2024-07-28,8
+1305,REC-515635,13485,kinderriegel,ferrero,378,autriche,2024-10-05,4
+1306,REC-839852,10772,lightly salted tortilla chips,co op,200,france,2025-01-24,9
+1307,REC-899897,5645,mms  peanut,m&m's,500,france,2024-10-28,5
+1308,REC-309726,12564,toasting muffins,unknown,256,united kingdom,2024-12-14,17
+1309,REC-282639,13493,chocolat brownie,milka,180,belgique,2024-08-23,14
+1310,REC-118285,10381,kinder bueno mini,kinder,108,belgium,2024-11-09,3
+1311,REC-274883,6628,butterkeks petit beurre,schär,165,france,2026-01-31,11
+1312,REC-447723,7092,il cracker,gran pavesi,560,france,2025-06-12,12
+1313,REC-463087,7560,primizie,unknown,700,france,2025-10-17,2
+1314,REC-346480,5746,crunchy avena y miel,nature valley,210,portugal,2026-01-23,20
+1315,REC-142184,9672,naturel chips,unknown,275,belgium,2025-03-22,12
+1316,REC-629911,8800,classic,lay's,8,united states,2025-04-20,8
+1317,REC-835675,10442,team up,tiffany,24,morocco,2024-07-04,14
+1318,REC-480076,12318,ses,aldi,125,france,2024-05-13,23
+1319,REC-338665,11750,croc break,marque repère,300,france,2025-04-09,10
+1320,REC-185822,7896,graina abricot barres aux  crales mas,grainéa,126,frankrijk,2024-09-21,24
+1321,REC-932820,5437,tortilla chips avocado guacamole flavour,mister free'd,135,germany,2025-05-03,11
+1322,REC-362921,9748,gewrzspekulatius,wintertraum,600,deutschland,2024-11-24,10
+1323,REC-313371,9652,biscuits peautre et ssame,carrefour,170,france,2025-10-19,24
+1324,REC-971893,8711,tartines grilles craquantes au froment g,u,250,france,2024-09-15,22
+1325,REC-290308,14599,sour watermelon,candy kittens,140,united kingdom,2024-07-25,12
+1326,REC-439794,12701,schokolade halbbitter,ritter sport,100,germany,2025-07-28,4
+1327,REC-263925,13938,crunchips paprika,unknown,150,deutschland,2025-12-28,22
+1328,REC-295417,13481,cacao noir,carrefour,80,france,2024-04-26,8
+1329,REC-498452,13496,nestle fitness cocoa protein bar multipack,nestlé,4,allemagne,2025-10-25,17
+1330,REC-554259,11314,mikado,glico,100,france,2025-09-04,14
+1331,REC-881519,7304,nocciolata,rigoni di asiago,250,france,2025-02-17,24
+1332,REC-596684,7736,dark milk chocolate with blood orange,marks & spencer,100,united kingdom,2024-08-01,12
+1333,REC-577588,8792,original saltine crackers,premium,1,united states,2025-09-09,1
+1334,REC-266020,6846,cinnamon brown sugar breakfast biscuits,belvita,1,france,2025-02-10,24
+1335,REC-772267,11957,organic tortilla chips,unknown,40,united states,2024-04-29,2
+1336,REC-364543,8627,bastoncini salati,snack day,250,frankreich,2025-04-25,9
+1337,REC-928943,8231,rich tea biscuits,tower gate,300,united kingdom,2025-12-12,12
+1338,REC-308580,10938,nature tortilla,snack day,300,frankrijk,2026-02-04,1
+1339,REC-874194,9592,lait amandes caramlises,fin carré,200,finlande,2025-11-15,12
+1340,REC-951803,10221,pains au lait,les pâtissadesaldi,400,canada,2025-06-07,23
+1341,REC-113164,6647,belvita petitdjeuner original,belvita,400,belgique,2024-02-14,11
+1342,REC-641701,11454,cheetos got fromage,cheetos,75,france,2025-04-07,6
+1343,REC-540919,11809,biscuit cacaot fourr saveur vanille,gerblé,176,francia,2025-08-09,1
+1344,REC-949221,11012,cookies chocolat noisettes,bonne maman,225,belgium,2024-03-21,8
+1345,REC-616247,5031,tuiles saveur crme oignon,bouton d'or,170,france,2024-04-21,17
+1346,REC-605140,10715,crackers  graines  bio,chabrior,200,france,2024-07-04,5
+1347,REC-903541,13160,vico la classique g,intersnack,400,france,2024-10-10,5
+1348,REC-533561,7488,chocolate fitness special k,nestlé,23,belgium,2024-08-18,7
+1349,REC-966633,7264,noir quinoa souffl,alter eco,100,france,2024-04-03,23
+1350,REC-875560,9194,lightly sea salted crisps,coop,150,france,2025-03-28,11
+1351,REC-670784,13967,soreen malt loaf g,soreen,190,france,2024-02-16,22
+1352,REC-527275,5384,croissant with cocoa filling,7 days,65,poland,2025-07-04,20
+1353,REC-706193,12973,belvita muesli,belvita,300,france,2025-09-10,24
+1354,REC-927322,13805,petit lu beurre  sel de gurande,lu,200,france,2024-05-07,13
+1355,REC-660478,7220,prince,lu,300,belgien,2024-12-28,9
+1356,REC-408670,11847,leo,milka,33,belgium,2024-08-15,4
+1357,REC-113161,14871,ferrero rocher,ferrero,375,albania,2024-03-30,10
+1358,REC-238315,9290,magretti,galbusera,260,italy,2025-11-04,8
+1359,REC-911324,14318,mix milk,balconi,1,belgium,2024-08-04,4
+1360,REC-765162,12371,chocolate puro,valor,300,spain,2025-07-12,12
+1361,REC-308966,13284,mega duo doble cacao,gullón,500,algeria,2026-01-15,23
+1362,REC-696383,5480,lays oven baked roasted paprika,lay's,150,belgium,2025-03-11,8
+1363,REC-853198,10142,karamelov pomaznka v lednici,saveurs de nos régions,340,frankreich,2025-06-08,16
+1364,REC-145978,9537,fig rolls,lidl,200,france,2025-04-26,20
+1365,REC-989461,6751,bio organic,gullón,170,bulgaria,2025-05-22,13
+1366,REC-725479,5077,micro popcorn sare,chio,80,франция,2025-08-20,11
+1367,REC-380923,10061,ready salted crisps,by sainsbury's,6,gb,2024-09-24,19
+1368,REC-749978,14606,grenada,j.d. gross,100,deutschland,2024-12-08,9
+1369,REC-435053,8868,barres granola au sirop drable,crownfield,252,united kingdom,2024-05-24,17
+1370,REC-441887,7964,sea salt  chardonny vinegar,aldi specially selected,150,united kingdom,2024-10-08,12
+1371,REC-470270,13664,chicles hierbabuena,hacendado,100,marruecos,2024-05-07,14
+1372,REC-336409,5511,chips  la crevette,suzi wan,50,france,2025-02-08,21
+1373,REC-678154,11417,monster munch crazy got crme oignon,intersnack,150,fr,2024-09-04,2
+1374,REC-560466,6280,baked sea salt,walkers,6,united kingdom,2025-11-04,6
+1375,REC-562193,10067,lays paysanne saveur oignons de roscoff caramlis,lay's,120,frankreich,2024-08-22,7
+1376,REC-418321,13314,paprika,pringles,185,spain,2024-11-01,10
+1377,REC-624005,12396,tablette de chocolat noir excellence paillet dentelle,unknown,100,france,2025-03-07,12
+1378,REC-717890,12277,barres au son davoine,monoprix,180,france,2025-08-30,12
+1379,REC-284514,11871,petit dej pepites de chocolat  miel,gerblé,132,france,2024-03-06,11
+1380,REC-162086,6398,chocolat noir  cacao,lidl,6,france,2025-05-23,19
+1381,REC-523299,8641,roasted pistachios,the foodie market,200,united kingdom,2024-04-28,19
+1382,REC-704408,13666,protein bar caramel,nākd,45,united kingdom,2024-04-01,15
+1383,REC-608717,11578,rosemary  sea salt flatbread thins,rivercote,125,united kingdom,2025-06-07,7
+1384,REC-533848,14633,ptit gouter,it,52,morocco,2025-02-16,8
+1385,REC-281034,10067,chocolate and hazelnut cake,shär gluten-free,180,france,2025-08-15,2
+1386,REC-560283,14299,nacho cheese flavored tortilla chips,doritos,1,bolivia,2024-08-22,12
+1387,REC-660776,8703,jammie dodgers raspberry flavour,unknown,140,france,2025-03-22,12
+1388,REC-270756,13511,barre ptissire aux ufs frais,unknown,800,france,2025-05-30,10
+1389,REC-523713,12802,rotella,haribo,300,francia,2025-03-29,3
+1390,REC-480368,11259,galettes au bon beurre,st michel,520,france,2024-08-04,6
+1391,REC-213646,6733,la madeleine bio,bjorg,225,france,2024-10-12,10
+1392,REC-718928,7499,cookies bio quinoa ppites chocolat paquet de g,unknown,175,france,2025-05-25,6
+1393,REC-770218,10206,brioche tresse pur beurre g,la boulangère,800,france,2025-05-29,3
+1394,REC-684462,9477,chips paysannes nature,marque repère,150,frankrijk,2025-08-28,13
+1395,REC-358374,11840,petit beurre nature,bisson,150,france,2024-08-14,19
+1396,REC-357252,5798,chocolat noir gingembre confit,ethiquable,100,france,2025-02-07,13
+1397,REC-746500,6227,milchschnitte,kinder,140,österreich,2025-12-19,14
+1398,REC-461096,8348,fruit  oat bakes apple,unknown,210,france,2024-10-25,11
+1399,REC-689540,14734,walkers salt  vinegar crisps  pack  outer packaging only,walkers,6,france,2025-08-29,9
+1400,REC-819471,5267,urban fruit snack pack strawberry,smashing strawberry,35,france,2024-09-07,23
+1401,REC-404392,13108,start,saïda,250,france,2024-04-30,22
+1402,REC-592505,6087,milka au lait du pays alpin,milka,3,france,2025-08-02,11
+1403,REC-388107,14151,crackers cereali antichi,misura,350,france,2025-05-19,24
+1404,REC-221970,11259,lindor lait,unknown,337,france,2025-01-24,11
+1405,REC-717375,14227,tortilla nachips,unknown,300,france,2025-08-16,10
+1406,REC-648523,12637,chocolate negro,valor,170,france,2025-03-20,1
+1407,REC-405076,7744,twins chocolate,gullón,42,algeria,2024-02-09,1
+1408,REC-922293,13136,la galette gourmande chocolat noir,st michel,121,france,2026-01-11,11
+1409,REC-318216,7278,tacos,fritosa,20,maroc,2025-03-05,17
+1410,REC-722710,14090,conikos got chili,conikos,30,morocco,2024-08-03,14
+1411,REC-709097,6887,gluten free oaties syrupy  crumbly,unknown,160,united kingdom,2024-06-30,10
+1412,REC-590297,8041,protein bar  muscle mass  caramel cookie flavor,unknown,60,france,2024-10-18,24
+1413,REC-408468,13382,tvarohov tyinka protein,milbona,40,horvátország,2025-10-01,19
+1414,REC-707308,13091,maltesers,maltesers,102,united kingdom,2024-02-26,21
+1415,REC-188356,11678,cranberries dried  sweetened,alesto,250,france,2024-04-14,8
+1416,REC-802461,11965,rye sourdough crackers,m&s,130,united kingdom,2024-10-03,16
+1417,REC-211192,10673,brioche ppites de chocolat,pitch,300,france,2024-05-03,14
+1418,REC-712813,7216,crunchy chocolat  au lait,nature valley,8,france,2025-04-23,23
+1419,REC-300048,11972,lentil chips,snackrite,5,gb,2025-09-01,15
+1420,REC-942276,10937,zartes bltterteiggebck,sondey,100,germany,2025-01-29,14
+1421,REC-434443,7467,patatas fritas extra crunch,hacendado,150,portugal,2025-08-10,6
+1422,REC-888507,8745,chips de lentilles,vico,85,france,2025-08-02,2
+1423,REC-196930,10252,protein peanuts,eat natural,40,united kingdom,2024-08-15,19
+1424,REC-926063,7057,gche tranche pur beurre g,la boulangère,400,france,2024-09-06,6
+1425,REC-562451,12630,aussie bites,universal bakery,30,canada,2025-05-21,8
+1426,REC-117941,9141,schokobutterkeks zartbitter,unknown,125,finland,2025-04-15,15
+1427,REC-259952,12952,lindt chocolate negro limon con gengibre con amandes,lindt&sprüngli,100,france,2024-09-09,9
+1428,REC-231257,11364,biscuit crousti pause choco noisette ss gluten,gerblé,125,france,2025-03-18,17
+1429,REC-294681,5507,biscuits galettes pur beurre bio,u,125,france,2024-10-25,18
+1430,REC-876279,12166,croissants,brioche pasquier,320,france,2025-12-13,23
+1431,REC-755308,9720,pains au chocolat format familial,brioche pasquier,720,france,2024-04-14,18
+1432,REC-615123,14598,curly donuts,vico,100,france,2024-03-20,17
+1433,REC-840145,13002,chips de lentilles aux petits oignons,jardin bio,50,france,2025-05-20,1
+1434,REC-784546,6826,brossard  mini brownie choco pepites,brossard,240,frankreich,2026-01-17,15
+1435,REC-660384,14599,crackers emmental graines de courge,bio village,200,france,2024-11-26,12
+1436,REC-666118,8053,pain dpices,jardin bio,300,france,2024-12-12,17
+1437,REC-675310,5295,merci  milk chocolate,merci,250,болгария,2024-08-21,11
+1438,REC-246477,14773,puffreis mit schokolade,nippon,200,france,2024-06-06,7
+1439,REC-624042,14013,cream crackers crispy crackers,jacob's,200,frança,2024-12-22,9
+1440,REC-266711,6408,cheese  onion,pringles,165,croatia,2024-04-15,9
+1441,REC-287637,11759,cacao  almond oat bar,deliciously ella,50,france,2024-10-07,10
+1442,REC-911612,5751,lotus gaufre de lige perles de sucre format familial g xp,lotus,450,france,2025-06-23,14
+1443,REC-281338,8612,loriginal lait,côte d'or,300,france,2025-11-22,21
+1444,REC-677128,7104,croustilles aux cacahutes,belin,138,france,2024-03-14,12
+1445,REC-213299,5486,crunch lot de,nestlé,200,france,2026-01-18,16
+1446,REC-166854,14439,kinder schokolade,kinder,300,austria,2024-03-10,24
+1447,REC-499463,6980,mix max,balconi,350,australia,2024-12-03,18
+1448,REC-528478,5190,colcuore,galbusera,300,francia,2024-05-23,16
+1449,REC-545836,14539,kaskys,tosfrit,40,france,2024-03-16,12
+1450,REC-960157,9215,scottish seeded oatcakes,rivercote,250,france,2025-02-25,20
+1451,REC-372031,13167,noix de cajou sales,snacks of the world,150,france,2024-04-08,16
+1452,REC-512536,6306,smart price lightly salted tortilla chips,asda,180,united kingdom,2024-02-18,5
+1453,REC-887070,6548,cereal noisette,unknown,204,france,2024-11-08,6
+1454,REC-317779,10106,kingsize peanuts salted,snacks of the world,375,belgium,2025-02-12,11
+1455,REC-880561,6240,palets bretons,carrefour,125,france,2025-04-21,12
+1456,REC-474884,11263,beignet chocolat noisette x,brioche pasquier,270,france,2025-05-31,7
+1457,REC-530633,10668,dark chocolate gingers,border,150,royaume-uni,2024-03-22,20
+1458,REC-565108,5838,oatcakes,asda,250,united kingdom,2025-11-04,1
+1459,REC-768122,5892,savane tout choco,brossard,210,france,2025-12-30,12
+1460,REC-184966,13867,noir extra fondant,lindt,100,france,2024-09-26,18
+1461,REC-569488,7725,crispy biscuit slices,mcvitie's,174,gb,2024-09-23,10
+1462,REC-331462,11555,savoiardi,schär,200,france,2024-03-23,16
+1463,REC-627101,5903,original stapelchips,snack day,170,frança,2025-10-16,24
+1464,REC-433103,8611,cacahutes grilles  sec,alesto,150,france,2024-11-21,5
+1465,REC-101499,5263,grany chocolat  crales,unknown,208,france,2025-06-01,16
+1466,REC-742367,11642,sticks dalsace g,dr. oetker,200,france,2025-04-02,1
+1467,REC-894827,10123,special k  crales chocolat noir,kellogg's,21,belgium,2025-03-30,20
+1468,REC-812771,5428,biscuit fondant choco lait,gerblé,126,francia,2025-09-05,17
+1469,REC-437121,8763,madeleines,st michel,85,france,2025-12-11,12
+1470,REC-383525,9827,chocolat noir dgustation  de cacao tablette de g,u,100,france,2025-08-12,3
+1471,REC-423178,12254,chocolat noir  ptisser tablette de g,u,200,france,2025-03-22,16
+1472,REC-365837,10357,brioche tresse tranche nature,brioche pasquier,500,france,2025-03-28,13
+1473,REC-874145,6418,mon taboul au poulet  la ciboulette,unknown,500,france,2024-07-15,10
+1474,REC-673640,6439,crpe dentelle chocolat au lait,unknown,90,ranska,2025-05-01,1
+1475,REC-694391,10758,chips les natures craquantes,bret's,250,france,2025-12-23,2
+1476,REC-348151,7037,sabls au beurre,carrefour bio,200,belgique,2024-11-17,8
+1477,REC-699551,10641,stylesse chocolat noir,carrefour,300,france,2024-06-12,4
+1478,REC-831048,7204,cacahutes grilles et sales,marque repère,500,france,2024-10-18,2
+1479,REC-939057,6148,g michoko noir,la pie qui chante,280,francia,2025-04-05,24
+1480,REC-215473,8452,petit beurre nature sans sucres,karéléa,150,france,2024-04-27,12
+1481,REC-752927,10694,kinder pingui schoko erpackung,ferrero,120,belgique,2024-11-02,4
+1482,REC-444881,11235,veggie straws  with kale,eat real,113,france,2024-12-08,1
+1483,REC-863670,11314,fruit  nut bar dark chocolate,unknown,45,france,2024-11-15,12
+1484,REC-619927,13487,belgian chocolate guylian seashells,unknown,250,australia,2024-03-26,8
+1485,REC-968580,10620,biscuit fourr  la crme got chocolat,kif,130,france,2026-01-16,11
+1486,REC-161923,7368,delicate crisp rosemary  sea salt,wasa,190,austria,2025-05-06,6
+1487,REC-323873,13205,creme egg,cadbury,200,france,2024-07-27,13
+1488,REC-285293,12488,lindor assorted chocolate truffles box,lindt,200,united kingdom,2024-12-06,6
+1489,REC-614367,11746,wasabi peanuts,snacks of the world,250,belgia,2024-06-27,12
+1490,REC-661881,13249,novellini,italiamo,350,switzerland,2025-10-11,15
+1491,REC-502336,5314,coconut  chia oat biscuits imp,nairn's,200,gb,2026-01-13,8
+1492,REC-803423,10754,salt  shake potato crisps,walkers,24,gb,2025-06-24,2
+1493,REC-234551,11802,pains au lait,brioches fonteneau,280,france,2025-05-05,12
+1494,REC-425941,7480,thins cheddar  pepper,savour bakes,125,gb,2024-06-17,11
+1495,REC-133406,9705,all natural nut bar,2keep,3,france,2025-11-28,21
+1496,REC-834815,12827,gianduja noir clats de noisettes,ethiquable,100,france,2024-06-19,4
+1497,REC-328296,9151,applies  blueberries mini fruit bar,that's it.,480,united states,2024-03-04,19
+1498,REC-988381,5604,cacao collection,trapa,85,spain,2025-08-09,19
+1499,REC-496103,10133,nachos texmex,hacendado,150,spain,2025-06-10,6
+1500,REC-597052,11199,pistachios roasted  salted,alesto,500,italy,2024-03-06,13
+1501,REC-485097,12291,salt and vinegar flavour peanuts,kp,225,united kingdom,2025-05-08,23
+1502,REC-114225,13553,chips paysanne nature,carrefour,150,france,2024-04-09,4
+1503,REC-466727,9459,merendina double choco g,bimo,36,ma,2024-10-04,12
+1504,REC-275066,8945,almond flour crackers fine ground sea salt,simple mills,2,united states,2024-08-15,9
+1505,REC-830505,8833,all butter shortbread fingers,morrisons,210,gb,2024-03-08,19
+1506,REC-123390,7316,bonbons aux plantes des alpes suisses cassis,ricola,50,france,2025-10-02,23
+1507,REC-214055,12736,noir  cacao equateur,carrefour bio,100,france,2025-08-02,21
+1508,REC-298530,10033,guet apens,lu,105,france,2025-01-14,4
+1509,REC-866392,5921,protein cookie,bodymass,75,france,2024-11-18,5
+1510,REC-742480,9024,snack balls figues,vemondo,144,france,2024-05-07,11
+1511,REC-545649,11120,lightly salted hand cooked potato crisps,lidl,150,gb,2024-10-21,19
+1512,REC-941169,5375,ancora uno frolla con cioccolato in pezzi,tremarie,360,france,2025-11-01,20
+1513,REC-255667,10300,doritos saveur barbecue,doritos,160,fr,2024-03-02,7
+1514,REC-567322,14775,vollmilch extra cremig,j.d. gross,125,france,2024-10-18,15
+1515,REC-100659,7767,bio biscuits  lavoine,sondey,200,france,2025-07-26,22
+1516,REC-824368,13005,high protein milk chocolate crisp,fincarre,90,netherlands,2024-12-16,18
+1517,REC-296278,5447,celebrations,mars foods,550,morocco,2024-12-04,2
+1518,REC-595991,6850,goldfish,pepperidge farm,6,france,2024-12-20,3
+1519,REC-356909,14164,peanut butter dark chocolate chewy bar,nature valley,40,france,2024-10-26,17
+1520,REC-741800,13308,blueberry,rxbar,52,united states,2026-01-12,21
+1521,REC-878739,14063,madeleines,délices de kerloch,500,france,2025-06-28,2
+1522,REC-856664,7265,chocolat noir  la pointe de sel,j.d. gross,125,república checa,2025-11-13,5
+1523,REC-226531,6538,pains au chocolat,maitre jean pierre,450,france,2024-08-27,12
+1524,REC-315687,10253,pockitos chocolat au lait,lu,295,france,2025-07-02,15
+1525,REC-197124,6049,box best of,belin,205,france,2025-01-11,20
+1526,REC-720028,5182,cration pralin feuillet,lindt,150,francia,2025-06-14,16
+1527,REC-452156,8639,brossard  le cake aux fruits gr,brossard,300,france,2025-12-02,12
+1528,REC-700054,11108,lays ds bugles got cacahute,lay's,85,frankrijk,2025-01-31,6
+1529,REC-532694,7920,gerbl  sugar free orange chocolate chip shortbread,gerblé,100,france,2025-11-15,8
+1530,REC-535318,11744,le veggie snack popp aux lgumes,too good,85,france,2025-11-18,14
+1531,REC-814183,13433,madeleines extra moelleuses,unknown,400,france,2025-05-01,6
+1532,REC-183927,6897,quatrequarts pur beurre,ker cadélac,500,francia,2025-12-01,7
+1533,REC-728522,12143,monster munch got jambon fromage,intersnack,2,france,2024-02-26,12
+1534,REC-492841,10931,pains au chocolat,carrefour,360,france,2025-07-29,7
+1535,REC-747392,9683,sticks  bretzels,marque repère,300,france,2025-02-17,12
+1536,REC-798416,9150,lapin dor chocolat au lait,lindt,200,france,2024-06-23,12
+1537,REC-122946,5119,vico pop corn baff caramel,unknown,100,france,2025-05-03,4
+1538,REC-426186,7246,mars glac,mars,250,bélgica,2025-05-27,13
+1539,REC-750895,10059,walkers cheese  onion crisps pk,walkers,6,united kingdom,2025-10-06,24
+1540,REC-975007,14456,almond  apricot bars,eat natural,3,belgium,2025-10-25,8
+1541,REC-858419,8694,pringles cheese  onion,pringles,165,france,2026-01-28,21
+1542,REC-293786,9063,love corn smoked bbq imp,love corn,45,france,2025-05-13,14
+1543,REC-676694,13947,biscuits super extra,saïda,190,tunisia,2025-11-14,12
+1544,REC-960640,6302,g c or lt raisin noiset,côte d'or,180,france,2024-08-27,18
+1545,REC-556090,5071,dairy milk,cadbury,110,france,2024-08-05,1
+1546,REC-955170,9514,vitalday crocant chocolate,gullón,280,portugal,2024-03-30,24
+1547,REC-776503,12768,desayuno integral,florbú,350,francia,2025-09-11,12
+1548,REC-950203,12120,barritas muesli chocolate,hacendado,138,spain,2025-03-30,17
+1549,REC-834363,8967,garlic bread,becky's,150,france,2025-12-16,21
+1550,REC-127214,13611,tentation,aiguebelle,100,france,2025-03-01,17
+1551,REC-916183,10405,barrette arachidi e cioccolato al latte,crownfield,96,france,2024-06-21,21
+1552,REC-231756,7090,wr shortbread fingers g,unknown,200,france,2024-03-01,4
+1553,REC-134748,11048,organic oatmeal dark chocolate,unknown,22,united states,2024-03-09,10
+1554,REC-949000,9092,dark  salted caramel vegan chocolate,raw halo,7,gb,2024-12-11,7
+1555,REC-109016,8773,bonbons aux plantes,ricola,50,france,2025-04-24,17
+1556,REC-618241,11518,briochettes aux ppites de chocolat au lait,maître jean pierre,500,france,2024-07-30,9
+1557,REC-153948,10919,avoine chocolat,karéléa,150,france,2024-05-17,3
+1558,REC-394009,6314,mini gaufres au chocolat au lait,lightbody,250,france,2025-01-10,12
+1559,REC-237575,10631,haribo dragolo,unknown,750,france,2025-03-09,9
+1560,REC-329651,11948,brunch bar raisin,cadbury,32,united kingdom,2024-07-26,15
+1561,REC-709697,10882,cocktail sans sel ajout,carrefour,120,france,2025-11-27,21
+1562,REC-506257,14183,harvest snaps lightly salted crispy baked veggie snacks,calbee,20,us,2024-09-16,15
+1563,REC-204100,6302,oaties,nairn's,160,united kingdom,2024-09-30,10
+1564,REC-235548,6150,graze cocoa vanilla,unknown,50,gb,2024-02-25,14
+1565,REC-912543,5914,patatas fritas sabor campestre,hacendado,150,españa,2024-04-26,17
+1566,REC-569021,8333,petit ourson guimauve,cemoi,170,france,2025-07-13,9
+1567,REC-239025,6226,takis dragon sweet chilli,takis,92,germany,2025-01-20,17
+1568,REC-260077,11755,skittles taste the rainbow fruits,mars,136,marokko,2024-07-12,3
+1569,REC-365239,9505,oreo white protein bar,grenade,60,vereinigtes königreich,2024-12-26,1
+1570,REC-826388,14165,rosemary crackers,tesco,185,united-kingdom,2025-08-02,12
+1571,REC-817002,12841,oreo,unknown,43,india,2024-09-18,20
+1572,REC-189159,13365,mini tartelettes,unknown,250,france,2025-12-15,13
+1573,REC-970492,7139,crunchy cookies,kinder,8,frankreich,2024-08-31,4
+1574,REC-613132,7615,cantuccini alle mandorle,italiamo,300,france,2025-03-21,11
+1575,REC-857303,9481,pain dpices aux fruits,deluxe,400,france,2024-03-26,18
+1576,REC-110909,14221,crackers apritif bl complet,heudebert,250,france,2025-02-19,22
+1577,REC-792833,7940,excellence dark  cocoa,lindt,35,france,2025-04-01,1
+1578,REC-220315,9356,zanzigliss g,haribo,300,france,2025-12-29,18
+1579,REC-749948,9108,biscuits delacre cigarettes russes  g,delacre,200,france,2025-02-02,4
+1580,REC-374713,13698,galette mas chocolat au lait,gerblé,124,france,2024-04-11,17
+1581,REC-575108,8985,cake moeles,st michel,500,france,2025-02-01,9
+1582,REC-282727,12865,lotus gaufres fourres cur fondant vergeoise g xp,lotus,310,belgium,2024-04-25,8
+1583,REC-277635,6419,palets bretons spcialit de pontaven au beurre,carrefour,100,france,2024-10-28,16
+1584,REC-722891,14870,madeleines moelleuses,carrefour,500,france,2024-06-16,12
+1585,REC-480230,10572,biscuits sabls bio amandes citron paquet de g,u,200,frankrijk,2024-06-24,4
+1586,REC-945761,12273,brioche tresse tranche ppites,pasquier,500,france,2025-08-10,12
+1587,REC-397859,14018,biscuits rose de reims,maison fossier,250,france,2025-05-05,22
+1588,REC-483281,6658,crackers emmental  pipas de calabaza,carrefour bio,200,france,2024-09-04,21
+1589,REC-542499,14723,noisette,carrefour,125,belgique,2025-07-29,12
+1590,REC-158707,10636,chips  la crevette,carrefour,75,france,2025-07-22,21
+1591,REC-503962,5250,madeleines coquilles,marque repère,600,france,2024-02-18,8
+1592,REC-134302,13349,chocolat noir dessert bio,bio village,200,france,2024-04-24,3
+1593,REC-780500,11027,chocolat noir intense dgustation,alter eco,100,france,2025-12-16,7
+1594,REC-262002,10387,chocolat au lait riz souffl,ethiquable,100,france,2025-12-18,21
+1595,REC-760560,13477,balisto miel amandes x,balisto,185,autriche,2024-05-23,24
+1596,REC-622940,9705,ptit dj  biscuits napps de chocolat au lait,bn,200,france,2024-10-04,16
+1597,REC-459206,13428,mature cheddar  red onion flavour hand cooked crisps,tesco,150,united kingdom,2025-01-23,8
+1598,REC-459551,7567,the original digestive,mcvitie's,400,france,2025-05-24,16
+1599,REC-259772,13395,pipers lye cross cheddar  onion crisps,pipers,150,france,2025-01-24,12
+1600,REC-461969,11039,browniz,moulin d'or,60,france,2025-05-28,22
+1601,REC-594359,11238,bonbons ricola aux plantes,ricola,70,france,2025-01-19,17
+1602,REC-680660,7317,choco moo,milka,200,france,2025-05-06,20
+1603,REC-315527,11665,lufle alpenmilch,milka,100,germany,2025-02-18,3
+1604,REC-708074,8505,riso su riso croccantezza integrale,galbusera,380,italy,2025-10-27,7
+1605,REC-914960,7458,granetti integrali,barilla,280,frankreich,2025-11-07,24
+1606,REC-600928,5117,cookies sin glten sin azcares aadidos,gullón,130,francuska,2026-01-23,16
+1607,REC-328260,11900,chocotom,tom,190,france,2025-03-08,2
+1608,REC-233927,7321,galleta mara integral,hacendado,800,españa,2025-12-16,8
+1609,REC-726163,7852,matzos flame baked crackers,rakusen's of yorkshire,300,france,2024-07-17,9
+1610,REC-582339,8517,croissants,unknown,8,united kingdom,2025-06-11,18
+1611,REC-827812,7614,receta campesina,lay's,130,portugal,2025-08-21,15
+1612,REC-767435,10890,sweet chilli crackers,rivercote,100,united kingdom,2025-05-15,19
+1613,REC-705267,7516,galleta crocant con copos de avena zero,gullón,280,portugal,2025-08-08,14
+1614,REC-339894,7647,g polka haribo,haribo,300,france,2024-07-19,12
+1615,REC-568951,10854,scottish seeded oatcakes,aldi,250,united kingdom,2024-07-04,15
+1616,REC-816569,13437,masala munch,kurkure,44,india,2024-04-06,17
+1617,REC-250735,12035,cuquis,hacendado,80,españa,2025-01-14,23
+1618,REC-757617,11889,lotus biscoff speculoos fourr  crme saveur vanille  g,lotus,150,belgium,2025-06-04,7
+1619,REC-759596,14529,saracene,balocco,700,italia,2025-05-31,2
+1620,REC-961108,6535,savane familial chocolat noir,brossard,310,france,2024-12-29,21
+1621,REC-275926,8095,digestive zero azcares,gullón,2,españa,2025-03-26,19
+1622,REC-177589,9352,finest sea salt and black pepper crisps,unknown,1,united kingdom,2025-12-29,19
+1623,REC-445276,7810,trident peppermint flavor,trident,5,morocco,2024-09-07,12
+1624,REC-272885,12736,tendre cur chocolat,bonne maman,300,francia,2025-09-26,9
+1625,REC-692202,9000,mini cheddars original,jacob's,45,united kingdom,2024-10-03,12
+1626,REC-948001,9616,cracker salati con lievito madre mulino bianco,mulino bianco,500,it:it,2025-03-08,21
+1627,REC-848277,6455,cheese flavour potato snacks,walkers,6,france,2024-05-25,5
+1628,REC-229671,6852,fingers,cadbury,20,france,2024-12-07,20
+1629,REC-190698,10084,goldbren,haribo,175,deutschland,2024-10-01,5
+1630,REC-321026,13459,barres de crales chocolat noir,crownfield,124,fr,2025-01-21,20
+1631,REC-403580,13221,carrot cake bars,bear,4,gb,2024-12-12,3
+1632,REC-687579,7812,roasted  salted peanuts,unknown,200,gb,2024-08-16,22
+1633,REC-839107,14101,superfood oat bites cocoa  orange,lidl,4,gb,2024-04-14,6
+1634,REC-551244,5829,leka gaufre,mecho,100,morocco,2025-08-15,14
+1635,REC-901507,13405,dark chocolate nuts  sea salt,kind,14,spain,2025-01-06,23
+1636,REC-771597,6545,kafferep aveia,ikea,600,france,2025-05-16,13
+1637,REC-341113,8175,grandino ppites de chocolat  nougatine,sondey,200,france,2024-11-02,9
+1638,REC-419021,9284,salsa dip medium,snack day,315,france,2024-04-01,24
+1639,REC-574998,8815,barquette fraise,sondey,120,france,2024-08-30,3
+1640,REC-365695,12545,vegetable crisps,crusti croc,100,france,2024-08-21,12
+1641,REC-297142,10718,la barquette chocolat,lu,120,france,2024-08-17,10
+1642,REC-505913,7430,nestle les recettes de latelier  carrs dgustation chocolat noir   g,unknown,210,france,2025-03-06,24
+1643,REC-724380,11601,carrs noir noisette,côte d'or,200,belgique,2024-12-13,1
+1644,REC-825001,8891,caramel feinherb,unknown,100,australia,2025-02-09,1
+1645,REC-377355,14141,petits coeurs chococroc,lu,90,france,2024-07-05,15
+1646,REC-722753,5763,croquant miel ssame,unknown,162,francia,2024-12-11,18
+1647,REC-934813,6408,biscuit moelleux pomme saveur framboise,gerblé,138,france,2024-05-09,13
+1648,REC-631616,9824,petit muffins,bonne maman,235,france,2024-05-28,22
+1649,REC-228167,5689,cookies nougatine  g,chabrior,200,france,2024-10-24,2
+1650,REC-483798,12116,tubo sticks  bretzels,bouton d'or,300,france,2025-02-22,3
+1651,REC-272517,5737,tuiles got crme et oignon bote de g,u,170,france,2024-10-12,21
+1652,REC-123614,11404,cleri rmoulade  la moutarde  lancienne,pierre martinet,300,france,2025-08-29,7
+1653,REC-156736,13402,la gourmande,intersnack,120,france,2024-07-02,7
+1654,REC-658399,6968,tartines craquantes bio cacao,ekibio,160,belgium,2025-08-16,5
+1655,REC-919466,10133,chocolat noir  bio,kaoka,100,france,2025-08-17,18
+1656,REC-107465,6265,petitbeurre bio,bio village,150,france,2025-07-14,12
+1657,REC-860847,14432,speculoos sans sucres,karéléa,250,france,2024-06-07,2
+1658,REC-659596,6768,gaufrettes chocolat,jardin bio,200,france,2024-04-09,18
+1659,REC-323342,11321,kitkat  fingers barre au chocolat au lait,nestlé,41,france,2024-06-20,12
+1660,REC-167820,12390,mr tom peanuts in caramel,mr. tom,40,francia,2026-01-17,24
+1661,REC-938275,13212,mms erdnuss,m&m's,220,france,2024-06-17,12
+1662,REC-923677,8000,butter broiche rolls,tesco,256,france,2025-01-10,4
+1663,REC-447844,10815,speculoos original format familial,lotus,750,united kingdom,2025-10-08,10
+1664,REC-456435,12920,mms biscuit,m&m's,198,france,2024-12-26,23
+1665,REC-586240,7023,chocolat villars noir  sans sucre ajout g,villars,100,france,2024-07-11,2
+1666,REC-540364,12641,chocolat noir pour prparation ptissire,nestlé,205,belgique,2024-11-11,12
+1667,REC-164984,13783,granola cur extra moelleux chocolat,granola,312,france,2026-01-19,17
+1668,REC-104497,10449,happy cow,milka,100,austria,2025-11-01,8
+1669,REC-345618,11285,barritas con protenas sabor coco y chocolate,enervit,120,francia,2024-11-14,23
+1670,REC-976212,12982,grand italia pesto alla genovese,grand' italia,185,belgium,2024-06-26,6
+1671,REC-503614,7543,cracker integrali,unknown,500,france,2025-03-11,12
+1672,REC-931430,11719,peak fish crackers g,gullón,250,francia,2025-05-26,24
+1673,REC-677236,8127,mary trini,excelo,300,france,2024-10-17,15
+1674,REC-424351,13391,crunchy toffee popcorn,butterkist,170,france,2025-01-07,12
+1675,REC-976121,10888,brioche tresse aux perles de sucre,unknown,450,france,2024-05-04,22
+1676,REC-140088,6229,dark chocolate nut,be kind protein,50,finland,2025-12-03,6
+1677,REC-156633,14488,kanel gifflar,pågen,300,denmark,2024-09-02,8
+1678,REC-304894,14217,biscuits charcuterie chorizo,michel et augustin,90,france,2024-07-13,3
+1679,REC-108252,7792,nut bar cashew pumpkin raisin,2 keep natural bites,3,france,2024-05-29,18
+1680,REC-361896,13440,caramelised biscuits,unknown,250,united kingdom,2024-09-29,17
+1681,REC-219709,6125,cuor di mela mulino bianco,mulino bianco,300,italia,2025-08-19,15
+1682,REC-487590,8703,petit beurre,bé,300,morocco,2025-11-29,1
+1683,REC-869438,8820,biscuits  lavoine complte et aux ppites chocolat bio g,u,130,france,2024-09-14,21
+1684,REC-291132,6561,citron mlisse,ricola,52,france,2024-11-21,10
+1685,REC-310269,12291,curly donut,vico,160,fr,2024-10-20,22
+1686,REC-988097,9048,nutella biscuits,nutella,207,francia,2024-12-28,5
+1687,REC-659979,8038,ses,aldi,125,deutschland,2024-07-02,8
+1688,REC-649280,5245,crunchy peanut butter,clif bar,68,france,2025-08-05,1
+1689,REC-254398,6320,brioche muffin bio x  g blg,la boulangère,250,france,2024-05-07,2
+1690,REC-225569,5090,smooth milk,galaxy,100,united kingdom,2025-02-25,12
+1691,REC-729133,11616,barre cranberry,raw bar,3,france,2024-03-07,12
+1692,REC-953041,14483,raw bar salted caramel flavour,unknown,3,netherlands,2025-03-11,7
+1693,REC-275994,12852,cigarettes russes,delacre,230,france,2025-04-24,12
+1694,REC-466325,9066,original popcorn,skinnypop,18,france,2024-06-22,12
+1695,REC-156725,9388,bolachas recheadas framboesa,sondey,300,france,2024-12-01,2
+1696,REC-880936,9674,edelrahmganzemandel,fin carré,200,francia,2025-02-27,17
+1697,REC-971006,5414,salsa mexicana style spicy dip,unknown,315,união europeia,2025-12-15,12
+1698,REC-187810,5476,chocolat noir,fin carré,2,belgique,2024-10-24,7
+1699,REC-816720,6080,taboul au poulet,saladinettes,500,france,2024-10-18,8
+1700,REC-726190,5795,cookies trois chocolats,sondey,200,frankreich,2024-08-09,20
+1701,REC-979947,6641,bio knckebrot,grafschafter,200,frança,2024-02-23,23
+1702,REC-362815,10145,milk chocolate lidl,unknown,12,france,2025-11-30,5
+1703,REC-542248,10441,mikado chocolat noir,lu,75,belgium,2025-06-01,12
+1704,REC-140403,7804,crme caramel,nestlé,400,france,2025-06-27,20
+1705,REC-103766,8581,extra velout blanc,unknown,100,australia,2024-04-19,22
+1706,REC-603717,10188,biscuits got chocolat,bn,590,france,2025-04-16,15
+1707,REC-775875,5503,haricots happy life,haribo,275,belgium,2025-07-01,15
+1708,REC-368603,7270,lays ds bugles got nature format familial,lays,150,france,2024-07-03,7
+1709,REC-459837,5466,gerbl sans sucres gnoise chocolat saveur framboise,gerblé,140,france,2025-06-22,4
+1710,REC-185395,12017,galletas de arroz inflado rellenas de chocolate y avellana,carrefour bio,6,belgique,2025-10-24,18
+1711,REC-722702,7352,vitality figue,carrefour,200,france,2025-07-05,11
+1712,REC-156182,14156,crackers emmental et graines de courge x  bio,chabrior,200,france,2024-03-02,9
+1713,REC-898285,7317,les palets recette  la madeleine,carrefour,125,belgium,2025-04-20,2
+1714,REC-788835,10520,bizcocho con fruta,carrefour,300,france,2024-04-16,20
+1715,REC-306066,12047,cuillers  ptisserie aux ufs frais,marque repère,300,france,2024-04-20,19
+1716,REC-979302,6302,crackers peautres  graines,bio village,200,france,2024-09-04,6
+1717,REC-554475,12913,chocolat lait commerce quitable,ethiquable,100,france,2024-06-11,15
+1718,REC-697206,5837,chocolat lait nature tendre et fondant,ethiquable,100,france,2025-01-14,1
+1719,REC-533513,14506,lotto classic snack,best foods,80,france,2024-11-18,15
+1720,REC-567009,7480,halbbitter,ritter sport,100,österreich,2025-11-13,11
+1721,REC-567580,8617,milka noisette,milka,100,austria,2024-07-25,14
+1722,REC-545790,5940,fromage emmental  graines de courges,dr. karg's,200,france,2024-04-12,18
+1723,REC-570729,14209,balisto fruits des bois x,balisto,185,france,2024-07-17,4
+1724,REC-633408,5812,digestives dark chocolate,mcvitie's,266,france,2024-09-17,10
+1725,REC-686110,14796,mango  chilli chutney poppadoms,walkers,82,france,2025-07-07,12
+1726,REC-225043,10065,cashew cookie fruit  nut bar,nakd,35,royaume-uni,2025-02-01,21
+1727,REC-210223,11335,pure fruit yoyo raspberry,bear,20,czech republic,2024-08-09,3
+1728,REC-652519,12167,ambassadeur,bimo,100,algérie,2024-10-13,13
+1729,REC-633648,6875,g ricola alpin fresh,ricola,50,france,2024-12-22,20
+1730,REC-312716,5536,calendrier de lavent au chocolat,unknown,184,france,2025-01-16,10
+1731,REC-575359,12614,mini,chips ahoy!,160,francia,2024-02-22,11
+1732,REC-620872,9342,huesitos original,valor,10,francia,2025-01-11,5
+1733,REC-679794,6751,canadian maple syrup,nature valley,40,united-kingdom,2024-10-22,12
+1734,REC-341686,8799,tortas de aceite,inés rosales,180,españa,2025-10-18,11
+1735,REC-527915,8239,cheetos big chipito saveur fromage,cheetos,100,france,2025-02-12,9
+1736,REC-255561,12611,freshmint,frezzh,50,france,2025-12-07,4
+1737,REC-753335,10200,pop corn sweet,butterkist,100,united kingdom,2025-07-30,19
+1738,REC-361794,7041,g poulain pralinoise,unknown,180,france,2024-06-07,14
+1739,REC-225051,9130,patatas fritas,leader chips,100,morocco,2024-08-11,18
+1740,REC-478830,7211,mentos pure fresh,mentos,30,france,2024-02-26,7
+1741,REC-573586,11267,moser roth chocolate,moser roth,5,gb,2025-11-04,13
+1742,REC-152690,9291,sweet sriracha chilli lentil chips,proper,85,verenigd koninkrijk,2024-04-06,22
+1743,REC-773512,5099,,златна добруджа,250,bulgaria,2024-05-06,12
+1744,REC-284541,12098,nestle latelier tablette chocolat noir myrtilles amandes  g,nestlé,170,france,2025-06-23,21
+1745,REC-102364,12622,petits beurre,jardin bio,150,france,2026-01-02,4
+1746,REC-763991,13830,peanut butter dark chocolate,be kind,40,finland,2024-05-15,8
+1747,REC-634524,6875,wheat thins  whole grain,mondelez,8,united states,2026-01-28,11
+1748,REC-965546,12125,biscuits fourrs got chocolat au lait,bn,285,france,2025-05-04,7
+1749,REC-485266,11353,corn thins,sainsburys,180,united states,2025-09-20,15
+1750,REC-183187,10686,sour cream  chive flavour rice and corn snack,snack a jacks,5,gb,2025-03-06,9
+1751,REC-115792,10227,le petiy biscotte crunchy cinnamon and brown sugar biscuits,lu,200,gb,2024-10-09,12
+1752,REC-974262,10923,biscuits fourrs  la noisettes et cacao sans sucre,gerblé,180,fr,2025-10-31,24
+1753,REC-258516,7471,chocolate negro,nestlé,115,spain,2024-02-08,19
+1754,REC-603778,10415,mint,skinny whip,5,ireland,2025-01-27,6
+1755,REC-896377,8111,manomasa,manomasa,140,ireland,2025-05-10,24
+1756,REC-275442,11970,lively lemon oat boosts,graze,50,gb,2025-10-25,21
+1757,REC-478281,7753,bourbon,britannia,60,india,2025-01-14,1
+1758,REC-729722,12587,sour shox,unknown,140,united kingdom,2024-06-01,21
+1759,REC-227428,11032,pick up original,pick up!,140,united kingdom,2025-01-09,19
+1760,REC-909357,7507,marb dorada  azcares aadidos,artiach,400,marruecos,2024-03-20,21
+1761,REC-818715,5326,cookies chocolat noir,céliane,150,frankreich,2024-03-31,12
+1762,REC-905023,9008,shortbread highlanders,walkers,200,france,2024-11-18,13
+1763,REC-505546,14834,ritz crackers the original,mondelez international,13,united states,2024-06-04,15
+1764,REC-224219,5041,panda liquorice,panda,32,france,2024-12-27,6
+1765,REC-863013,10937,cookies aux ppites de chocolat,unknown,200,france,2024-10-17,3
+1766,REC-920009,5794,bnnuts twinuts original,unknown,150,france,2024-05-23,20
+1767,REC-412474,12679,cocottes chocolat et graines bio,st michel,140,france,2024-07-12,11
+1768,REC-777724,14715,madeleines moelleuses,st michel,250,france,2025-06-14,23
+1769,REC-387941,5781,galettes au bon beurre,st michel,208,france,2024-05-10,21
+1770,REC-384511,5290,mini brioches tresses,harris,210,france,2024-09-03,9
+1771,REC-268081,11735,crackers espelta  semillas,carrefour bio,200,france,2024-05-17,12
+1772,REC-940034,12487,coleslaw,monique ranou,300,france,2024-08-28,7
+1773,REC-757456,13566,gaufres fourrage au miel  bio,chabrior,175,france,2025-11-27,7
+1774,REC-409619,9761,cookies tout chocolat,carrefour,200,belgium,2026-01-31,18
+1775,REC-439800,6255,noir noisettes entieres,carrefour extra,200,belgium,2025-06-30,14
+1776,REC-908156,12165,sabls au deux crales chocolat lait,carrefour bio,160,france,2025-08-24,22
+1777,REC-479940,14012,dli matin,marque repère,600,france,2024-06-06,5
+1778,REC-995175,13989,croquettes de poisson msc ail et fines herbes,findus,300,france,2024-09-22,5
+1779,REC-713914,10633,poulain noir extra,poulain,300,france,2026-01-14,8
+1780,REC-715226,6213,fine et gourmande lait franais,fine gourmande,100,france,2025-09-11,16
+1781,REC-600120,14522,pain lait bio nature x g,bien,280,france,2024-06-24,22
+1782,REC-336168,11609,chocolat noir extra,ethiquable,100,france,2025-10-16,17
+1783,REC-635877,11796,tablette de chocolat  de cacao,grain de sail,100,france,2024-07-15,13
+1784,REC-793869,13117,corny schokobanane  msliriegel,corny,150,austria,2025-09-06,11
+1785,REC-729454,5907,ses,bahlsen,250,france,2024-02-20,3
+1786,REC-795417,10431,cream crackers,barber,300,france,2025-05-06,6
+1787,REC-991261,13519,menier swiss dark chocolate,menier,100,france,2024-03-07,13
+1788,REC-593710,5324,centwafers,lu,45,belgium,2024-10-06,15
+1789,REC-807443,8334,pims fraise touche de fraise des bois,lu,150,france,2025-07-08,12
+1790,REC-881762,5157,sans gluten et sans lactose,unknown,240,belgium,2024-05-02,1
+1791,REC-735262,5718,toblerone,toblerone,360,france,2025-12-14,16
+1792,REC-335006,11415,barre chocolate kinder bueno chocolat au lait,ferrero,215,france,2026-01-11,16
+1793,REC-235171,13348,bonbons tic tac x pastilles menthe extra frache  g,ferrero,54,france,2024-04-27,5
+1794,REC-126795,9570,plazma,bambi,7,serbien,2024-05-15,23
+1795,REC-182506,12279,salted caramel bar,nakd,140,belgië,2024-03-07,3
+1796,REC-947426,14139,spcial matin sarrasin fibre,ekibio,230,belgium,2024-02-06,1
+1797,REC-624868,12311,galbusera frollino vitagi alcalinizzante,galbusera,300,italia,2024-05-21,15
+1798,REC-340816,9476,kitkat chunky,nestlé,4,gb,2025-07-08,12
+1799,REC-575916,14969,frita saveur paprika,frita,15,morocco,2025-06-28,7
+1800,REC-273523,7790,chips saveur sauce pommes frites,brets,125,france,2024-10-18,18
+1801,REC-635011,10128,wortsits giants really cheesy,walkers,130,united kingdom,2026-02-03,1
+1802,REC-151480,7036,pomme,marque repère,200,france,2025-09-26,22
+1803,REC-540709,10615,french fries  ready salted,walkers,21,united kingdom,2025-09-19,18
+1804,REC-299690,11554,gullon zero wafer vanilla,gullón,60,spain,2024-09-13,13
+1805,REC-478544,11024,carrot cake soft oaty bars,unknown,6,gb,2026-01-09,7
+1806,REC-165693,10054,kiddylicious cheesy straws  saveur fromage  g xg,kiddylicious,48,gb,2024-11-22,9
+1807,REC-470114,13424,mozart kugeln,j.d. gross,200,france,2025-11-03,18
+1808,REC-623255,10622,chocolate con leche,trapa,80,marruecos,2024-10-26,15
+1809,REC-978198,6480,ready salted crisps,tesco,6,france,2025-02-06,7
+1810,REC-400651,12060,doritos,doritos,280,france,2024-02-07,7
+1811,REC-508622,12636,chocolate orange oat biscuits,nairn's,200,united kingdom,2025-03-29,15
+1812,REC-631780,7582,milka chips ahoy chocolate,unknown,100,morocco,2024-08-27,21
+1813,REC-639918,8138,crunchy,nature valley,42,francia,2025-10-10,12
+1814,REC-598647,7321,loriginal fingers,cadbury,138,france,2024-10-31,8
+1815,REC-795928,14428,haferkraft zero  kakao erpack,corny,140,deutschland,2025-10-07,6
+1816,REC-995010,7877,chipsfrisch peperoni,funny-frisch,150,germany,2025-06-18,14
+1817,REC-864408,13792,la pause chocolat,bonne maman,6,fr,2024-05-05,12
+1818,REC-560140,12615,snacks popps lentilles pois casss et quinoa,u,70,france,2024-11-02,21
+1819,REC-861436,9046,drumstick squashies,swizzels,140,united kingdom,2024-07-23,4
+1820,REC-529810,7037,pringles hot cheese,pringles,160,france,2025-05-10,22
+1821,REC-567924,10587,original,cheez-it,12,united states,2024-03-06,22
+1822,REC-378832,13699,pringles original,pringles,100,bolivia,2025-09-27,3
+1823,REC-183489,9121,tartines craquantes riz et quinoa,bisson,190,belgium,2024-07-21,20
+1824,REC-437363,6575,la cerise,lidl,165,france,2024-06-19,13
+1825,REC-495254,6484,cachou,lajaunie,6,france,2024-12-22,1
+1826,REC-489036,10106,ppito ppites,lu,300,france,2025-11-17,18
+1827,REC-925128,5609,bledina mon premier boudoir,unknown,120,france,2025-11-15,19
+1828,REC-559723,13477,macedoine de legumes g,unknown,320,france,2025-08-18,6
+1829,REC-736521,12518,biscuit quinoa cacao,gerblé,132,france,2025-04-15,24
+1830,REC-488195,11903,galette riz chocolat noir,gerblé,130,france,2024-09-27,14
+1831,REC-658131,6086,bonne maman  mini marble cake chocolat,bonne maman,300,francia,2024-12-14,10
+1832,REC-195641,11606,fourrs ronds chocolat g crok  ptits prods,chabrior,300,france,2025-05-12,3
+1833,REC-477705,7824,pains au lait x  g,u,350,france,2024-11-10,13
+1834,REC-877616,8981,quatrequarts,ker cadélac,200,france,2025-04-12,22
+1835,REC-262652,7060,ker cadlac  madeleines maxi chocolate chips,unknown,600,francia,2024-11-18,6
+1836,REC-256300,13336,ptales,carrefour,75,belgique,2026-01-29,3
+1837,REC-913748,13782,authentique noir bio,moulin des moines,100,france,2024-07-10,14
+1838,REC-440765,10116,feigen crackers,le pain des fleurs,150,belgium,2024-10-02,18
+1839,REC-722425,14944,classic,carrefour,175,france,2024-07-21,20
+1840,REC-183626,14133,brioche tranche nature,marque repère,500,france,2025-04-28,6
+1841,REC-407949,14581,brioche tranche,marque repère,700,france,2024-05-23,21
+1842,REC-466071,12730,goms,gom's,265,france,2024-05-20,2
+1843,REC-301004,13796,chocolat lait forte teneur cacao,madagascar,100,france,2024-03-13,11
+1844,REC-516482,5538,petits beurre comt et poivre noir de madagascar,michel et augustin,100,france,2024-08-31,12
+1845,REC-613650,7142,finest selection mandel knusper vielfalt,merci,250,österreich,2024-03-27,24
+1846,REC-676237,9441,green plantain chips salted,unknown,85,united kingdom,2024-10-04,13
+1847,REC-312129,9887,barres extra kelloggs choco amandes  xg,kellogg's,128,belgium,2025-05-10,14
+1848,REC-716505,10599,elephant pretzels with salt,elephant,80,croatie,2024-08-31,12
+1849,REC-872039,6811,bonbons suisses aux plantes menthol sans sucres,ricola,70,france,2025-04-06,1
+1850,REC-302299,11929,ferrero rocher fines gaufrettes enrobees de chocolat au lait et noisettes avec noisette entiere pyramide de  pieces,ferrero,350,francia,2024-08-02,8
+1851,REC-372150,11789,bonbons tic tac  pastilles menthe extra fraiche  g,ferrero,49,france,2025-06-29,5
+1852,REC-975801,8497,original,mondelez international,10,austria,2025-04-28,2
+1853,REC-928383,6613,pandorino cacao,dulcesol,45,france,2024-07-19,5
+1854,REC-925825,13659,sandwich sabor yogurt con avena y frutos rojos,gullón,220,españa,2024-03-12,15
+1855,REC-717195,5271,cacahuetes chocolate negro,casa pons,250,españa,2024-12-28,12
+1856,REC-672633,5847,hint of salt,nabisco-triscuit,240,france,2024-08-22,14
+1857,REC-507312,7577,baked squeezed pretzels,elephant,1,germany,2025-11-01,12
+1858,REC-201468,14892,whole grain super seeded cracker,nairn's,137,france,2026-01-05,18
+1859,REC-405699,11208,chicles,mentos,30,france,2025-06-25,3
+1860,REC-188836,10229,wafers chocolate  azcares,florbú,160,chile,2024-07-04,20
+1861,REC-574499,14190,prawn crackers,asia green garden,100,germany,2025-09-18,23
+1862,REC-446034,14284,prosport  barre cacahutes et caramel sal,eat natural,3,fr,2024-05-12,7
+1863,REC-511807,12459,les ptits curieux barres cookies choco noisettes,bjorg,140,france,2024-06-13,23
+1864,REC-455222,10484,encas quilibr,gerlinéa,93,france,2026-02-02,23
+1865,REC-533248,12515,la madeleine cur framboise,bonne maman,300,france,2025-12-05,13
+1866,REC-796087,7177,lightly salted tortilla chips,everyday essentials,200,united kingdom,2025-10-19,5
+1867,REC-873749,13441,galette moelleuse chocolat au lait,st michel,180,france,2025-02-24,8
+1868,REC-191071,5479,abbracci,barilla,350,france,2024-05-10,2
+1869,REC-327209,6442,noir  noisettes et amandes caramlises,côte d'or,100,france,2025-02-15,23
+1870,REC-815047,6745,savane max barr,brossard,210,fr,2025-07-29,24
+1871,REC-238702,11191,mccoys ridge cut  salt  malt vinegar flavour potato crisps,mccoy's,45,united kingdom,2024-02-27,19
+1872,REC-411415,8156,biscuit pavot got passion,bjorg,130,france,2025-01-12,3
+1873,REC-361998,11067,parleg gold g,parle,50,india,2025-10-25,18
+1874,REC-996928,7996,chocolate negro,hacendado,150,marruecos,2025-09-11,7
+1875,REC-721694,14794,snickers,mars,41,united kingdom,2025-09-24,17
+1876,REC-743959,7002,gaufres au miel,carrefour,175,france,2024-07-29,16
+1877,REC-457749,6480,les ptites madeleines nature,ker cadélac,412,france,2024-05-11,12
+1878,REC-972201,8408,coop shortbread fingers g,coop,20,united kingdom,2024-09-23,21
+1879,REC-496506,10963,roasted and salted peanuts,alesto,400,united kingdom,2024-07-08,6
+1880,REC-475535,6431,pop corn sucre de canne,vico,240,france,2025-09-07,12
+1881,REC-961684,5886,orange dark chocolate,tesco finest,100,united kingdom,2024-12-15,2
+1882,REC-686191,6806,mint dark chocolate,tesco finest,100,united kingdom,2024-03-01,17
+1883,REC-460306,12728,fruit  fibre bars apple  cinnamon,unknown,3,united kingdom,2024-12-01,20
+1884,REC-822607,9112,dark chocolate corn thins  x g,unknown,130,france,2024-12-09,19
+1885,REC-989368,13822,chocolate chip shortbread,unknown,125,france,2025-11-14,12
+1886,REC-302228,6517,all butter flapjacks,marks & spencer,320,france,2024-12-07,2
+1887,REC-564580,6016,fresh stacks the original,ritz,11,united states,2024-03-07,12
+1888,REC-937044,12099,chocolate chip,clif bar,2,australia,2024-10-21,23
+1889,REC-193413,8255,mini marzipan butterstollen konfekt classic,favorina,350,france,2025-03-28,12
+1890,REC-808321,12433,popcorn sss,snack day,3,france,2024-11-23,20
+1891,REC-247138,10718,coeurs pain dpices chocolat noir,favorina,300,czech republic,2024-04-27,9
+1892,REC-250995,10686,caramel et biscuit,krüger,5,denmark,2025-05-08,22
+1893,REC-521773,7656,cookies haselnusscreme  schokolade,lidl,200,bulgaria,2025-05-13,12
+1894,REC-231322,6575,avena digestive,aurada,425,spain,2024-09-07,14
+1895,REC-987210,14765,dragibus,haribo,40,belgique,2025-10-29,1
+1896,REC-414781,9649,chips saveur barbecue,unknown,45,france,2025-07-20,7
+1897,REC-541536,12438,gerble  gluten and lactose free madeleines,gerblé,200,france,2024-12-28,24
+1898,REC-113940,5068,brownie  la franaise chocolat,st michel,240,francia,2024-07-17,13
+1899,REC-719430,7265,lunettes myrtille,bjorg,200,france,2025-05-06,21
+1900,REC-643869,8398,sabl amande saveur citron g bio,chabrior,200,france,2025-04-17,17
+1901,REC-749970,5317,tablette dgustation chocolat noir   g,ivoria,100,france,2025-08-01,23
+1902,REC-667097,6763,formule zen,unknown,200,france,2024-03-10,14
+1903,REC-914857,8338,daco bello formule detente,daco bello,200,france,2025-08-25,11
+1904,REC-790494,13116,les sabls,unknown,125,canada,2024-11-23,13
+1905,REC-485273,6330,tuiles got paprika,cmi (carrefour marchandises internationales),170,france,2025-05-23,18
+1906,REC-156999,12187,petit beurre original,unknown,200,belgium,2025-07-17,12
+1907,REC-168209,14384,chocolat noir,carrefour,126,france,2025-09-13,20
+1908,REC-989599,11611,carottes rpes,marque repère,500,france,2024-07-28,17
+1909,REC-157816,6343,dli matin ppites de chocolat,marque repère,600,france,2024-06-22,21
+1910,REC-547082,5111,biscuits tablette chocolat au lait,bio village,150,france,2025-08-04,17
+1911,REC-120009,12157,tortillas nature,jardin bio,125,france,2024-02-06,15
+1912,REC-167326,10092,mendiant de luxe,seeberger,400,france,2025-04-04,12
+1913,REC-477500,11534,kinder chocolate,kinder,150,česko,2025-04-28,12
+1914,REC-511376,7896,werthers original,storck,135,denmark,2026-01-13,9
+1915,REC-617539,14898,rich tea biscuit,tesco,300,france,2024-09-06,12
+1916,REC-562355,8788,days bake rolls pizza g,7 days,80,румъния,2024-04-10,17
+1917,REC-430013,9722,lotus biscoff speculoos original  g xg,biscoff,375,francia,2026-01-03,5
+1918,REC-447694,12129,kitkat,unknown,48,france,2025-04-21,15
+1919,REC-807074,12989,netsle chocolat noir  cacao,nestlé,125,marruecos,2025-03-21,23
+1920,REC-704083,13572,ppito chocolat au lait,lu,192,france,2024-05-19,11
+1921,REC-798949,8256,noir pistaches caramlises,côte d'or,180,belgique,2025-02-01,24
+1922,REC-553265,7504,colazione pi con  cereali,kinder,290,france,2025-12-27,10
+1923,REC-185851,5067,lays potato chips,lay's,50,india,2024-03-22,21
+1924,REC-752993,11735,hula hoops bbq,kp snacks,6,ireland,2025-02-14,3
+1925,REC-615411,14006,sweet  salty popcorn,butterkist,100,united kingdom,2025-07-21,1
+1926,REC-507905,6466,rough oatcakes,unknown,250,france,2024-08-08,10
+1927,REC-473307,5245,milka mlecna alpin,unknown,100,румъния,2024-04-19,12
+1928,REC-215755,6706,speculoos,sondey,250,nederland,2024-06-08,24
+1929,REC-600785,12959,rich tea,belmont biscuits,300,ireland,2024-07-02,16
+1930,REC-188902,5940,organic sea salt multigrain tortilla chips,unknown,1,united states,2024-08-22,19
+1931,REC-290106,14654,knoppers,storck,25,fr,2024-09-23,19
+1932,REC-713073,12678,tartines craquantes sarrasin,jardin bio,150,france,2024-11-19,4
+1933,REC-921661,7645,mamia strawberry and apple oaty bars,aldi,6,gb,2024-03-17,3
+1934,REC-952041,6128,galaxy minstrels pouch bag,mars,125,united kingdom,2024-12-19,22
+1935,REC-880944,11162,mint,aldi,5,ireland,2025-05-08,15
+1936,REC-641406,8425,napolitain loriginal,lu,12,fr,2024-10-23,14
+1937,REC-908164,8023,salted peanuts,sainsburys,200,gb,2026-01-15,12
+1938,REC-448274,11211,eucalyptus,ricola,52,france,2025-02-11,19
+1939,REC-618421,10071,brets saveur pili pili,unknown,125,france,2025-09-09,7
+1940,REC-282857,13320,krackwheat,jacob's,230,united kingdom,2024-02-06,23
+1941,REC-874480,11166,vegetables carottes,carrefour,100,france,2024-05-29,14
+1942,REC-931323,5019,bbq popchips,popchips,17,united kingdom,2024-04-27,13
+1943,REC-794137,13235,parleg,parle,100,united states,2024-06-23,18
+1944,REC-468585,6950,chips nature,lay's,370,france,2025-05-20,21
+1945,REC-165913,8331,nakd protein  caramel   barres protines  g de protines vgtales   dingrdients naturels  sans sucres ajouts   x g  g,nakd,135,united kingdom,2025-09-03,13
+1946,REC-461493,5977,grnohr hase vegan,katjes,175,germany,2026-01-11,13
+1947,REC-770021,6050,mms crispy,m&m's,187,france,2025-12-30,17
+1948,REC-733355,12789,crushed sea salt  black peppercorn crisps,walkers,150,united kingdom,2024-04-27,10
+1949,REC-689052,7623,hot kickin sour cream flavour,pringles,160,germany,2025-01-27,7
+1950,REC-979255,12872,monaco,belin,95,france,2024-06-09,12
+1951,REC-737554,6712,salted lentil chips,unknown,18,united kingdom,2024-12-31,17
+1952,REC-132519,9486,eat natural dark chocolate with cranberries and macadam,eat natural,40,united kingdom,2026-01-03,13
+1953,REC-880562,7080,percy pig,marks & spencer,170,germany,2024-07-01,14
+1954,REC-382215,10434,raisins,unknown,20,united states,2025-12-10,18
+1955,REC-499672,10033,pretzel crisps original organic,unknown,28,united states,2025-10-23,12
+1956,REC-235620,12129,no added sugar smooth dark chocolate,sainsbury's,100,france,2025-08-04,15
+1957,REC-753199,12825,botersprits,sondey,400,frankreich,2025-07-29,24
+1958,REC-477150,12037,stollen with marzipan,favorina,750,belgium,2025-11-14,6
+1959,REC-121367,6191,snack gurken,max & lena,250,frankreich,2024-11-10,11
+1960,REC-300247,5701,saveur sour cream  onion,unknown,170,france,2024-06-15,7
+1961,REC-224179,5852,mini gches,unknown,360,france,2025-11-10,18
+1962,REC-407150,10888,bio tortitas chips maiz,unknown,125,francia,2025-01-11,12
+1963,REC-522316,13035,bio crackers,grafschafter,200,república checa,2025-12-07,24
+1964,REC-523674,13062,madeleines coquilles,tante odile,400,france,2024-10-13,23
+1965,REC-762440,12750,granola gros clats de chocolat,granola,184,france,2025-02-16,20
+1966,REC-327006,5636,petit dj,gerblé,200,france,2025-11-09,16
+1967,REC-175902,5418,sabls framboise rooibos,gerblé,150,france,2024-10-27,1
+1968,REC-882686,5061,sablissime chocolat au lait,bjorg,200,france,2024-07-23,14
+1969,REC-685903,8681,petits boudoirs  biscuit aux nourrissons,babybio,120,france,2024-12-14,8
+1970,REC-769923,11560,barres crales got chocolat au lait  banane,carrefour,150,france,2024-02-11,6
+1971,REC-902446,11282,chocolate  especial postres,unknown,200,france,2024-07-22,24
+1972,REC-879088,11280,la galette bretonne pur beurre,marque repère,125,france,2025-05-31,20
+1973,REC-334114,14276,cacahutes  grilles  sales,marque repère,250,france,2025-01-28,17
+1974,REC-379510,8366,madeleines aux oeufs frais,marque repère,500,france,2024-08-31,20
+1975,REC-882102,12717,barres crales fraise,bio village,125,france,2026-01-02,17
+1976,REC-445782,14560,pain pice au miel,bio village,300,france,2024-07-09,14
+1977,REC-456394,14303,,sweet plus,160,bulgaria,2025-09-08,20
+1978,REC-181359,13011,lindt lindor melkesjokolade stick,lindt & sprüngli,38,australien,2024-03-05,19
+1979,REC-241264,5405,chipsfrisch gesalzen,funny frisch,175,francia,2024-04-01,7
+1980,REC-642279,11345,butterkeks  weniger zucker,leibniz,150,austria,2025-01-03,15
+1981,REC-100353,10141,choco leibniz,leibniz,125,bélgica,2025-10-10,5
+1982,REC-115315,11500,beef jerky original,jack link's,25,belgium,2025-07-14,16
+1983,REC-928209,12001,balisto yoberry,balisto,166,österreich,2024-09-14,14
+1984,REC-997199,12845,peanut pouch,unknown,125,france,2024-12-10,6
+1985,REC-736145,9785,pastilles mentholeucalyptus,fisherman's friend,75,france,2025-01-02,12
+1986,REC-737379,13846,eat real hummus chips tomato  basil flavour g,eat real,45,czech republic,2025-10-14,22
+1987,REC-989411,14672,limited edition black truffle  sea salt,tyrrell's,150,france,2025-07-03,16
+1988,REC-384250,8700,berry delight,nákd,35,czech republic,2025-03-24,11
+1989,REC-161663,8856,yoyos mango multipack  x,bear,5,france,2025-05-03,12
+1990,REC-521919,10674,sesame snaps,sesame snaps,30,france,2024-11-20,8
+1991,REC-734677,9295,djeuner rem,lu,3,france,2024-04-28,12
+1992,REC-957100,12896,mms peanut,m&m's,90,belgium,2025-01-12,22
+1993,REC-638980,8777,barni ciocolata,moldiez,30,france,2024-12-08,23
+1994,REC-668865,10360,petit moelleux,lu,140,france,2024-06-01,16
+1995,REC-744549,5976,cote dor noir truff,cote d\'or,190,belgique,2024-12-29,15
+1996,REC-425220,7567,raffaello gaufrettes enrobes de noix de coco fourres cube x g,confetteria raffaello,300,frankreich,2024-12-28,21
+1997,REC-332734,8122,mulino bianco abbracci biscuits au cacao et a la creme g,mulino bianco,350,belgium,2025-10-25,20
+1998,REC-361159,9772,galleta mara ligera sin sal y sin azcares aadidos,gullón,600,francia,2025-06-18,16
+1999,REC-412049,8134,galletas mini caritas con crema de cacao,unknown,329,españa,2026-01-30,17
+2000,REC-860374,6360,chocolate chip soft  chewy granola bar,kirkland signature,24,united states,2025-08-23,17
+2001,REC-531828,12730,soft bakes strawberry filled,belvita,250,france,2025-10-28,12
+2002,REC-456165,8845,fruit  nut bars protein packed,eat natural,3,france,2025-07-29,12
+2003,REC-999038,6740,choco noisette,noiseraie,300,france,2025-11-03,10
+2004,REC-555450,10633,strawberry lunchbox loaves,soreen,150,united kingdom,2025-10-13,11
+2005,REC-746318,14460,prawn crackers,tesco,60,united kingdom,2025-04-26,12
+2006,REC-480642,14880,protein arachidi  cioccolato,general mills,4,espagne,2025-11-21,11
+2007,REC-486275,10855,galleta choco negro,hacendado,150,portugal,2024-03-08,3
+2008,REC-281382,13051,sesame snaps  x,sesame snaps,120,united kingdom,2025-02-11,15
+2009,REC-982558,8943,simply salted,butterkist,180,españa,2025-09-25,12
+2010,REC-282934,5125,popcorn,snack day,300,българия,2025-08-24,6
+2011,REC-845560,7454,hanuta riegel,ferrero,34,bulgaria,2025-02-19,9
+2012,REC-670645,5190,jengibre,hacendado,350,españa,2024-04-30,4
+2013,REC-388577,13112,grain free tortilla chips,siete,5,france,2024-04-23,15
+2014,REC-543669,6893,hula hoops original,hula hoops,12,gb,2024-11-09,24
+2015,REC-666258,5509,galactic brownies with chocolate candies,mr. brownie,1,frankreich,2026-01-27,22
+2016,REC-321199,5039,baked squeezed pretzels with tomatoes and herbs,elephant,70,france,2025-06-01,21
+2017,REC-412141,13151,wasa delicate crisp rosemary g we,wasa,190,belgique,2024-11-16,11
+2018,REC-143872,10856,gifflar vanilla,pågen ab,260,france,2025-10-07,23
+2019,REC-678709,11965,taste the difference sea salt  suffolk cider vinegar potato crisps,sainsbury's,150,united kingdom,2025-10-28,6
+2020,REC-145995,12011,cream crackers,m&s,300,fr,2025-05-18,19
+2021,REC-991264,10838,dark  cacao,nestlé,120,spain,2025-11-27,3
+2022,REC-436554,9919,barres de crales fruits rouges,grainéa,126,france,2024-10-05,3
+2023,REC-996544,13375,goters bn au chocolat,bn,2,france,2024-05-06,14
+2024,REC-783197,13818,protein flapjacks smooth lemon,trek,3,united kingdom,2025-10-10,11
+2025,REC-587460,7348,peanut snaps,peanut snaps,3,fr,2025-04-21,20
+2026,REC-111609,5943,nachos,snack day,150,españa,2024-11-04,12
+2027,REC-847891,12709,les pyrnens,lindt,175,france,2024-12-30,12
+2028,REC-448171,8938,delight bar cocoa orange,alesto,50,austria,2024-05-27,15
+2029,REC-905940,13142,ricola douceur de miel,unknown,50,brazil  france,2025-07-14,24
+2030,REC-365158,11522,maple pecan almond,kind,3,gb,2025-12-20,9
+2031,REC-214249,10522,picoballa,haribo,160,deutschland,2025-01-21,24
+2032,REC-989140,5646,baked   pack,walkers,132,united kingdom,2024-05-20,17
+2033,REC-805703,7375,chipsfrisch oriental,funny-frisch,150,germany,2025-06-25,22
+2034,REC-634019,7241,organic garden crisp veggie cracker,innofoods organic/biologique,454,canada,2025-06-16,24
+2035,REC-677507,8542,misura dolcesenza biscotti integrali con cereali,misura,280,italia,2024-03-17,12
+2036,REC-217723,10807,chocolate negro  cacao con almendras,hacendado,200,marruecos,2024-11-04,12
+2037,REC-277449,6397,nestl kitkat cereal,nestle,330,morocco,2025-10-21,3
+2038,REC-419791,11740,celebrations,celebrations,600,united kingdom,2024-04-17,9
+2039,REC-666235,8949,chips saveur cheddar jalapeno,bret's,125,france,2025-09-28,12
+2040,REC-570067,11721,brunch choc chip,cadbury,5,switzerland,2025-04-01,4
+2041,REC-843900,7961,tartines crac form,gerblé,250,france,2026-01-22,8
+2042,REC-395126,13073,shortbread fingers,walker's,150,germany,2024-05-31,22
+2043,REC-662685,12107,lightly salted crispy baked veggie snacks,harvest snaps,3,united states,2024-03-31,20
+2044,REC-284912,9354,muesli bar cranberry,crownfield,200,france,2025-08-12,13
+2045,REC-621713,9414,fior di integrale,realforno,700,italia,2025-06-06,23
+2046,REC-173059,10918,weisse kokos  flakes,bellarom,200,france,2024-12-21,15
+2047,REC-396285,7768,envitas cacao,sondey,253,frankreich,2024-12-02,3
+2048,REC-298711,11802,halloween popcorn sweet,lidl,250,frankreich,2024-03-15,23
+2049,REC-157093,12802,ppito mini rouls chocolat,lu,150,france,2024-11-06,13
+2050,REC-988028,11786,mikado chocolat noir,glico,90,belgique,2024-03-27,11
+2051,REC-459068,10824,clafoutis aux cerises,la laitière,340,france,2025-03-25,19
+2052,REC-501105,10500,lulu l ourson,lu,300,france,2025-01-30,10
+2053,REC-338073,13445,barres de crales  la figue x,chabrior,126,france,2024-10-10,19
+2054,REC-210575,11001,monster munch got ketchup,intersnack,85,belgië,2024-07-25,12
+2055,REC-393812,10296,curly cacahute loriginal  format party  g,vico,230,france,2025-05-16,22
+2056,REC-314581,13038,gche tranche pur beurre g,u,450,france,2025-01-17,4
+2057,REC-533494,5855,tartines craquantes bio au mas,le pain des fleurs,150,france,2024-07-09,9
+2058,REC-145627,11864,sables noix de coco et citron,jardin bio,150,france,2025-11-20,19
+2059,REC-138210,6638,chips brets la craquante,brets,6,france,2025-05-12,15
+2060,REC-951202,9236,cookie avell choc,carrefour,200,france,2025-09-29,23
+2061,REC-184422,13794,grissini ssame et huile dolive,unknown,125,france,2025-05-10,7
+2062,REC-219707,5948,petits chinois,la fournée dorée,300,france,2025-09-02,2
+2063,REC-430473,7070,noir prou clats de menthe,alter eco,100,france,2025-05-06,2
+2064,REC-602146,12407,chipsfrisch oriental,funny-frisch,175,germany,2024-10-19,7
+2065,REC-738296,14481,gewrzspekulatius,unknown,600,germany,2024-11-10,13
+2066,REC-499799,5269,duplo riegel erpack,ferrero,182,frankreich,2024-08-30,19
+2067,REC-652939,11997,kinder country,unknown,23,österreich,2025-05-24,17
+2068,REC-143506,12311,custard creams,tesco,400,united kingdom,2025-11-28,12
+2069,REC-240164,13307,cheddar twists,waitrose,125,united kingdom,2025-11-18,17
+2070,REC-392815,11000,twirl,cadbury,43,france,2025-08-30,22
+2071,REC-276178,9475,sensations roasted chicken  thyme flavour potato crisps,walkers,150,france,2025-04-02,19
+2072,REC-824951,8040,raspberry flavour jelly,hartley's,135,frankreich,2025-06-04,12
+2073,REC-591998,6525,pringles potatoes chips ketchup,pringles,165,france,2024-12-19,15
+2074,REC-247248,7143,delicious crunchy corn,love corn,45,france,2024-03-26,4
+2075,REC-792275,7068,tuc paprika,mondelez international,100,франция,2024-12-25,14
+2076,REC-660223,13339,peppermint frisk,frisk,5,belgium,2025-01-21,1
+2077,REC-220421,7675,brino,bifa,100,algérie,2025-04-25,22
+2078,REC-788592,14849,noir aux ppites de caf,villars,100,france,2025-11-28,7
+2079,REC-517407,5532,flutes sesame g  kambly  g,kambly,125,france,2024-06-17,18
+2080,REC-994422,5573,nestle dessert pralin,unknown,170,france,2025-04-11,22
+2081,REC-669593,10342,mini granola loriginal,lu,160,france,2025-11-17,12
+2082,REC-460066,7398,petit brun extra,mondelez,150,france,2025-07-21,16
+2083,REC-216006,13706,assortiment lindor,lindt,337,france,2025-04-02,13
+2084,REC-166251,14433,ottimini integrali,divella,400,bolivia,2025-01-14,13
+2085,REC-818110,7794,creme tropical,gullón,800,francia,2024-04-05,12
+2086,REC-298053,11287,breakfast  cereales chocolate,florbú,340,francia,2025-11-24,12
+2087,REC-541805,5134,pop corn doux,unknown,3,belgien,2025-04-17,5
+2088,REC-465416,14021,lays rs,pepsico,55,inde,2025-10-14,6
+2089,REC-867336,6131,organic roasted seaweed snack,kirkland signature,17,france,2025-11-01,11
+2090,REC-449478,13283,harvest cheddar,sun chips,7,bolivia,2025-09-14,12
+2091,REC-708196,7002,financiers aux amandes bio,sondey,150,france,2025-04-12,23
+2092,REC-408045,13999,palomitas saladas,snack day,3,spanien,2025-08-12,22
+2093,REC-554812,6814,chocolate salted caramel flavour vitamin  protein bar,fulfil,40,spanien,2025-08-15,22
+2094,REC-763961,14136,intenso  noir,trapa,175,spain,2024-10-22,18
+2095,REC-729724,10659,salt  malt vinegar crisps,mccoy's,25,united kingdom,2025-06-21,9
+2096,REC-758474,14045,magretti,galbusera,350,italy,2024-02-09,1
+2097,REC-695786,5697,g tirlibibi box haribo,haribo,750,france,2024-12-09,13
+2098,REC-477809,14274,fibra  trigo,unknown,185,españa,2025-08-24,19
+2099,REC-412522,8736,schr curvies bbq,schar,170,spain,2025-06-27,9
+2100,REC-161920,10904,kumato,trader joe's,255,jersey,2025-11-18,5
+2101,REC-779176,6456,chocolat noir,u,100,france,2024-05-07,5
+2102,REC-454097,11870,saltletts pausen cracker,lorenz,100,deutschland,2025-03-18,18
+2103,REC-980366,12570,sabls crales graines chia et lin,bisson,200,france,2024-02-27,10
+2104,REC-269782,8183,finn crisp snacks,finn crisp,150,germany,2024-08-22,15
+2105,REC-964890,9642,schoko reiswaffeln zartbitter,alnatura,100,frankreich,2025-10-27,6
+2106,REC-223639,12649,edel bitter    cacao nibs,vivani,80,frankreich,2025-05-18,4
+2107,REC-400054,13052,mature cheddar  red onion hand cooked crisps,dettol,150,gb,2025-12-27,18
+2108,REC-163281,13063,gche tranchre bio,la fournée dorée,400,france,2025-04-05,14
+2109,REC-891050,6111,barquillos avellana,hacendado,250,portugal,2026-01-19,6
+2110,REC-303621,14397,schiaccianoci,mulino bianco,300,italia,2025-06-17,5
+2111,REC-880363,11730,xxl erdnsse,alesto,1000,франция,2025-08-18,14
+2112,REC-208751,10348,original,ruffles,160,portugal,2025-09-17,12
+2113,REC-458123,9366,mini fourrs cur chocolat,unknown,14,france,2024-07-17,19
+2114,REC-540614,5620,chocolate negro,fin carré,100,bulgaria,2025-05-02,22
+2115,REC-659085,10195,chocolat noir  cacao sel rose de lhimalaya,lindt,100,france,2024-03-23,16
+2116,REC-885652,6890,la madeleine coeur myrtille,bonne maman,300,france,2024-12-31,24
+2117,REC-179889,13249,madeleines moelleuses,st michel,250,france,2025-12-23,6
+2118,REC-970041,7560,linsenwaffeln,alnatura,100,france,2025-03-10,12
+2119,REC-577925,7238,pain lait bio far complet x g,bien,280,france,2026-01-22,17
+2120,REC-411404,14652,barre protein graines  fruits rouges,carrefour,128,france,2025-09-20,2
+2121,REC-744427,9260,settembrini mb g,barilla,300,italy,2025-01-02,17
+2122,REC-635067,14627,filipinos chocolate blanco,artiach,128,finlandia,2025-11-22,4
+2123,REC-385425,11014,high protein cookie,lidl,45,france,2025-12-04,13
+2124,REC-754925,8813,savane max de sensations,brossard,7,france,2024-09-14,16
+2125,REC-633137,5262,crackers,ritz crackers,200,france,2024-04-01,10
+2126,REC-175400,5259,leibniz butterkeks  kakao,bahlsen,200,germany,2025-04-09,12
+2127,REC-136094,14252,lightly salted rice crackers,asia specialities,100,united kingdom,2025-10-10,20
+2128,REC-133355,11290,hazelnut,deliciously ella,50,gb,2024-12-21,6
+2129,REC-546449,5548,salt and peppers cashews,alesto,150,gb,2025-09-21,16
+2130,REC-723263,12478,mms,m&m's,600,france,2025-08-12,2
+2131,REC-709572,9141,xg maitre chocolatier lait,lindt,300,france,2024-10-05,13
+2132,REC-331239,6608,vollmilchschokolade erdnsse,choco moment,260,france,2025-10-31,11
+2133,REC-961804,7275,fourrs cacao,biocoop,300,france,2025-02-24,8
+2134,REC-686523,6610,roasted almond trail mix bar,deliciously ella,40,united kingdom,2025-02-01,18
+2135,REC-866328,6942,choco sensations,milka,208,france,2025-12-27,12
+2136,REC-639206,6328,flips gant peanut,mcennedy american way,450,румъния,2024-08-21,5
+2137,REC-435783,10459,wafer,sondey,280,bulgaria,2025-06-18,22
+2138,REC-577736,14336,jaffa cakes the original twin pack,mcvitie's,20,united kingdom,2025-08-08,12
+2139,REC-705069,13777,sergio,excelo,250,morocco,2025-03-18,8
+2140,REC-605683,7525,lays,lay's,97,morocco,2024-06-12,1
+2141,REC-866201,6980,chocolat noir,biocoop,90,france,2024-11-17,12
+2142,REC-771999,14873,fruit  fibre bars,nākd,44,united kingdom,2024-07-21,9
+2143,REC-106290,12528,nestl dessert  puissant g,nestlé,170,france,2024-07-20,15
+2144,REC-913871,5585,almond  apricot fruit  nut bars,eat natural,40,united kingdom,2025-07-01,21
+2145,REC-133783,9822,nooco,nooco,45,maroc,2024-04-24,19
+2146,REC-698092,6442,oatcakes,simply m&s,300,france,2025-12-16,21
+2147,REC-218515,14265,harina preparada completamente para hacer hot cakes,krusteaz,4,estados unidos,2025-08-22,10
+2148,REC-173592,7339,crunchy peanut butter,clif bar,2,australia,2026-01-02,8
+2149,REC-289718,9508,knackebrod rag,ikea,250,france,2024-12-14,21
+2150,REC-638305,12437,ginger nuts,tower gate,300,france,2025-11-25,21
+2151,REC-632474,8131,muesli bars chocolate  banana,crownfield,200,bulgaria,2024-04-04,19
+2152,REC-757695,9163,petit beurre tablette chocolat au lait,sondey,150,france,2025-10-25,14
+2153,REC-203989,13328,fior di panna,italiamo,400,france,2024-03-19,11
+2154,REC-846401,9233,tastino biscuiti petit beurre,tastino,450,hungary,2024-03-01,11
+2155,REC-412119,5972,carr laitnoisette,sondey,250,france,2024-04-17,4
+2156,REC-788245,9932,brioche zopf,maître jean pierre,600,francia,2024-05-05,11
+2157,REC-780143,9411,bio hafer cookies,sondey,200,germany,2025-12-12,16
+2158,REC-488677,9073,scottish black pepper oatcakes,lidl,250,france,2024-07-08,9
+2159,REC-658763,10868,barres amandes et noix de coco,crownfield,4,france,2025-07-25,10
+2160,REC-832545,9749,lulu la barquette framboise,lu,120,france,2025-06-07,12
+2161,REC-500367,11128,minirouls loriginal aux fraises,lu,150,france,2025-11-11,12
+2162,REC-399226,8707,savaroises chocolat,st michel,220,france,2025-03-14,7
+2163,REC-727554,6019,galak chocolat blanc,nestlé,100,france,2024-08-13,10
+2164,REC-860064,11656,lindt chocolat au lait pralin noisettes,lindt,225,algérie,2024-02-09,24
+2165,REC-376267,6562,creation lait caramel,lindt,150,france,2024-09-24,4
+2166,REC-230919,10787,apricube,apéricube,250,france,2024-05-27,12
+2167,REC-489978,10379,dragibus haribo,haribo,120,france,2025-07-31,5
+2168,REC-571445,14246,kelloggs barres frosties xg,kellogg's,150,france,2025-11-03,20
+2169,REC-788490,14747,bnnuts cacahutes grilles  sales,bénénuts,410,france,2024-02-27,7
+2170,REC-421827,11444,noix de pcan sirop drable,gerblé,132,france,2024-05-16,5
+2171,REC-217328,9093,barre figue gerbl,gerblé,150,france,2025-05-12,18
+2172,REC-134472,12963,brioche vendenne igp,carrefour,600,france,2024-04-07,7
+2173,REC-972898,12330,palets bretons pur beurre g,chabrior,125,france,2025-04-10,14
+2174,REC-737641,11717,goter fourr cacao rond bio,chabrior,185,france,2025-02-28,12
+2175,REC-549552,6600,pistache grille  sec sachet de g,u,150,france,2025-11-26,14
+2176,REC-628590,7311,tablette petit beurre au chocolat noir bio paquet de g,u,150,france,2025-01-08,7
+2177,REC-159086,11086,cookies aux ppites de chocolat  noisettes,carrefour,200,belgium,2025-05-22,23
+2178,REC-465050,11272,sable enrobe,henry's,45,france,2024-05-12,12
+2179,REC-864263,8297,tartines craquantes bio  la chtaigne sans gluten,ekibio,300,france,2025-05-13,6
+2180,REC-517078,10900,biscuits gourmands ssame vanille,karéléa,132,france,2024-06-01,7
+2181,REC-939275,9142,chips saveur cte de boeuf grille,brets,125,france,2024-04-29,24
+2182,REC-811239,9284,fleur de sel noir,carrefour,100,france,2026-01-26,12
+2183,REC-161146,14173,lait noisettes entieres,carrefour,200,france,2024-07-15,7
+2184,REC-849517,14123,cookie nougatine choco,marque repère,200,france,2024-04-01,18
+2185,REC-841623,5749,salade carottes rapes,marque repère,300,france,2025-11-19,5
+2186,REC-111595,13373,galette pur beurre,bio village,125,france,2025-03-30,21
+2187,REC-158217,13098,brioche vendenne igp,nos régions ont du talent,650,france,2024-05-24,2
+2188,REC-432711,14046,la gche,la fournée dorée,500,france,2025-12-31,6
+2189,REC-621806,7888,prparation taboul menthe citron,tipiak,350,france,2024-02-23,16
+2190,REC-339348,11295,chips au sel de lile de r,unknown,150,france,2025-02-16,12
+2191,REC-457077,11150,pombr original,intersnack deutschland se,75,germany,2026-02-02,21
+2192,REC-822199,13870,mms peanut g,mars,900,france,2024-07-06,12
+2193,REC-222553,8098,mcvities hobnobs milk choc jumbo pack,mcvitie's,431,france,2024-04-02,7
+2194,REC-692953,10273,y castell welshcakes,tan y castell,240,france,2024-02-18,23
+2195,REC-273534,8437,bake rolls salt,unknown,80,rumania,2025-08-23,4
+2196,REC-662909,13980,ricola rglisse,ricola,50,france,2024-12-10,23
+2197,REC-259895,13423,butterfly,kambly,100,france,2025-01-04,21
+2198,REC-851657,7682,original family format,oreo,308,france,2024-05-24,16
+2199,REC-766518,10337,noir  extra intense,côte d'or,100,belgium,2024-02-13,12
+2200,REC-545218,6213,napolitaner,loacker,175,germany,2025-09-20,14
+2201,REC-285060,8098,popcorn,unknown,300,belgium,2025-04-09,4
+2202,REC-935576,7840,trtchen kakaohaselnusscreme,manner,400,france,2024-04-17,21
+2203,REC-361975,8499,vitaweat  grains,arnott's,250,france,2025-11-09,5
+2204,REC-920575,7608,barres chocolat noir et pointe de sel,crownfield,4,france,2025-05-01,20
+2205,REC-358259,10068,galletas mara,hacendado,4,españa,2025-05-11,7
+2206,REC-912575,6715,salzstangen mit meersalz,sun snacks,250,deutschland,2025-11-05,2
+2207,REC-120318,8239,party rings mini,fox's,21,gb,2025-02-07,5
+2208,REC-241707,12703,choco fundir negro,hacendado,200,spain,2025-07-18,2
+2209,REC-198558,7426,gullon hearts of cereal oats chocolate,gullón,240,france,2024-09-22,19
+2210,REC-575519,5189,black pepper  sea salt crackers,rivercote,185,spain,2024-12-16,11
+2211,REC-371454,9918,jet gum sugar free,jet gum,45,alemanha,2024-09-08,8
+2212,REC-751682,8813,hot mix spicy,snacks of the world,400,france,2026-01-27,5
+2213,REC-264757,10183,hoops,unknown,8,gb,2024-06-03,10
+2214,REC-150567,7790,gerlinea moelleux,gerlinéa,138,france,2024-02-07,5
+2215,REC-237615,10247,tic tac festival,tic tac,54,france,2025-06-04,17
+2216,REC-908290,10857,peanut butter cups,reese's,42,bulgaria,2025-04-26,12
+2217,REC-985464,14032,la brioche tresse tranche,la fournée dorée,500,france,2025-12-20,1
+2218,REC-659587,9568,halfcoated milk chocolate cookies,fox's,175,united kingdom,2025-06-30,17
+2219,REC-685868,12420,patatas lays sal,lay's,160,españa,2025-06-09,11
+2220,REC-748476,11894,chips saveur barbecue,lay's,135,france,2025-07-13,1
+2221,REC-356081,11488,mes cookies bio tout chocolat,aline & olivier,180,france,2024-10-22,10
+2222,REC-473461,13116,seriously salt and vinegar crisps,walkers,45,italy,2024-10-22,7
+2223,REC-365856,5951,la madeleine pur beurre,maison colibri,250,france,2025-08-29,21
+2224,REC-270796,8802,pistachio nut mix salted,snacks of the world,200,france,2025-04-10,21
+2225,REC-339650,9960,petit biscuit avoine  framboise,chabrior,135,france,2024-07-11,13
+2226,REC-275361,12638,lentil chips,aldi,85,united kingdom,2024-11-01,22
+2227,REC-552400,14056,carrs dgustation,lindt,154,france,2025-03-30,18
+2228,REC-279683,7416,oswego,unknown,250,italia,2025-10-29,1
+2229,REC-730439,11624,prinzenrolle,debeukelar,450,de,2026-01-29,23
+2230,REC-774116,5812,dairy milk marvellous creations jelly popping candy,cadbury,160,gb,2025-12-09,4
+2231,REC-135641,5392,very cherry gourmet sweets,unknown,140,united kingdom,2024-02-14,22
+2232,REC-996610,5783,toffee,skinny whip,5,united kingdom,2024-07-06,20
+2233,REC-615993,5677,clbrations,celebrations,272,fr,2025-11-10,23
+2234,REC-361047,14287,hazelnut dark chocolate,moser roth,5,gb,2024-08-26,10
+2235,REC-324298,7406,digestives the original twin pack,mcvitie’s,2,united states,2024-09-28,12
+2236,REC-400504,13689,hafercookies,rewe bio,300,germany,2025-12-03,15
+2237,REC-567302,7934,cocoa vanilla oat boost,graze,30,gb,2024-10-15,14
+2238,REC-796546,5517,vegan bar choco amandes,nu3,50,france,2025-08-30,19
+2239,REC-618062,11734,toffifee,storck,125,ireland,2025-10-16,9
+2240,REC-332898,6814,organix soft oaty bar,organix,23,united kingdom,2024-09-04,12
+2241,REC-968572,7276,fruit splits bear,bear,100,united kingdom,2025-10-27,1
+2242,REC-332437,6869,chips  barbecue,lay's,250,france,2024-09-21,6
+2243,REC-831778,6608,sour cream  onion flavored potato crisps,pringles,5,bolivia,2024-09-16,12
+2244,REC-362584,11334,hand cooked sea salt  balsamic vinegar crisps,m&s food,150,france,2024-09-26,12
+2245,REC-572750,12422,ready salted potato sticks,marks & spencer,150,france,2024-09-18,5
+2246,REC-979324,14062,super extralarge peanuts,kirkland signature,1,france,2026-02-01,16
+2247,REC-171642,7612,almond flour crackers fine ground sea salt,simple mills,4,united states,2024-08-10,12
+2248,REC-765596,6334,puff pastry twist,lidl,150,frankrijk,2024-09-21,12
+2249,REC-592399,12848,marzipan log,favorina,175,czech republic,2024-11-20,13
+2250,REC-790191,6677,flips cacahute,unknown,200,france,2025-12-24,23
+2251,REC-132927,9233,bio biscuits tablette chocolat noir,sondey,150,france,2025-12-01,13
+2252,REC-679729,10103,feuillet dor collection lu,mondelez,125,france,2024-11-06,12
+2253,REC-906118,13035,rsille dor,lu,110,france,2025-11-16,12
+2254,REC-825430,11608,galak chocolat blanc,unknown,200,francia,2024-10-08,22
+2255,REC-992394,14265,carrs lait noisettes entires,côte d'or,200,belgium,2024-02-06,15
+2256,REC-110141,11716,fraisetagada,haribo,30,france,2025-11-03,6
+2257,REC-814143,13807,galettes mais oignon crme ciboulette,gerblé,123,france,2025-05-14,5
+2258,REC-623397,8827,mini brownie chocolat,st michel,240,france,2024-11-20,12
+2259,REC-456149,5582,sabls aux pommes,carrefour,150,france,2025-08-03,19
+2260,REC-406976,9263,nature,carrefour classic,200,france,2024-11-11,6
+2261,REC-531089,5855,petit beurre  g bio,chabrior,200,belgium,2025-10-09,7
+2262,REC-345731,7197,biscuits petit beurre bio paquet de g,u,150,france,2024-02-16,24
+2263,REC-440609,5852,pains au lait x  g,u,525,france,2024-08-06,18
+2264,REC-246026,9950,tuiles got sal paquet de g,u,170,france,2025-10-27,2
+2265,REC-214862,8725,mon cake nature,ker cadélac,800,france,2025-06-22,6
+2266,REC-910241,13356,la classique nature,unknown,6,france,2024-03-05,9
+2267,REC-139807,7796,gteau au fromage blanc,saint amour®,350,france,2024-04-15,22
+2268,REC-312449,14093,grany riz souffl  chocolat,grany,125,france,2024-10-14,12
+2269,REC-112582,13513,langues de chat,karéléa,100,france,2024-03-12,10
+2270,REC-793180,13537,dessert noir,carrefour,200,france,2024-05-11,24
+2271,REC-568240,10460,barres gourmandes,carrefour,140,belgium,2025-10-10,7
+2272,REC-201535,14441,macdoine de lgumes,marque repère,265,france,2024-12-10,12
+2273,REC-826203,10239,crackers emmental,tokapimarque repère,100,france,2024-02-05,9
+2274,REC-829592,13414,biscuits ssame,bio village,230,france,2024-07-28,22
+2275,REC-356833,12710,biscuits tablette chocolat noir,bio village,150,france,2025-12-27,11
+2276,REC-729250,6308,mini gches pur beurre  la crme frache,leclerc,360,france,2024-04-05,10
+2277,REC-134837,13279,cookies ppites de chocolat noir  cacao,biocoop,200,france,2024-10-01,9
+2278,REC-921153,6488,maxi king erpack,kinder,35,österreich,2025-04-02,11
+2279,REC-708333,8850,g chupa chups mini assosrti,chupa chups,180,france,2025-01-25,15
+2280,REC-626060,13958,quality street,nestlé,480,belgium,2024-03-20,12
+2281,REC-492308,6995,cherry bakewells,mr kipling,282,france,2025-12-23,21
+2282,REC-564450,6602,no artificial colo no artificial flavours no msg h,kp snacks,6,france,2025-10-28,7
+2283,REC-127756,10173,cheese flavour potato snacks,walkers quavers,34,francia,2025-02-07,7
+2284,REC-302532,10592,blue maize tortilla chips,mister free'd,135,france,2024-11-14,1
+2285,REC-496120,11340,mini croissants,7 days,185,bulgaria,2025-08-29,5
+2286,REC-170615,8804,barres lion,nestlé,10,france,2026-01-22,21
+2287,REC-793062,5521,nestle latelier  noir   g,unknown,100,france,2025-10-14,20
+2288,REC-139176,5726,florentin g  kambly  g,kambly,125,france,2025-09-06,8
+2289,REC-354401,7584,fruity parfum fraisecitron vert,hollywood,22,france,2025-10-10,13
+2290,REC-260135,8115,breakfast biscuits soft bakes filled choco hazelnut,belvita,250,france,2025-03-26,12
+2291,REC-610584,12333,petit djeuner moelleux coeur gourmand fraise,mondelēz,250,belgique,2025-10-17,1
+2292,REC-432333,6577,fino  negro,suchard,90,españa,2025-12-20,4
+2293,REC-476452,13339,semplicissimi cereali riso nero  porzione g,bauli,245,italia,2024-04-15,16
+2294,REC-486296,6654,mini rolls chocolate,balconi,180,mexico,2025-12-16,12
+2295,REC-700693,9581,panettone,grand frais,900,france,2024-06-29,13
+2296,REC-878452,11998,frollini con gocce di cioccolato,dolciando,700,francia,2025-12-31,16
+2297,REC-839333,7181,kinder joy boy,kinder,20,china,2024-12-15,17
+2298,REC-582152,11647,petit,rio,3,francia,2024-05-06,8
+2299,REC-268424,13019,chocolate puro con almendras enteras  azcares aadidos,unknown,150,spain,2025-09-10,18
+2300,REC-712579,8689,tortilla chips nachos,zanuy,200,francia,2024-06-18,21
+2301,REC-262443,8835,cocktail rodeo,hacendado,250,spain,2024-11-20,14
+2302,REC-300455,8033,nesquik cereal riegel,nestlé,25,france,2025-08-31,12
+2303,REC-559187,6767,crackers protin,tastino - lidl,200,france,2025-04-10,1
+2304,REC-551880,5323,raffaello,ferrero,30,francia,2024-07-26,12
+2305,REC-875951,13400,biscuit novellino lait et miel,unknown,350,italia,2025-12-25,22
+2306,REC-961341,11053,madeleines,st michel,800,france,2024-06-11,20
+2307,REC-779865,9856,salted giant pretzel,marks & spencer,150,united kingdom,2025-09-20,24
+2308,REC-450014,6889,chocolate negro  cacao con almendras enteras,hacendado,200,spain,2024-03-25,22
+2309,REC-257723,10583,squares salt  vinegar,walkers,22,guernsey,2025-08-02,10
+2310,REC-320657,6391,proper chips sea salt lentil chips,proper,20,france,2024-06-12,4
+2311,REC-836131,11880,roshen mlkchoc aerated,roshen,80,bulgaria,2025-10-15,9
+2312,REC-552094,11207,dark peru,waitrose,100,united kingdom,2025-02-12,1
+2313,REC-302852,7235,oreo white,milka,100,marruecos,2024-10-14,14
+2314,REC-252289,7969,moelleux chocolat,alsa,435,france,2024-03-14,14
+2315,REC-624477,8992,gche tranche bio,la boulangère,400,france,2025-12-30,13
+2316,REC-694905,6640,chips snack,snack day,75,frankrijk,2024-04-14,1
+2317,REC-529318,11733,happy hippo,kinder,103,france,2025-06-30,2
+2318,REC-573124,12034,mylk  vanilla,unknown,2,gb,2024-12-30,11
+2319,REC-746462,11307,caramel choc bar,nomo,38,australia,2024-09-01,21
+2320,REC-603751,12793,chicles fresa,hacendado,100,españa,2026-01-30,17
+2321,REC-453635,10969,crunchy oats  honey granola bars,harvest morn,210,ireland,2024-03-08,3
+2322,REC-704386,13365,gerble  organic oatmeal coconut cocoa cookie,gerblé,132,francia,2024-02-29,17
+2323,REC-983684,6209,pringles flame spicy bbq,pringles,160,france,2025-06-06,9
+2324,REC-626207,14494,wheat thins original,nabisco,14,united states,2025-08-21,14
+2325,REC-633149,14299,mini fourrs chocolat noir,bjorg,180,france,2025-03-23,9
+2326,REC-980566,7513,roasted garlic  extra virgin olive oil flatbread,taste-the-difference,195,united kingdom,2024-04-20,22
+2327,REC-168224,5553,gaufres aux oeufs frais au sucre glace,lotus,371,france,2025-01-14,2
+2328,REC-991801,13050,abbracci,unknown,700,it,2024-02-16,18
+2329,REC-404815,11181,sea salt  cider vinegar  activated chips,unknown,80,united kingdom,2024-08-22,13
+2330,REC-851782,9681,lays salted chips,lay's,150,germany,2025-06-09,12
+2331,REC-602163,13545,mango pure fruit wind ups,alesto,5,gb,2024-09-23,18
+2332,REC-201270,8688,recette  lancienne,lay's,168,fr,2025-01-09,15
+2333,REC-908235,5283,haribo happy cola,haribo,175,deutschland,2025-10-10,5
+2334,REC-420495,10110,raspberry porridge oat bar,stoats,1,united kingdom,2024-12-31,16
+2335,REC-409462,6155,baked salt and vinegar crisps,walkers,6,gb,2025-08-08,14
+2336,REC-453588,5631,chipsfrisch gesalzen,funny-frisch,150,germany,2025-09-13,22
+2337,REC-885621,13952,biscuits au cacao fourrs vanille,unknown,176,france,2024-05-21,22
+2338,REC-121365,9216,biscuit sabl napp  crales,biocoop,140,fr,2024-05-21,5
+2339,REC-576134,14686,pick up fourr au lait,bahlsen,168,france,2026-01-02,3
+2340,REC-421148,9013,pickup,bahlsen,168,france,2026-01-25,21
+2341,REC-556821,9312,biscuits chocolat gingembre,bjorg,130,france,2025-11-09,23
+2342,REC-197068,10831,feastables  milk chocolate,feastables,60,germany,2024-05-03,4
+2343,REC-770896,7552,extra fresh professional,wrigley‘s,1,germany,2025-07-19,6
+2344,REC-943432,7445,italian crackers made with sourdough,arden & amici,250,united kingdom,2025-11-20,23
+2345,REC-331159,11984,kyoto style mix,snacks of the world,150,austria,2024-05-29,20
+2346,REC-212441,8075,batatas fritas sabor serrano,hacendado,150,romania,2024-12-16,18
+2347,REC-512760,9669,maltesers,unknown,175,frankreich,2024-08-24,7
+2348,REC-550518,6679,mars,mars,225,germany,2025-12-07,14
+2349,REC-389931,9139,lemon  poppy seed oat bars,unknown,3,united kingdom,2026-01-03,23
+2350,REC-675515,9984,original sourdough crispbread,peter’s yard,125,united kingdom,2025-10-16,22
+2351,REC-754512,10356,carlotti  chocolate au lait,carlotti,100,morocco,2024-05-06,13
+2352,REC-364878,10701,biscuits delacre sprits chocolat au lait  g,delacre,200,france,2024-03-09,9
+2353,REC-176563,14114,extra fine dark chocolate,marks and spencer,115,france,2025-03-05,18
+2354,REC-392289,9317,tortilla strips,kirkland,48,estados unidos,2024-04-12,3
+2355,REC-349903,13556,amaretti,italiamo,200,france,2026-01-06,1
+2356,REC-701402,8537,lait raisins secs  noisettes,bellarom,200,france,2025-05-29,22
+2357,REC-861300,13977,studentenfutter exotic,unknown,200,frankreich,2025-09-03,14
+2358,REC-521956,5911,lebkuchen hearts,favorina,500,france,2026-01-11,18
+2359,REC-821942,9249,alesto cashew erdnuss mix,alesto,200,france,2024-11-15,20
+2360,REC-583796,5183,vritable petit colier pocket,lu,250,france,2024-06-14,6
+2361,REC-705522,5094,bnnuts cacahutes grilles  non sales,benenuts,200,france,2024-09-01,12
+2362,REC-775118,12949,doritos got nacho cheese,doritos,230,francia,2025-05-04,15
+2363,REC-487779,14309,sabl nature aux graines de chia,gerblé,132,france,2024-04-27,17
+2364,REC-451410,11975,tartines de pain brioch,brioche pasquier,210,france,2025-01-16,9
+2365,REC-934428,10593,chocolat noir dgustation,unknown,100,france,2024-12-02,16
+2366,REC-871555,14624,madeleines coquille individuelles,chabrior,600,france,2025-07-31,8
+2367,REC-117898,8527,sables,u,200,france,2024-10-26,12
+2368,REC-131985,5299,barres de crales figue x  g,u,126,france,2025-05-30,24
+2369,REC-971763,6257,barre de crales riz et bl complet chocolat x  g,u,126,france,2025-09-20,6
+2370,REC-220290,7805,macdoine de lgumes,carrefour,800,france,2024-07-01,15
+2371,REC-599958,7951,ptit dj  crales compltes,carrefour,400,france,2024-07-28,22
+2372,REC-263282,6216,palmiers,marque repère,100,france,2025-01-15,22
+2373,REC-349262,11477,pomlisse chips craquantes,marque repère,150,france,2024-04-20,12
+2374,REC-381337,7657,chocolat au lait,poulain,95,france,2025-02-13,5
+2375,REC-800212,11269,mon biscuit bio vanille,a&o,4,france,2024-06-11,5
+2376,REC-217549,7976,haferkraft cranberry krbiskern,schwartauer corny,4,deutschland,2025-06-26,16
+2377,REC-801549,14163,snickers x,mars,250,francia,2025-11-14,18
+2378,REC-782597,14965,barre de crales frusli fruit rouges,jordans,6,france,2024-03-10,22
+2379,REC-969890,8289,nutrigrain strawberry cereal bars imp,kellogg's,6,france,2025-11-16,3
+2380,REC-318931,11124,gently baked mango,urban fruit,35,france,2025-05-07,11
+2381,REC-516184,12070,prince pocket  biscuits fourrs parfum chocolat,lu,40,france,2024-12-09,19
+2382,REC-874761,7093,biscoff,lotus,124,australia,2025-05-22,20
+2383,REC-330782,9944,twix xtra,mars norge as,75,austria,2025-12-03,24
+2384,REC-549112,12510,lindt  milch  au lait milk,lindt,300,australia,2025-06-27,10
+2385,REC-655311,13581,les grandes,lindt,150,france,2024-10-23,1
+2386,REC-833811,14931,toblerone,toblerone,35,bolivia,2025-08-19,24
+2387,REC-906092,13589,oreo golden,unknown,500,dinamarca,2024-06-05,7
+2388,REC-903444,14907,granola brownie chocolat intense,granola,180,france,2025-07-30,19
+2389,REC-301534,8931,milka mmmax ganze haselnsse,milka,270,germany,2025-12-24,21
+2390,REC-269293,6607,milka alpenmilch schokolade,milka,270,austria,2024-05-25,21
+2391,REC-497381,11550,prince maxi gourmand,lu,250,belgium,2025-01-04,12
+2392,REC-571992,5111,choco biscuits,milka,150,canada,2024-07-09,24
+2393,REC-918760,12572,granola cookies chocolat  noisettes,granola,184,france,2024-06-29,24
+2394,REC-557321,5528,cracker tuc classico,mondelez,250,italia,2025-06-12,3
+2395,REC-834515,11654,ferrero collection,unknown,269,france,2025-03-16,8
+2396,REC-844427,11053,antica ricetta,san carlo,150,francia,2025-05-29,16
+2397,REC-236378,10559,nero nero,unknown,75,france,2024-05-09,23
+2398,REC-584619,14413,choco keks,schär,3,croatia,2025-01-22,12
+2399,REC-658055,6839,active integral gulln,unknown,840,francia,2025-12-14,4
+2400,REC-931340,13402,galletas integrales arndano  azcares aadidos,santiveri,190,españa,2026-02-02,19
+2401,REC-168071,6540,maz crujiente y tierno,hacendado,170,españa,2024-05-08,15
+2402,REC-868200,7045,sweet popcorn,tesco,110,france,2025-03-26,14
+2403,REC-958945,9639,digestives milk chocolate,unknown,433,france,2024-02-11,2
+2404,REC-568921,13985,galletas saladitas,hacendado,350,españa,2025-10-08,21
+2405,REC-738399,11535,milka oreo brownie,milka,100,morocco,2024-10-09,14
+2406,REC-796830,11134,sabls noisette chocolat,bonne maman,150,francia,2024-12-14,21
+2407,REC-774268,8212,chocolate for change dark chocolate with orange,coop,100,germany,2025-03-23,14
+2408,REC-432494,13398,lait dessert,fin carré,200,france,2025-01-03,17
+2409,REC-117507,8050,rusticotti,balocco,700,francia,2025-09-02,21
+2410,REC-692469,11809,cheddar  onion chutney rolls,higgidy,160,gb,2024-12-07,7
